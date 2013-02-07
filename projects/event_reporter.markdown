@@ -51,7 +51,7 @@ Each student should submit the "Git Read-Only" URL for their project by submitti
   * Extensions: 
 * Geoffrey Schorkopf: 
   * Extensions: 
-* Kyle Suss: 
+* Kyle Suss: https://github.com/kylesuss/event-reporter.git
   * Extensions: 
 * Logan Sears: git://github.com/Diasporism/event_reporter.git 
   * Extensions: 
