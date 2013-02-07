@@ -25,7 +25,7 @@ Each student should submit the "Git Read-Only" URL for their project by submitti
   * Extensions: 
 * James Denman: 
   * Extensions: 
-* Jennifer Eliuk: 
+* Jennifer Eliuk: git://github.com/7maples/event_reporter.git
   * Extensions: 
 * Danny Garcia: git://github.com/danny-g/event_reporter.git
   * Extensions: find is case insensitive
