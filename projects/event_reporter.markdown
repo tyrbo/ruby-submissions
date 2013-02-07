@@ -55,7 +55,7 @@ Each student should submit the "Git Read-Only" URL for their project by submitti
   * Extensions: 
 * Logan Sears: git://github.com/Diasporism/event_reporter.git 
   * Extensions: 
-* Bradley Sheehan: https://github.com/bradpsheehan/event_reporter.git
+* Bradley Sheehan: git://github.com/bradpsheehan/event_reporter.git
   * Extensions: 
 * Elaine Tai: git://github.com/lalalainexd/event-reporter.git
   * Extensions: 
