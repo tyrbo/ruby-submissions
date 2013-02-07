@@ -17,7 +17,7 @@ Each student should submit the "Git Read-Only" URL for their project by submitti
 
 * Blair Anderson:
   * Extensions: 
-* Paul Blackwell: 
+* Paul Blackwell: git://github.com/pnblackwell/event_reporter.git
   * Extensions: 
 * Phil Battos: 
   * Extensions: 
