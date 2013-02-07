@@ -15,8 +15,8 @@ Each student should submit the "Git Read-Only" URL for their project by submitti
 
 ### Student Submissions
 
-* Blair Anderson:
-  * Extensions: 
+* Blair Anderson: git://github.com/blairand/event_reporter_final.git
+  * Extensions: Improving queue print, Improving queue save to
 * Paul Blackwell: git://github.com/pnblackwell/event_reporter.git
   * Extensions: 
 * Phil Battos: 
@@ -43,14 +43,14 @@ Each student should submit the "Git Read-Only" URL for their project by submitti
   * Extensions: 
 * Daniel Mee: 
   * Extensions: 
-* Ron Rateau: 
+* Ron Rateau: git://github.com/ronra/event_reporter.git
   * Extensions: 
 * Shane Rogers: git@github.com:phoenixbox/event_reporter_final.git
   * Extensions: improved queue print
-* Laura Steadman: 
+* Laura Steadman: git://github.com/thesteady/gschool-event-reporter.git
   * Extensions: 
-* Geoffrey Schorkopf: 
-  * Extensions: 
+* Geoffrey Schorkopf: git@github.com:gschorkopf/event_reporter.git
+  * Extensions: Improving queue print, Improving find, Implementing Queue Math
 * Kyle Suss: https://github.com/kylesuss/event-reporter.git
   * Extensions: 
 * Logan Sears: git://github.com/Diasporism/event_reporter.git 
