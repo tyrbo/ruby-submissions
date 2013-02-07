@@ -39,7 +39,7 @@ Each student should submit the "Git Read-Only" URL for their project by submitti
   * Extensions: improving print, improving find 
 * Aimee Maher: git://github.com/aimzatron/event_reporter.git
   * Extensions: 
-* Josh Mejia: 
+* Josh Mejia: https://github.com/jmejia/event_reporter
   * Extensions: 
 * Daniel Mee: git://github.com/danmee10/eventreporter.git
   * Extensions: 
