@@ -61,5 +61,5 @@ Each student should submit the "Git Read-Only" URL for their project by submitti
   * Extensions: 
 * Jorge Tellez: 
   * Extensions: 
-* Raphael Weiner:
-  * Extensions: 
+* Raphael Weiner: git://github.com/raphweiner/event_reporter.git
+  * Extensions: All
