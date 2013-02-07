@@ -21,8 +21,8 @@ Each student should submit the "Git Read-Only" URL for their project by submitti
   * Extensions: 
 * Phil Battos: 
   * Extensions: 
-* Erin Drummond: 
-  * Extensions: 
+* Erin Drummond: git://github.com/ebdrummond/gschool_event_reporter.git
+  * Extensions: none
 * James Denman: 
   * Extensions: 
 * Jennifer Eliuk: 
