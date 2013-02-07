@@ -41,7 +41,7 @@ Each student should submit the "Git Read-Only" URL for their project by submitti
   * Extensions: 
 * Josh Mejia: 
   * Extensions: 
-* Daniel Mee: 
+* Daniel Mee: git://github.com/danmee10/eventreporter.git
   * Extensions: 
 * Ron Rateau: git://github.com/ronra/event_reporter.git
   * Extensions: 
