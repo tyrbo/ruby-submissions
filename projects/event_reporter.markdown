@@ -53,7 +53,7 @@ Each student should submit the "Git Read-Only" URL for their project by submitti
   * Extensions: 
 * Kyle Suss: 
   * Extensions: 
-* Logan Sears: 
+* Logan Sears: git://github.com/Diasporism/event_reporter.git 
   * Extensions: 
 * Bradley Sheehan: 
   * Extensions: 
