@@ -31,7 +31,7 @@ Each student should submit the "Git Read-Only" URL for their project by submitti
   * Extensions: find is case insensitive
 * Kareem Grant: git://github.com/kareemgrant/event_reporter.git
   * Extensions: Improving queue print, Improving find
-* Christopher Knight: 
+* Christopher Knight: git://github.com/SerKnight/event_reporter.git
   * Extensions: 
 * Chelsea Komlo: https://github.com/ckoml/Event_Reporter_2.2013_CHK/blob/master/lib/event_reporter_test.rb
   * Extensions: 
