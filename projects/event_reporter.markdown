@@ -45,8 +45,8 @@ Each student should submit the "Git Read-Only" URL for their project by submitti
   * Extensions: 
 * Ron Rateau: 
   * Extensions: 
-* Shane Rogers: 
-  * Extensions: 
+* Shane Rogers: git@github.com:phoenixbox/event_reporter_final.git
+  * Extensions: improved queue print
 * Laura Steadman: 
   * Extensions: 
 * Geoffrey Schorkopf: 
