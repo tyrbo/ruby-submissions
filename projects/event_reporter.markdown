@@ -57,7 +57,7 @@ Each student should submit the "Git Read-Only" URL for their project by submitti
   * Extensions: 
 * Bradley Sheehan: 
   * Extensions: 
-* Elaine Tai: 
+* Elaine Tai: git://github.com/lalalainexd/event-reporter.git
   * Extensions: 
 * Jorge Tellez: 
   * Extensions: 
