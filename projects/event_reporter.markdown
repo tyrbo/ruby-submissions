@@ -23,8 +23,8 @@ Each student should submit the "Git Read-Only" URL for their project by submitti
   * Extensions: 
 * Erin Drummond: git://github.com/ebdrummond/gschool_event_reporter.git
   * Extensions: none
-* James Denman: 
-  * Extensions: 
+* James Denman: git://github.com/jdendroid/event_reporter.git
+  * Extensions: case insensitive find, formatted print per longest item
 * Jennifer Eliuk: git://github.com/7maples/event_reporter.git
   * Extensions: 
 * Danny Garcia: git://github.com/danny-g/event_reporter.git
