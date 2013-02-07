@@ -59,7 +59,7 @@ Each student should submit the "Git Read-Only" URL for their project by submitti
   * Extensions: 
 * Elaine Tai: git://github.com/lalalainexd/event-reporter.git
   * Extensions: 
-* Jorge Tellez: https://github.com/novohispano/event_reporter
+* Jorge Tellez: git://github.com/novohispano/event_reporter.git
   * Extensions: Base Expectations only
 * Raphael Weiner: git://github.com/raphweiner/event_reporter.git
   * Extensions: All
