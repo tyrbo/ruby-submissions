@@ -35,8 +35,8 @@ Each student should submit the "Git Read-Only" URL for their project by submitti
   * Extensions: 
 * Chelsea Komlo: 
   * Extensions: 
-* John Maddux: 
-  * Extensions: 
+* John Maddux: git://github.com/jemaddux/Event_Reporter.git
+  * Extensions: improving print, improving find 
 * Aimee Maher: 
   * Extensions: 
 * Josh Mejia: 
