@@ -6,7 +6,7 @@ Add the "live" URL for your class blog.
 
 ### Student Submissions
 
-* Blair Anderson:
+* Blair Anderson: http://blairbuilds.herokuapp.com
 * Paul Blackwell: 
 * Phil Battos: 
 * Erin Drummond: 
