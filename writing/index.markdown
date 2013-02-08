@@ -18,7 +18,7 @@ Add the "live" URL for your class blog.
 * Chelsea Komlo: 
 * John Maddux: 
 * Aimee Maher: 
-* Josh Mejia: 
+* Josh Mejia: http://jmejia.herokuapp.com/
 * Daniel Mee: 
 * Ron Rateau: 
 * Shane Rogers: 
