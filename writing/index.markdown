@@ -8,7 +8,7 @@ Add the "live" URL for your class blog.
 
 * Blair Anderson:
 * Paul Blackwell: 
-* Phil Battos: 
+* Phil Battos: http://phliptos.herokuapp.com/
 * Erin Drummond: 
 * James Denman: 
 * Jennifer Eliuk: 
