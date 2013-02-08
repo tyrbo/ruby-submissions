@@ -29,4 +29,4 @@ Add the "live" URL for your class blog.
 * Bradley Sheehan: 
 * Elaine Tai: 
 * Jorge Tellez: 
-* Raphael Weiner:
+* Raphael Weiner: http://raphaelio.herokuapp.com/
