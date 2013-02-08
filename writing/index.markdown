@@ -1,4 +1,4 @@
-## Class Blog
+## Class Blog Index
 
 Add the "live" URL for your class blog.
 
