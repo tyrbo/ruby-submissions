@@ -27,6 +27,6 @@ Add the "live" URL for your class blog.
 * Kyle Suss: 
 * Logan Sears: 
 * Bradley Sheehan: 
-* Elaine Tai: 
+* Elaine Tai: http://lalalainexd-blog.herokuapp.com/
 * Jorge Tellez: 
 * Raphael Weiner:
