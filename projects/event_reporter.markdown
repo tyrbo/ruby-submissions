@@ -15,51 +15,51 @@ Each student should submit the "Git Read-Only" URL for their project by submitti
 
 ### Student Submissions
 
-* Blair Anderson:
-  * Extensions: 
-* Paul Blackwell: 
+* Blair Anderson: git://github.com/blairand/event_reporter_final.git
+  * Extensions: Improving queue print, Improving queue save to
+* Paul Blackwell: git://github.com/pnblackwell/event_reporter.git
   * Extensions: 
 * Phil Battos: 
   * Extensions: 
-* Erin Drummond: 
+* Erin Drummond: git://github.com/ebdrummond/gschool_event_reporter.git
+  * Extensions: none
+* James Denman: git://github.com/jdendroid/event_reporter.git
+  * Extensions: case insensitive find, formatted print per longest item
+* Jennifer Eliuk: git://github.com/7maples/event_reporter.git
   * Extensions: 
-* James Denman: 
+* Danny Garcia: git://github.com/danny-g/event_reporter.git
+  * Extensions: find is case insensitive
+* Kareem Grant: git://github.com/kareemgrant/event_reporter.git
+  * Extensions: Improving queue print, Improving find
+* Christopher Knight: git://github.com/SerKnight/event_reporter.git
   * Extensions: 
-* Jennifer Eliuk: 
+* Chelsea Komlo: git://github.com/ckoml/Event_Reporter_2.2013_CHK.git
   * Extensions: 
-* Danny Garcia: 
-  * Extensions: 
-* Kareem Grant: 
-  * Extensions: 
-* Christopher Knight: 
-  * Extensions: 
-* Chelsea Komlo: 
-  * Extensions: 
-* John Maddux: 
-  * Extensions: 
-* Aimee Maher: 
+* John Maddux: git://github.com/jemaddux/Event_Reporter.git
+  * Extensions: improving print, improving find 
+* Aimee Maher: git://github.com/aimzatron/event_reporter.git
   * Extensions: 
 * Josh Mejia: 
   * Extensions: 
-* Daniel Mee: 
+* Daniel Mee: git://github.com/danmee10/eventreporter.git
   * Extensions: 
-* Ron Rateau: 
+* Ron Rateau: git://github.com/ronra/event_reporter.git
   * Extensions: 
-* Shane Rogers: 
+* Shane Rogers: git@github.com:phoenixbox/event_reporter_final.git
+  * Extensions: improved queue print
+* Laura Steadman: git://github.com/thesteady/gschool-event-reporter.git
   * Extensions: 
-* Laura Steadman: 
+* Geoffrey Schorkopf: git@github.com:gschorkopf/event_reporter.git
+  * Extensions: Improving queue print, Improving find, Implementing Queue Math
+* Kyle Suss: https://github.com/kylesuss/event-reporter.git
   * Extensions: 
-* Geoffrey Schorkopf: 
+* Logan Sears: git://github.com/Diasporism/event_reporter.git 
   * Extensions: 
-* Kyle Suss: 
+* Bradley Sheehan: https://github.com/bradpsheehan/event_reporter.git
   * Extensions: 
-* Logan Sears: 
+* Elaine Tai: git://github.com/lalalainexd/event-reporter.git
   * Extensions: 
-* Bradley Sheehan: 
-  * Extensions: 
-* Elaine Tai: 
-  * Extensions: 
-* Jorge Tellez: 
-  * Extensions: 
-* Raphael Weiner:
-  * Extensions: 
+* Jorge Tellez: git://github.com/novohispano/event_reporter.git
+  * Extensions: Base Expectations only
+* Raphael Weiner: git://github.com/raphweiner/event_reporter.git
+  * Extensions: All
