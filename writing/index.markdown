@@ -12,7 +12,7 @@ Add the "live" URL for your class blog.
 * Erin Drummond: http://ebdrummond.com/
 * James Denman: http://xacaxulu.herokuapp.com
 * Jennifer Eliuk: http://eliuk-gschool-blog.herokuapp.com
-* Danny Garcia: http://dannygarcia.herokuapp.com/2013/02/08/event-reporter.html
+* Danny Garcia: http://dannygarcia.herokuapp.com/
 * Kareem Grant: http://gthang.herokuapp.com/
 * Christopher Knight: http://serknight.herokuapp.com/
 * Chelsea Komlo: http://komlo.herokuapp.com
