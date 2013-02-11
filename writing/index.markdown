@@ -9,11 +9,11 @@ Add the "live" URL for your class blog.
 * Blair Anderson: http://blairbuilds.herokuapp.com
 * Paul Blackwell: 
 * Phil Battos: http://phliptos.herokuapp.com/
-* Erin Drummond: 
+* Erin Drummond: http://ebdrummond.com/
 * James Denman: http://xacaxulu.herokuapp.com
-* Jennifer Eliuk: 
+* Jennifer Eliuk: http://eliuk-gschool-blog.herokuapp.com
 * Danny Garcia: http://dannygarcia.herokuapp.com/2013/02/08/event-reporter.html
-* Kareem Grant: 
+* Kareem Grant: http://gthang.herokuapp.com/
 * Christopher Knight: http://serknight.herokuapp.com/
 * Chelsea Komlo: 
 * John Maddux: http://jmaddux-blog.herokuapp.com/
@@ -23,8 +23,8 @@ Add the "live" URL for your class blog.
 * Ron Rateau: 
 * Shane Rogers: 
 * Laura Steadman: http://refactoring-rainbows.herokuapp.com/
-* Geoffrey Schorkopf: 
-* Kyle Suss: 
+* Geoffrey Schorkopf: http://geoffsblog.herokuapp.com/
+* Kyle Suss: http://kylesuss.herokuapp.com/
 * Logan Sears: http://logan-gschool.herokuapp.com/
 * Bradley Sheehan: 
 * Elaine Tai: http://lalalainexd-blog.herokuapp.com/
