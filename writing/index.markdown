@@ -14,7 +14,7 @@ Add the "live" URL for your class blog.
 * Jennifer Eliuk: 
 * Danny Garcia: 
 * Kareem Grant: 
-* Christopher Knight: 
+* Christopher Knight: http://serknight.herokuapp.com/
 * Chelsea Komlo: 
 * John Maddux: 
 * Aimee Maher: 
