@@ -15,7 +15,7 @@ Add the "live" URL for your class blog.
 * Danny Garcia: http://dannygarcia.herokuapp.com/2013/02/08/event-reporter.html
 * Kareem Grant: http://gthang.herokuapp.com/
 * Christopher Knight: http://serknight.herokuapp.com/
-* Chelsea Komlo: 
+* Chelsea Komlo: http://komlo.herokuapp.com
 * John Maddux: http://jmaddux-blog.herokuapp.com/
 * Aimee Maher: http://aimzatron.herokuapp.com
 * Josh Mejia: http://jmejia.herokuapp.com/
