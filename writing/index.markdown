@@ -16,7 +16,7 @@ Add the "live" URL for your class blog.
 * Kareem Grant: 
 * Christopher Knight: http://serknight.herokuapp.com/
 * Chelsea Komlo: 
-* John Maddux: 
+* John Maddux: http://jmaddux-blog.herokuapp.com/
 * Aimee Maher: 
 * Josh Mejia: http://jmejia.herokuapp.com/
 * Daniel Mee: 
