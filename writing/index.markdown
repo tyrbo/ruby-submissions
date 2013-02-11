@@ -7,7 +7,7 @@ Add the "live" URL for your class blog.
 ### Student Submissions
 
 * Blair Anderson: http://blairbuilds.herokuapp.com
-* Paul Blackwell: 
+* Paul Blackwell: http://paulblackwell.herokuapp.com/
 * Phil Battos: http://phliptos.herokuapp.com/
 * Erin Drummond: http://ebdrummond.com/
 * James Denman: http://xacaxulu.herokuapp.com
