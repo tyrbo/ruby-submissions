@@ -22,7 +22,7 @@ Add the "live" URL for your class blog.
 * Daniel Mee: 
 * Ron Rateau: 
 * Shane Rogers: 
-* Laura Steadman: 
+* Laura Steadman: http://refactoring-rainbows.herokuapp.com/
 * Geoffrey Schorkopf: 
 * Kyle Suss: 
 * Logan Sears: http://logan-gschool.herokuapp.com/
