@@ -25,7 +25,7 @@ Add the "live" URL for your class blog.
 * Laura Steadman: 
 * Geoffrey Schorkopf: 
 * Kyle Suss: 
-* Logan Sears: 
+* Logan Sears: http://logan-gschool.herokuapp.com/
 * Bradley Sheehan: 
 * Elaine Tai: 
 * Jorge Tellez: 
