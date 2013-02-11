@@ -10,7 +10,7 @@ Add the "live" URL for your class blog.
 * Paul Blackwell: 
 * Phil Battos: http://phliptos.herokuapp.com/
 * Erin Drummond: 
-* James Denman: 
+* James Denman: http://xacaxulu.herokuapp.com
 * Jennifer Eliuk: 
 * Danny Garcia: http://dannygarcia.herokuapp.com/2013/02/08/event-reporter.html
 * Kareem Grant: 
