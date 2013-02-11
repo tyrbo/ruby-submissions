@@ -21,7 +21,7 @@ Add the "live" URL for your class blog.
 * Josh Mejia: http://jmejia.herokuapp.com/
 * Daniel Mee: http://danielmee.herokuapp.com
 * Ron Rateau: http://writersblock.herokuapp.com/
-* Shane Rogers: 
+* Shane Rogers: http://shaneblog.herokuapp.com/
 * Laura Steadman: http://refactoring-rainbows.herokuapp.com/
 * Geoffrey Schorkopf: http://geoffsblog.herokuapp.com/
 * Kyle Suss: http://kylesuss.com/
