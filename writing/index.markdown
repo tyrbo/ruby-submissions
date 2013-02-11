@@ -24,7 +24,7 @@ Add the "live" URL for your class blog.
 * Shane Rogers: 
 * Laura Steadman: http://refactoring-rainbows.herokuapp.com/
 * Geoffrey Schorkopf: http://geoffsblog.herokuapp.com/
-* Kyle Suss: http://kylesuss.herokuapp.com/
+* Kyle Suss: http://kylesuss.com/
 * Logan Sears: http://logan-gschool.herokuapp.com/
 * Bradley Sheehan: 
 * Elaine Tai: http://lalalainexd-blog.herokuapp.com/
