@@ -19,7 +19,7 @@ Each student should submit the "Git Read-Only" URL for their project by submitti
   * Extensions: Improving queue print, Improving queue save to
 * Paul Blackwell: git://github.com/pnblackwell/event_reporter.git
   * Extensions: 
-* Phil Battos: 
+* Phil Battos: https://github.com/philbattos/Event_Reporter/blob/master/event_reporter.rb
   * Extensions: 
 * Erin Drummond: git://github.com/ebdrummond/gschool_event_reporter.git
   * Extensions: none
