@@ -28,5 +28,5 @@ Add the "live" URL for your class blog.
 * Logan Sears: http://logan-gschool.herokuapp.com/
 * Bradley Sheehan: 
 * Elaine Tai: http://lalalainexd-blog.herokuapp.com/
-* Jorge Tellez: 
+* Jorge Tellez: http://novohispanoblog.herokuapp.com/
 * Raphael Weiner: http://raphaelio.herokuapp.com/
