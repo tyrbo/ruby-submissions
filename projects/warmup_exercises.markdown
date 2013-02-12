@@ -41,5 +41,5 @@ Each student should submit the URL to the github page for their warm-ups by subm
 * Bradley Sheehan:
 * Elaine Tai:
 * Jorge Tellez:
-* Raphael Weiner:
+* Raphael Weiner: https://github.com/raphweiner/warmup-exercises.git
 
