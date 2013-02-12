@@ -38,7 +38,7 @@ Each student should submit the URL to the github page for their warm-ups by subm
 * Geoffrey Schorkopf:
 * Kyle Suss:
 * Logan Sears:
-* Bradley Sheehan:
+* Bradley Sheehan: https://github.com/bradpsheehan/warmup-exercises.git
 * Elaine Tai: https://github.com/lalalainexd/warmup-exercises.git
 * Jorge Tellez:
 * Raphael Weiner: https://github.com/raphweiner/warmup-exercises.git
