@@ -26,7 +26,7 @@ Each student should submit the URL to the github page for their warm-ups by subm
 * Jennifer Eliuk: https://github.com/7maples/warmup-exercises
 * Danny Garcia:
 * Kareem Grant:
-* Christopher Knight:
+* Christopher Knight: https://github.com/SerKnight/warmup-exercises.git
 * Chelsea Komlo: 
 * John Maddux:
 * Aimee Maher:
