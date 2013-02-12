@@ -21,7 +21,7 @@ Each student should submit the URL to the github page for their warm-ups by subm
 * Blair Anderson:
 * Paul Blackwell:
 * Phil Battos:
-* Erin Drummond:
+* Erin Drummond: https://github.com/ebdrummond/warmup-exercises.git
 * James Denman:
 * Jennifer Eliuk:
 * Danny Garcia:
