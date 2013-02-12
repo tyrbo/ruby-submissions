@@ -27,7 +27,7 @@ Each student should submit the URL to the github page for their warm-ups by subm
 * Danny Garcia:
 * Kareem Grant:
 * Christopher Knight:
-* Chelsea Komlo:
+* Chelsea Komlo: 
 * John Maddux:
 * Aimee Maher:
 * Josh Mejia:
