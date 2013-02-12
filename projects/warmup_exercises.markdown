@@ -39,7 +39,7 @@ Each student should submit the URL to the github page for their warm-ups by subm
 * Kyle Suss:
 * Logan Sears:
 * Bradley Sheehan:
-* Elaine Tai:
+* Elaine Tai: https://github.com/lalalainexd/warmup-exercises.git
 * Jorge Tellez:
 * Raphael Weiner: https://github.com/raphweiner/warmup-exercises.git
 
