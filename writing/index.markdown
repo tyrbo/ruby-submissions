@@ -2,7 +2,7 @@
 
 Add the "live" URL for your class blog.
 
-* Jeff Casimir: http://jumpstartlab.com/blog
+* Jeff Casimir: http://jumpstartlab.com/news
 
 ### Student Submissions
 
