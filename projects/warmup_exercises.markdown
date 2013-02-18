@@ -36,7 +36,7 @@ Each student should submit the URL to the github page for their warm-ups by subm
 * Shane Rogers:
 * Laura Steadman: https://github.com/thesteady/warmup-exercises.git
 * Geoffrey Schorkopf:
-* Kyle Suss:
+* Kyle Suss: https://github.com/kylesuss/warmup-exercises.git
 * Logan Sears:
 * Bradley Sheehan: https://github.com/bradpsheehan/warmup-exercises.git
 * Elaine Tai: https://github.com/lalalainexd/warmup-exercises.git
