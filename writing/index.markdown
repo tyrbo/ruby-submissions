@@ -17,7 +17,7 @@ Add the "live" URL for your class blog.
 * Christopher Knight: http://serknight.herokuapp.com/
 * Chelsea Komlo: http://komlo.herokuapp.com
 * John Maddux: http://jmaddux-blog.herokuapp.com/
-* Aimee Maher: http://aimzatron.herokuapp.com
+* Aimee Maher: http://gschool-blog.herokuapp.com
 * Josh Mejia: http://jmejia.herokuapp.com/
 * Daniel Mee: http://danielmee.herokuapp.com
 * Ron Rateau: http://writersblock.herokuapp.com/
