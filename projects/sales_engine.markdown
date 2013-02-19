@@ -6,8 +6,8 @@ Submissions are due at 9AM MT on 2/21/13
 
 ## Repositories
 
-* Each pair should submit the "Git Read-Only" URL for their project by submitting a pull request to this repo with the URL added below. 
-* Modify *only* the line with your name and the "Extensions" line right below it. 
+* Each pair should submit the **Git Read-Only** URL for their project by submitting a pull request to this repo with the URL added below. 
+* Modify *only* the line for your *Project URL* and the *Extensions* line right below it. 
 * Non-conforming pull requests will be rejected
 * If your URL isn't merged by the deadline, your project will not be evaluated (aka it earns a `0`)
 
