@@ -19,7 +19,7 @@ Each student should submit the "Git Read-Only" URL for their project by submitti
   * Extensions: Improving queue print, Improving queue save to
 * Paul Blackwell: git://github.com/pnblackwell/event_reporter.git
   * Extensions: 
-* Phil Battos: 
+* Phil Battos: https://github.com/philbattos/Event_Reporter/blob/master/event_reporter.rb
   * Extensions: 
 * Erin Drummond: git://github.com/ebdrummond/gschool_event_reporter.git
   * Extensions: none
@@ -39,7 +39,7 @@ Each student should submit the "Git Read-Only" URL for their project by submitti
   * Extensions: improving print, improving find 
 * Aimee Maher: git://github.com/aimzatron/event_reporter.git
   * Extensions: 
-* Josh Mejia: 
+* Josh Mejia: https://github.com/jmejia/event_reporter
   * Extensions: 
 * Daniel Mee: git://github.com/danmee10/eventreporter.git
   * Extensions: 
@@ -55,7 +55,7 @@ Each student should submit the "Git Read-Only" URL for their project by submitti
   * Extensions: 
 * Logan Sears: git://github.com/Diasporism/event_reporter.git 
   * Extensions: 
-* Bradley Sheehan: https://github.com/bradpsheehan/event_reporter.git
+* Bradley Sheehan: git://github.com/bradpsheehan/event_reporter.git
   * Extensions: 
 * Elaine Tai: git://github.com/lalalainexd/event-reporter.git
   * Extensions: 
