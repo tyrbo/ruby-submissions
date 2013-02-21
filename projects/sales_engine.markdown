@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## SalesEngine Submissions
 
 Original project description at http://tutorials.jumpstartlab.com/projects/sales_engine.html
@@ -47,8 +48,8 @@ Submissions are due at 10:30AM MT on 2/21/13
   * Project URL: git://github.com/Diasporism/sales_engine.git
   * Extensions: None
 * Paul Blackwell & James Denman
-  * Project URL: 
-  * Extensions: 
+  * Project URL: git://github.com/jdendroid/sales_engine.git
+  * Extensions: None
 * Phil Battos & Geoffrey Schorkopf
   * Project URL: 
   * Extensions: 
