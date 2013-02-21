@@ -24,7 +24,7 @@ Submissions are due at 10:30AM MT on 2/21/13
   * Extensions: None
 * Bradley Sheehan & Kareem Grant
   * Project URL: git://github.com/kareemgrant/sales_engine.git
-  * Extensions: None
+  * Extensions: Merchant, Invoice
 * Christopher Knight & Danny Garcia
   * Project URL: git://github.com/danny-g/sales_engine.git
   * Extensions: none
