@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## SalesEngine Submissions
 
 Original project description at http://tutorials.jumpstartlab.com/projects/sales_engine.html
