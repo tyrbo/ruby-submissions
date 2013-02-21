@@ -23,7 +23,7 @@ Submissions are due at 9AM MT on 2/21/13
   * Project URL: 
   * Extensions: 
 * Bradley Sheehan & Kareem Grant
-  * Project URL: git@github.com:kareemgrant/sales_engine.git
+  * Project URL: git://github.com/kareemgrant/sales_engine.git
   * Extensions: None
 * Christopher Knight & Danny Garcia
   * Project URL: 
@@ -39,7 +39,7 @@ Submissions are due at 9AM MT on 2/21/13
   * Extensions: None
 * Kyle Suss & John Maddux
   * Project URL: git://github.com/jemaddux/sales_engine.git
-  * Extensions: 
+  * Extensions: None
 * Laura Steadman & Elaine Tai
   * Project URL: git://github.com/thesteady/submissions.git
   * Extensions: None
