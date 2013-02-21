@@ -23,8 +23,8 @@ Submissions are due at 9AM MT on 2/21/13
   * Project URL: 
   * Extensions: 
 * Bradley Sheehan & Kareem Grant
-  * Project URL: 
-  * Extensions: 
+  * Project URL: git@github.com:kareemgrant/sales_engine.git
+  * Extensions: None
 * Christopher Knight & Danny Garcia
   * Project URL: 
   * Extensions: 
@@ -32,20 +32,20 @@ Submissions are due at 9AM MT on 2/21/13
   * Project URL: 
   * Extensions: 
 * Jennifer Eliuk & Josh Mejia
-  * Project URL: 
-  * Extensions: 
+  * Project URL: git://github.com/jmejia/sales_engine.git
+  * Extensions: None
 * Jorge Tellez & Ron Rateau
-  * Project URL: 
-  * Extensions: 
+  * Project URL: git://github.com/novohispano/sales_engine.git
+  * Extensions: None
 * Kyle Suss & John Maddux
   * Project URL: 
   * Extensions: 
 * Laura Steadman & Elaine Tai
-  * Project URL: 
-  * Extensions: 
+  * Project URL: git://github.com/thesteady/submissions.git
+  * Extensions: None
 * Logan Sears & Chelsea Komlo
-  * Project URL: 
-  * Extensions: 
+  * Project URL: git://github.com/Diasporism/sales_engine.git
+  * Extensions: None
 * Paul Blackwell & James Denman
   * Project URL: 
   * Extensions: 
@@ -53,5 +53,5 @@ Submissions are due at 9AM MT on 2/21/13
   * Project URL: 
   * Extensions: 
 * Shane Rogers & Erin Drummond
-  * Project URL: 
-  * Extensions: 
+  * Project URL: git://github.com/ebdrummond/sales_engine.git
+  * Extensions: None
