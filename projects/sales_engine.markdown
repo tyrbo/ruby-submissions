@@ -26,8 +26,8 @@ Submissions are due at 10:30AM MT on 2/21/13
   * Project URL: git://github.com/kareemgrant/sales_engine.git
   * Extensions: None
 * Christopher Knight & Danny Garcia
-  * Project URL: 
-  * Extensions: 
+  * Project URL: git://github.com/danny-g/sales_engine.git
+  * Extensions: none
 * Daniel Mee & Raphael Weiner
   * Project URL: git://github.com/raphweiner/sales_engine.git
   * Extensions: All
