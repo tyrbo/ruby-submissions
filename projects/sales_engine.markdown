@@ -50,8 +50,8 @@ Submissions are due at 10:30AM MT on 2/21/13
   * Project URL: git://github.com/jdendroid/sales_engine.git
   * Extensions: None
 * Phil Battos & Geoffrey Schorkopf
-  * Project URL: 
-  * Extensions: 
+  * Project URL: git://github.com/gschorkopf/sales_engine.git
+  * Extensions: None
 * Shane Rogers & Erin Drummond
   * Project URL: git://github.com/ebdrummond/sales_engine.git
   * Extensions: None
