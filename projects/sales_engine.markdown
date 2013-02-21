@@ -38,7 +38,7 @@ Submissions are due at 9AM MT on 2/21/13
   * Project URL: git://github.com/novohispano/sales_engine.git
   * Extensions: None
 * Kyle Suss & John Maddux
-  * Project URL: 
+  * Project URL: git://github.com/jemaddux/sales_engine.git
   * Extensions: 
 * Laura Steadman & Elaine Tai
   * Project URL: git://github.com/thesteady/submissions.git
