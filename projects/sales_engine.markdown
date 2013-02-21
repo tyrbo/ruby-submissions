@@ -29,8 +29,8 @@ Submissions are due at 10:30AM MT on 2/21/13
   * Project URL: 
   * Extensions: 
 * Daniel Mee & Raphael Weiner
-  * Project URL: 
-  * Extensions: 
+  * Project URL: git://github.com/raphweiner/sales_engine.git
+  * Extensions: All
 * Jennifer Eliuk & Josh Mejia
   * Project URL: git://github.com/jmejia/sales_engine.git
   * Extensions: None
