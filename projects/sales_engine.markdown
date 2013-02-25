@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## SalesEngine Submissions
 
 Original project description at http://tutorials.jumpstartlab.com/projects/sales_engine.html
@@ -25,10 +24,10 @@ Submissions are due at 10:30AM MT on 2/21/13
   * Extensions: None
 * Bradley Sheehan & Kareem Grant
   * Project URL: git://github.com/kareemgrant/sales_engine.git
-  * Extensions: None
+  * Extensions: Merchant, Invoice
 * Christopher Knight & Danny Garcia
-  * Project URL: 
-  * Extensions: 
+  * Project URL: git://github.com/danny-g/sales_engine.git
+  * Extensions: none
 * Daniel Mee & Raphael Weiner
   * Project URL: git://github.com/raphweiner/sales_engine.git
   * Extensions: All
@@ -42,7 +41,7 @@ Submissions are due at 10:30AM MT on 2/21/13
   * Project URL: git://github.com/jemaddux/sales_engine.git
   * Extensions: None
 * Laura Steadman & Elaine Tai
-  * Project URL: git://github.com/thesteady/submissions.git
+  * Project URL: git://github.com/lalalainexd/sales_engine.git
   * Extensions: None
 * Logan Sears & Chelsea Komlo
   * Project URL: git://github.com/Diasporism/sales_engine.git
@@ -51,8 +50,8 @@ Submissions are due at 10:30AM MT on 2/21/13
   * Project URL: git://github.com/jdendroid/sales_engine.git
   * Extensions: None
 * Phil Battos & Geoffrey Schorkopf
-  * Project URL: 
-  * Extensions: 
+  * Project URL: git://github.com/gschorkopf/sales_engine.git
+  * Extensions: None
 * Shane Rogers & Erin Drummond
   * Project URL: git://github.com/ebdrummond/sales_engine.git
   * Extensions: None
