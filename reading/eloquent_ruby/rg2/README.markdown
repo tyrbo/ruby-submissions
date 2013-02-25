@@ -1,10 +1,12 @@
+## Eloquent Ruby - Reading Group 2
+
 For this exercise:
 
 1. Edit your group's `group_x_notes.markdown` file
 2. Fill in your responses
-3. Submit a pull request
+3. Submit one or more pull requests
 
-The responses should be in thoughtful paragraph(s) and make use of markdown's formatting for `inline code`, **bold**/*italic*, etc.
+The responses should be in thoughtful paragraphs and make use of markdown's formatting for `inline code`, **bold**/*italic*, etc.
 
 Consider the following questions as guides to help you build a strong response:
 
