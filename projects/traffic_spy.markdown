@@ -2,7 +2,7 @@
 
 Original project description at http://tutorials.jumpstartlab.com/projects/traffic_spy.html
 
-Submissions are due at 9AM MT on 3/7/13.
+Submissions are due at 9:30AM MT on 3/7/13.
 
 ## Repositories
 
