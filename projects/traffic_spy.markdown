@@ -30,10 +30,10 @@ Submissions are due at 9:30AM MT on 3/7/13.
   * Extensions: None
 * Erin Drummond, Kyle Suss
   * Project URL: git://github.com/ebdrummond/traffic_spy.git
-  * Extensions: None
+  * Extensions: Campaigns
 * Geoffrey Schorkopf, Bradley Sheehan
   * Project URL: git://github.com/gschorkopf/traffic_spy.git
-  * Extensions: Campaign
+  * Extensions: Campaigns
 * Paul Blackwell, Josh Mejia
   * Project URL: git://github.com/jmejia/traffic_spy.git
   * Extensions: None
