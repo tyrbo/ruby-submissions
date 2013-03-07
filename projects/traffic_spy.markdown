@@ -47,8 +47,8 @@ Submissions are due at 9:30AM MT on 3/7/13.
   * Project URL: git://github.com/novohispano/traffic_spy.git
   * Extensions: None
 * Chelsea Komlo, Christopher Knight
-  * Project URL: 
-  * Extensions: 
+  * Project URL: git://github.com/chelseakomlo/traffic_spy.git
+  * Extensions: none
 * Danny Garcia, Jennifer Eliuk
   * Project URL: git://github.com/danny-g/traffic_spy.git
   * Extensions: None
