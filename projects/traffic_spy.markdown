@@ -20,38 +20,38 @@ Submissions are due at 9:30AM MT on 3/7/13.
 ### Student Submissions
 
 * Laura Steadman, Kareem Grant
-  * Project URL: 
-  * Extensions: 
+  * Project URL: git://github.com/thesteady/traffic_spy.git
+  * Extensions: Campaigns
 * John Maddux, Shane Rogers
-  * Project URL: 
-  * Extensions: 
+  * Project URL: git@github.com:jemaddux/traffic_spy.git
+  * Extensions: None
 * Logan Sears, James Denman
-  * Project URL: 
-  * Extensions: 
+  * Project URL: git://github.com/jdendroid/traffic_spy.git
+  * Extensions: None
 * Erin Drummond, Kyle Suss
   * Project URL: git://github.com/ebdrummond/traffic_spy.git
   * Extensions: None
 * Geoffrey Schorkopf, Bradley Sheehan
-  * Project URL: 
-  * Extensions: 
+  * Project URL: git://github.com/gschorkopf/traffic_spy.git
+  * Extensions: Campaign
 * Paul Blackwell, Josh Mejia
-  * Project URL: 
-  * Extensions: 
+  * Project URL: git://github.com/jmejia/traffic_spy.git
+  * Extensions: None
 * Elaine Tai, Aimee Maher
-  * Project URL: 
-  * Extensions: 
+  * Project URL: git://github.com/aimzatron/traffic_spy.git
+  * Extensions: None
 * Phil Battos, Raphael Weiner
   * Project URL: git://github.com/raphweiner/traffic_spy.git
   * Extensions: All (campaigns, json, authentication)
 * Blair Anderson, Jorge Tellez
-  * Project URL: 
-  * Extensions: 
+  * Project URL: git://github.com/novohispano/traffic_spy.git
+  * Extensions: None
 * Chelsea Komlo, Christopher Knight
   * Project URL: 
   * Extensions: 
 * Danny Garcia, Jennifer Eliuk
-  * Project URL: 
-  * Extensions: 
+  * Project URL: git://github.com/danny-g/traffic_spy.git
+  * Extensions: None
 * Ron Rateau, Daniel Mee
-  * Project URL:
-  * Extensions:
+  * Project URL: git://github.com/danmee10/traffic_spy.git
+  * Extensions: None
