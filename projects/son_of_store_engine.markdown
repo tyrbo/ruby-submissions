@@ -36,7 +36,7 @@ Submissions are due at 9:00AM MT on 4/18/13.
 
 #### Mr. Pink: Geoffrey Schorkopf, Erin Drummond, Laura Steadman, Daniel Mee
 
-* Production URL:
+* Production URL: http://pink-sose.herokuapp.com/
 * Repository:
 * Extensions:
 
