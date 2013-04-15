@@ -11,7 +11,7 @@ Submissions are due at 9:00AM MT on 4/18/13.
 #### Mr. Black: Jeff Casimir, Katrina Owen, Franklin Webber
 
 * Production URL: http://mrblack.herokuapp.com
-* Repository: git://github.com/jcasimir/son_of_store_engine.git
+* Repository: http://github.com/jcasimir/son_of_store_engine
 * Extensions: Subdomains, CSS/Themes
 
 ### Student Submissions
@@ -37,7 +37,7 @@ Submissions are due at 9:00AM MT on 4/18/13.
 #### Mr. Pink: Geoffrey Schorkopf, Erin Drummond, Laura Steadman, Daniel Mee
 
 * Production URL: http://pink-sose.herokuapp.com/
-* Repository:
+* Repository: http://github.com/gschorkopf/sonofstore_engine
 * Extensions:
 
 #### Mr. Brown: Christopher Knight, Blair Anderson, Jennifer Eliuk, Logan Sears
