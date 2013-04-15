@@ -48,6 +48,6 @@ Submissions are due at 9:00AM MT on 4/18/13.
 
 #### Mr. Blue: Phil Battos, Josh Mejia, Elaine Tai
 
-* Production URL:
-* Repository:
+* Production URL: http://epicsale.herokuapp.com/
+* Repository: https://github.com/lalalainexd/son_of_store_engine
 * Extensions:
