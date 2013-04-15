@@ -24,8 +24,8 @@ Submissions are due at 9:00AM MT on 4/18/13.
 
 #### Mr. Blonde: Aimee Maher, Danny Garcia, Chelsea Komlo, John Maddux
 
-* Production URL:
-* Repository:
+* Production URL: http://mrblonde.herokuapp.com/ 
+* Repository: http://github.com/jemaddux/son_of_store_engine
 * Extensions:
 
 #### Mr. Orange: Kareem Grant, James Denman, Kyle Suss, Shane Rogers
