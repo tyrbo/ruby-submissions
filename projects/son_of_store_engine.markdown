@@ -18,8 +18,8 @@ Submissions are due at 9:00AM MT on 4/18/13.
 
 #### Mr. White: Bradley Sheehan, Paul Blackwell, Jorge Tellez, Raphael Weiner
 
-* Production URL:
-* Repository:
+* Production URL: http://mrwhite.herokuapp.com
+* Repository: https://github.com/raphweiner/son_of_store_engine.git
 * Extensions:
 
 #### Mr. Blonde: Aimee Maher, Danny Garcia, Chelsea Komlo, John Maddux
