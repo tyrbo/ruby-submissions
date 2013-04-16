@@ -35,7 +35,7 @@ def clone_repository(repo, name)
 end
 
 def create_app(name)
-  `heroku create #{name}-#{config[:abbreviation]}`
+  `heroku create #{config[:abbreviation]}-#{name}`
 end
 
 def setup_database
@@ -80,9 +80,9 @@ def run
     within_project_directory(team_name) do
       create_app(team_name)
       setup_database
+      add_addons
       deploy
       start_processes
-      add_addons
       add_collaborator(details[:owner])
     end
   end
