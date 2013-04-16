@@ -18,7 +18,7 @@ Submissions are due at 9:00AM MT on 4/18/13.
 
 #### Mr. White: Bradley Sheehan, Paul Blackwell, Jorge Tellez, Raphael Weiner
 
-* Production URL: http://mrwhite.herokuapp.com
+* Production URL: http://mrwhite-sose.herokuapp.com
 * Repository: https://github.com/raphweiner/son_of_store_engine.git
 * Extensions:
 
