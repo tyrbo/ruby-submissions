@@ -30,8 +30,8 @@ Submissions are due at 9:00AM MT on 4/18/13.
 
 #### Mr. Orange: Kareem Grant, James Denman, Kyle Suss, Shane Rogers
 
-* Production URL:
-* Repository:
+* Production URL: http://shopmazing.herokuapp.com/
+* Repository: https://github.com/phoenixbox/sonofstore_engine
 * Extensions:
 
 #### Mr. Pink: Geoffrey Schorkopf, Erin Drummond, Laura Steadman, Daniel Mee
