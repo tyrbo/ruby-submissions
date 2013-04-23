@@ -3,8 +3,8 @@
 
 def project
   {
-    :gates   => {:repo  => 'git://github.com/x/y.git',
-                 :collaborators => ['a@b.com', 'c@d.com']},
+    :gates   => {:repo  => 'git://github.com/jmejia/daughter_of_store_engine.git',
+                 :collaborators => ['e.b.drummond@gmail.com', 'jen7maples@gmail.com', 'novohispano@gmail.com', 'joshua.mejia@gmail.com']},
     :ellison => {:repo  => 'git@github.com:philbattos/daughter_of_store_engine.git',
                  :collaborators => ['jemaddux@gmail.com', 'pnblackwell@gmail.com', 'philbattos@gmail.com', 'blair81@gmail.com']},
     :woz     => {:repo  => 'git://github.com/x/y.git',
