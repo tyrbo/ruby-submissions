@@ -18,8 +18,8 @@ Submissions are due at 9:00AM MT on 4/18/13.
 
 #### Mr. White: Bradley Sheehan, Paul Blackwell, Jorge Tellez, Raphael Weiner
 
-* Production URL:
-* Repository:
+* Production URL: http://mrwhite-sose.herokuapp.com
+* Repository: https://github.com/raphweiner/son_of_store_engine.git
 * Extensions:
 
 #### Mr. Blonde: Aimee Maher, Danny Garcia, Chelsea Komlo, John Maddux
@@ -30,8 +30,8 @@ Submissions are due at 9:00AM MT on 4/18/13.
 
 #### Mr. Orange: Kareem Grant, James Denman, Kyle Suss, Shane Rogers
 
-* Production URL:
-* Repository:
+* Production URL: http://shopmazing.herokuapp.com/
+* Repository: https://github.com/phoenixbox/sonofstore_engine
 * Extensions:
 
 #### Mr. Pink: Geoffrey Schorkopf, Erin Drummond, Laura Steadman, Daniel Mee
@@ -42,12 +42,12 @@ Submissions are due at 9:00AM MT on 4/18/13.
 
 #### Mr. Brown: Christopher Knight, Blair Anderson, Jennifer Eliuk, Logan Sears
 
-* Production URL:
-* Repository:
+* Production URL: http://sonofsam.herokuapp.com/
+* Repository: https://github.com/blairand/sonofstore_engine
 * Extensions:
 
 #### Mr. Blue: Phil Battos, Josh Mejia, Elaine Tai
 
-* Production URL:
-* Repository:
+* Production URL: http://epicsale.herokuapp.com/
+* Repository: https://github.com/lalalainexd/son_of_store_engine
 * Extensions:
