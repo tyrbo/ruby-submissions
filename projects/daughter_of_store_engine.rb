@@ -14,3 +14,7 @@ def project
                  :owner => 'a@b.com'},
   }
 end
+
+def config
+  {:abbreviation => 'dose'}
+end

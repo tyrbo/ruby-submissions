@@ -1,33 +1,12 @@
-def son_of_store_engine
-  {:mrwhite  => {:repo  => 'git://github.com/raphweiner/son_of_store_engine.git',
-                 :owner => 'novohispano@gmail.com'
-                },
-   :mrblonde => {:repo  => 'git://github.com/jemaddux/son_of_store_engine.git',
-                 :owner => 'jemaddux@gmail.com'
-                },
-   :mrorange => {:repo  => 'git://github.com/phoenixbox/sonofstore_engine.git',
-                 :owner => 'kareem@getuserwise.com'
-                },
-   :mrpink   => {:repo  => 'git://github.com/gschorkopf/sonofstore_engine.git',
-                 :owner => 'gschorkopf@gmail.com'
-                },
-   :mrbrown  => {:repo  => 'git://github.com/blairand/sonofstore_engine.git',
-                 :owner => 'lsears322@gmail.com'
-                },
-   :mrblue   => {:repo  => 'git://github.com/lalalainexd/son_of_store_engine.git',
-                 :owner => 'joshua.mejia@gmail.com'
-                }
-  }
-end
+require './projects/daughter_of_store_engine'
 
 def setup
-  Dir.mkdir(config[:base_directory])
-  Dir.chdir(config[:base_directory])
+  Dir.mkdir(temp_dir)
+  Dir.chdir(temp_dir)
 end
 
-def config
-  {:base_directory => 'sose_temp',
-   :abbreviation => 'sose'}
+def temp_dir
+  "#{config[:abbreviation]}_temp"
 end
 
 def clone_repository(repo, name)
@@ -55,6 +34,7 @@ end
 
 def add_addons
   `heroku addons:add redistogo`
+  `heroku addons:add newrelic:standard`
 end
 
 def add_collaborator(account)
@@ -62,7 +42,7 @@ def add_collaborator(account)
 end
 
 def teardown
-  `rm -rf sose_temp`
+  `rm -rf #{temp_dir}`
 end
 
 def within_project_directory(name, &block)
