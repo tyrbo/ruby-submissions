@@ -11,7 +11,7 @@ def project
     :ballmer => {:repo  => 'git://github.com/x/y.git',
                  :owner => 'a@b.com'},
     :allen   => {:repo  => 'git://github.com/x/y.git',
-                 :owner => 'a@b.com'},
+                 :owner => 'a@b.com'}
   }
 end
 
