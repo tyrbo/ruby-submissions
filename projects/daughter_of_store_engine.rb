@@ -9,8 +9,12 @@ def project
                  :collaborators => ['jemaddux@gmail.com', 'pnblackwell@gmail.com', 'philbattos@gmail.com', 'blair81@gmail.com']},
     :woz     => {:repo  => 'git://github.com/x/y.git',
                  :collaborators => ['a@b.com', 'c@d.com']},
-    :jobs    => {:repo  => 'git://github.com/x/y.git',
-                 :collaborators => ['a@b.com', 'c@d.com']},
+    :jobs    => {:repo  => 'git@github.com:raphweiner/daughter_of_store_engine.git',
+                 :collaborators => [
+                    'gschorkopf@gmail.com',
+                    'raphael.weiner@gmail.com',
+                    'chelsea.komlo@gmail.com',
+                    'rogerssh@tcd.ie']},
     :ballmer => {:repo  => 'git://github.com/kylesuss/daughterofstore_engine.git',
                  :collaborators => [
                    'lalalainexd@gmail.com.com',
