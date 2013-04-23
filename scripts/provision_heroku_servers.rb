@@ -63,7 +63,7 @@ def run
       add_addons
       deploy
       start_processes
-      add_collaborator(details[:owner])
+      details[:collaborators].each{|account| add_collaborator(account)}
     end
   end
 
