@@ -54,7 +54,7 @@ end
 def run
   setup
 
-  son_of_store_engine.each do |team_name, details|
+  project.each do |team_name, details|
     clone_repository(details[:repo], team_name)
     
     within_project_directory(team_name) do
