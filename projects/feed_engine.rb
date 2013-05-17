@@ -13,8 +13,8 @@ def project
                    :collaborators => []},
     :tuneline  => {:repo  => '',
                    :collaborators => []},
-    :runline   => {:repo  => '',
-                   :collaborators => []}
+    :runline   => {:repo  => 'git@github.com:bradpsheehan/feed_engine.git',
+                   :collaborators => ['bradpsheehan@gmail.com', 'lalalainexd@gmail.com.com', 'jemaddux@gmail.com', 'kareem@getuserwise.com']}
   }
 end
 
