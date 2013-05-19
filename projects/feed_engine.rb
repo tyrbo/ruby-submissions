@@ -5,8 +5,8 @@ def project
   {
     :photoline => {:repo  => 'https://github.com/pnblackwell/feed_engine.git',
                    :collaborators => ['lauramsteadman@gmail.com','jen7maples@gmail.com', 'pnblackwell@gmail.com', 'dannygarcia.me@gmail.com']},
-    :softline  => {:repo  => '',
-                   :collaborators => []},
+    :softline  => {:repo  => 'https://github.com/blairand/alpha-feed-engine',
+                   :collaborators => ['blair81@gmail.com']},
     :chatline  => {:repo  => '',
                    :collaborators => []},
     :traveline => {:repo  => '',
