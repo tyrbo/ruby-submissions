@@ -5,7 +5,7 @@ def project
   {
     :photoline => {:repo  => 'https://github.com/pnblackwell/feed_engine.git',
                    :collaborators => ['lauramsteadman@gmail.com','jen7maples@gmail.com', 'pnblackwell@gmail.com', 'dannygarcia.me@gmail.com']},
-    :softline  => {:repo  => 'https://github.com/blairand/alpha-feed-engine',
+    :softline  => {:repo  => 'https://github.com/blairanderson/alpha-feed-engine',
                    :collaborators => ['blair81@gmail.com']},
     :chatline  => {:repo  => 'https://github.com/Diasporism/feed_engine.git',
                    :collaborators => ['lsears322@gmail.com', 'chelseakomlo@gmail.com', 'danmee10@gmail.com']},
