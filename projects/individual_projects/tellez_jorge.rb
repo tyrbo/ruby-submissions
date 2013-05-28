@@ -2,7 +2,7 @@
   :last_name => "Téllez",
   :first_name => "Jorge",
   :project_name => "BandMatch",
-  :project_description => "Find someone to go to a concert.",
+  :project_description => "You pick a concert, make a plan, post it on Facebook, and other people can go with you.",
   :technologies => ['memcache'],
   :integrations => ['Spotify', 'Facebook']
   :repo => 'http://github.com/username/repo_name',
