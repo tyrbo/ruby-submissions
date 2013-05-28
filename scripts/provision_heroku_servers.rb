@@ -1,4 +1,4 @@
-require './projects/daughter_of_store_engine'
+require './projects/feed_engine'
 
 def setup
   Dir.mkdir(temp_dir)
