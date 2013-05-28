@@ -3,12 +3,12 @@
 # 3) Submit a pull request
 
 {
-  :last_name => "Your Last Name",
-  :first_name => "Your First Name",
-  :project_name => "The Project Name",
-  :project_description => "One paragraph about what the app will do any why",
-  :technologies => ['riak'],
-  :integrations => ['github', 'facebook']
-  :repo => 'http://github.com/username/repo_name',
-  :heroku_account => 'you@gmail.com'
+  :last_name => "Komlo",
+  :first_name => "Chelsea",
+  :project_name => "Coordinating Groups in Natural Disasters",
+  :project_description => "This application allows for group coordination and tracking individuals in the wake of natural disasters",
+  :technologies => ['CouchDB',],
+  :integrations => ['google maps']
+  :repo => 'https://github.com/chelseakomlo/disaster_relief',
+  :heroku_account => 'chelsea.komlo@gmail.com'
 }
