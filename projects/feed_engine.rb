@@ -12,7 +12,7 @@ def project
     :traveline => {:repo  => 'https://github.com/raphweiner/feed_engine',
                    :collaborators => ['raphael.weiner@gmail.com', 'e.b.drummond@gmail.com']},
     :tuneline  => {:repo  => 'https://github.com/aimzatron/feed_engine',
-                   :collaborators => []}
+                   :collaborators => []},
     :runline   => {:repo  => 'git@github.com:bradpsheehan/feed_engine.git',
                    :collaborators => ['bradpsheehan@gmail.com', 'lalalainexd@gmail.com.com', 'jemaddux@gmail.com', 'kareem@getuserwise.com']}
   }
