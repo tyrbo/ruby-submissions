@@ -7,7 +7,7 @@
   have a timer going, so I want to connect it with pomodoros so you don't forget what you're working on.  It will
   also make time tracking more accurate.",
   :technologies => ['node.js'],
-  :integrations => ['google calendar', 'facebook?', 'harvest']
+  :integrations => ['google calendar', 'harvest']
   :repo => 'http://github.com/pnblackwell/harvesting_tomatoes',
   :heroku_account => 'pnblackwell@gmail.com'
 }
