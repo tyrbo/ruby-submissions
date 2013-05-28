@@ -1,0 +1,10 @@
+{
+  :last_name => "Rogers",
+  :first_name => "Shane",
+  :project_name => "Socrada",
+  :project_description => "Socrada will visialize your social connections so that you can strategize your networking",
+  :technologies => ['javascript front end'],
+  :integrations => ['twitter', '???']
+  :repo => 'http://github.com/phoenixbox/socrada',
+  :heroku_account => 'rogerssh@gmail.com'
+}
