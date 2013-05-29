@@ -20,7 +20,7 @@ Submissions are due at 10:30AM MT on 2/21/13
 ### Student Submissions
 
 * Aimee Maher & Blair Anderson
-  * Project URL: git://github.com/blairand/sales_engine.git
+  * Project URL: git://github.com/blairanderson/sales_engine.git
   * Extensions: None
 * Bradley Sheehan & Kareem Grant
   * Project URL: git://github.com/kareemgrant/sales_engine.git
