@@ -2,9 +2,9 @@
   :last_name => "Rogers",
   :first_name => "Shane",
   :project_name => "Socrada",
-  :project_description => "Socrada will visialize your social connections so that you can strategize your networking",
-  :technologies => ['javascript front end'],
-  :integrations => ['twitter', '???']
+  :project_description => "Socrada will visialize your social connections so that you can strategize your networking. Using Twitter relationships initially, Socrada will weight the ease of connectivity to someone in the network and provide the MER(maximum efficient route) to connecting with that person.",
+  :technologies => ['d3'],
+  :integrations => ['twitter', 'linkedIn']
   :repo => 'http://github.com/phoenixbox/socrada',
   :heroku_account => 'rogerssh@gmail.com'
 }
