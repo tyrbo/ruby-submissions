@@ -5,10 +5,10 @@
 {
   :last_name => "Anderson",
   :first_name => "Blair",
-  :project_name => "Hot or Not for Youtube-Music/Soundcloud",
-  :project_description => "Generating playlists that mix youtube music and soundcloud tracks. I'll use websockets to push new updates to the user.",
-  :technologies => ['Websockets'],
-  :integrations => ['youtube', 'soundcloud']
+  :project_name => "Twitter Gists",
+  :project_description => "People will login with twitter. Their public profiles will be visible at example.com/twitterusername. They'll be able to create twoots which are longform-tweets. It will use Ember.",
+  :technologies => ['EMBER'],
+  :integrations => ['twitter']
   :repo => 'http://github.com/blairanderson/solo-project',
   :heroku_account => 'blair81@gmail.com'
 }
