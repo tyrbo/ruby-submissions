@@ -1,8 +1,8 @@
 {
   :last_name => "maher",
   :first_name => "aimee",
-  :project_name => "Caution Tape",
-  :project_description => "When checking into a location on foursquare, view data from Data.gov arrest records/criminal statistics databases and media coverage from the Associated Press API for that location. ",
+  :project_name => "Hunt for History",
+  :project_description => "Using data.gov's historical landmark database, check into locations upon a trail of historical landmarks to get badges and compete against friends. ",
   :technologies => ['jQuery Mobile'],
   :integrations => ['Data.gov', 'foursquare']
   :repo => 'http://github.com/aimzatron/caution_tape',
