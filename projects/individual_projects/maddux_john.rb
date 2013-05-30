@@ -2,9 +2,9 @@
   :last_name => "Maddux",
   :first_name => "John",
   :project_name => "Crafty",
-  :project_description => "One paragraph about what the app will do any why",
+  :project_description => "A site that showsprojects from Etsy and automatically shows off the craft materials that you need to buy for that project next to it. ",
   :technologies => ['elasticsearch','scraping'],
-  :integrations => ['etsy', 'michaels.com']
+  :integrations => ['etsy', 'amazon.com', 'michaels.com']
   :repo => 'http://github.com/jemaddux/crafty',
   :heroku_account => 'jemaddux@gmail.com'
 }
