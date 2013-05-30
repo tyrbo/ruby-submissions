@@ -6,7 +6,7 @@
   :last_name => "Komlo",
   :first_name => "Chelsea",
   :project_name => "Coordinating Groups in Natural Disasters",
-  :project_description => "This application allows for group coordination and tracking individuals in the wake of natural disasters",
+  :project_description => "This application allows for group coordination and tracking individuals in the wake of natural disasters. Using a text-based interface, individuals will be able to text their location and receive directions to the closest available center for relief.",
   :technologies => ['CouchDB',],
   :integrations => ['google maps']
   :repo => 'https://github.com/chelseakomlo/disaster_relief',
