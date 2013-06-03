@@ -8,6 +8,10 @@
   :repo => ['http://github.com/raphweiner/elefeely-api',
             'http://github.com/raphweiner/elefeely-twilio-interface',
             'http://github.com/raphweiner/elefeely',
-            'one more to come, xoxo'],
-  :heroku_account => 'raphael.weiner@gmail.com'
+            'http://github.com/raphweiner/elefeely-ui'],
+  :heroku_account => 'raphael.weiner@gmail.com',
+  :needs_heroku_setup => true,
+  :needs_workers => true,
+  :needs_redis_to_go => true,
+  :other_needs => ["2 dynos: 1 for scheduler, 1 for worker"]
 }
