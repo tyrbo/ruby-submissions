@@ -6,5 +6,9 @@
   :technologies => [],
   :integrations => ['Flickr', 'Yelp']
   :repo => 'http://github.com/ebdrummond/appointime',
-  :heroku_account => 'e.b.drummond@gmail.com'
+  :heroku_account => 'e.b.drummond@gmail.com',
+  :needs_heroku_setup => true,
+  :needs_workers => true,
+  :needs_redis_to_go => true,
+  :other_needs => ["a high five wherein both participants are seated"]
 }
