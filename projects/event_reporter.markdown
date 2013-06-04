@@ -15,7 +15,7 @@ Each student should submit the "Git Read-Only" URL for their project by submitti
 
 ### Student Submissions
 
-* Blair Anderson: git://github.com/blairand/event_reporter_final.git
+* Blair Anderson: git://github.com/blairanderson/event_reporter_final.git
   * Extensions: Improving queue print, Improving queue save to
 * Paul Blackwell: git://github.com/pnblackwell/event_reporter.git
   * Extensions: 

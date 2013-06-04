@@ -43,7 +43,7 @@ Submissions are due at 9:00AM MT on 4/18/13.
 #### Mr. Brown: Christopher Knight, Blair Anderson, Jennifer Eliuk, Logan Sears
 
 * Production URL: http://sonofsam.herokuapp.com/
-* Repository: https://github.com/blairand/sonofstore_engine
+* Repository: https://github.com/blairanderson/sonofstore_engine
 * Extensions:
 
 #### Mr. Blue: Phil Battos, Josh Mejia, Elaine Tai
