@@ -10,5 +10,9 @@
   :technologies => ['CouchDB',],
   :integrations => ['google maps']
   :repo => 'https://github.com/chelseakomlo/disaster_relief',
-  :heroku_account => 'chelsea.komlo@gmail.com'
+  :heroku_account => 'chelsea.komlo@gmail.com',
+  :needs_heroku_setup => true,
+  :needs_workers => true,
+  :needs_redis_to_go => true,
+  :other_needs => ["none"]
 }
