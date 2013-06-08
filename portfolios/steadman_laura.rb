@@ -27,7 +27,7 @@
       :what_to_look_for => ['full-spectrum testing on all added or refactored features(integration, controller, unit, etc)','testing with FactoryGirl']
     }
   },
-  :resume => "http://example.com/you/resume.pdf",
+  :resume => "https://docs.google.com/document/d/1EcCVj0WaoUs20DlWCvu4AUaFgfsUN8B2dUGEeJ04zX4/edit?usp=sharing",
   :references => ['Eoin Coffey -- Gnip, Katrina Owen -- JumpstartLab, Charlie and Lindsay Prezzano -- Hawthorne Threads']
   :other_notes => "My experience includes geospatial analysis and cartography, managing an online retailer’s warehouse, and working with natural and cultural resources. In my personal time I enjoy hiking and camping, birding, gardening, and cooking."
 }
