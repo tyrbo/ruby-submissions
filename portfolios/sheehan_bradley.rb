@@ -18,16 +18,16 @@
       :title => "Runline (feed_engine)"
       :description => "Runline is a Rails application that makes organizing group runs easier than ever before!  The app uses twitter for authentication and allows users to create a group run, plan a route with a google map, and invite people to the run via tweets that get sent out upon creating the run.  The app also integrates with RunKeeper to allow users to track personal and group running statistics."
       :url => 'http://github.com/bradpsheehan/feed_engine'
-      :what_to_look_for => ['Uses VCR in testing', 'Implements the OmniAuth authentication framework allowing users to log in with twitter', 'Background Workers (using Resque) that check Tiwtter for responses to group run invites']
+      :what_to_look_for => ['Uses VCR in testing', 'OmniAuth authentication framework allowing users to log in with twitter', 'Background Workers (using Resque) that check Tiwtter for responses to group run invites']
     }
     :project_3 => {
       :title => "Daughter of Store Engine"
       :description => "Daughter of Store Engine (DOSE) is a multi-tenant e-commerce site that offers both administrator and consumer interfaces.  This was an experience in working with legacy code, as it built on two projects that preceeded it.  Note the admins ability to create sales for products, categories, and their ability to create discount codes that are applied to a shopping cart. "
       :url => 'http://github.com/bradpsheehan/daughter_of_store_engine'
-      :what_to_look_for => ['Background workers (using Resque) for sign-up and product purchase confirmation emails', 'Uses FactoryGirl in Specs', 'jQuery facilitating good admin experince creating sales and discounts']
+      :what_to_look_for => ['Background workers (using Resque) for sign-up and product purchase confirmation emails', 'Uses FactoryGirl in Specs', 'division of admin/user concerns']
     }
   },
   :resume => "http://bradsheehan.herokuapp.com/resume.html",
-  :references => ['Brian Rose (Pivotal Labs), Franklin Webber (Jumpstart Lab), Aaron Reid (New Belgium Brewing Company)']
+  :references => ['Brian Rose (Pivotal Labs), Franklin Webber, Katrina Owen']
   :other_notes => "Anything else someone needs to know?"
 }
