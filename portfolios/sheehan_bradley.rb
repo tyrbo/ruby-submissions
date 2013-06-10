@@ -2,7 +2,7 @@
   :last_name => "Sheehan",
   :first_name => "Bradley",
   :email_address => "bradpsheehan@gmail.com",
-  :looking_for => "I am seeking to match my talents with a company in the Boston area.  An ideal company realizes that programming and design are acts of interpersonal communication aimed at solving human problems.  An ideal company invests in the growth of its employees, and contributes to open source and community projects.  I seek a  collaborative work environment that follows test-driven development, iterative product development, and where pair-programming is encouraged.",
+  :looking_for => "I am seeking to match my talents with a company in the Boston area.  My ideal company realizes that programming and design are acts of interpersonal communication aimed at solving human problems.  It invests in the growth of its employees, and contributes to open source and community projects.  It has a collaborative work environment that encourages pair-programming, follows test-driven development and iterative product development.",
   :best_at => ["Ruby on Rails", 'Pair Programming', 'Test Driven Development'],
   :looking_for => ["Craftsmanship in Programming and Design", "Collaborative Culture", "Employe Growth (including formal or informal mentoring/apprenticeship)"],
   :locations => ["Boston", "Denver", "Boulder"]
