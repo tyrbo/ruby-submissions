@@ -5,7 +5,7 @@
   :email_address => "chelsea.komlo@gmail.com",
   :looking_for => "Working with a software development team with a great culture, appreciation for test-driven and agile development, pair programming, contributing to open source, and building cutting-edge products. My interests include developing new products and hard engineering problems.",
   :best_at => ["Test Driven Development", 'Refactoring', 'Ruby on Rails'],
-  :looking_for => ["Forward-thinking culture", 'Development best practices', "Interesting engineering problems"],
+  :looking_for_description => ["Forward-thinking culture", 'Development best practices', "Interesting engineering problems"],
   :locations => ["New York", "Chicago", "San Francisco", "International"],
   :code => {
     :github => 'http://github.com/chelseakomlo',
