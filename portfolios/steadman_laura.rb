@@ -24,10 +24,10 @@
       :title => "Ballmerino's"
       :description => "A multi-tenant, online store platform with a focus on product ratings and reviews. This project took an existing code base that had many failing tests and broken functionality and built upon it. A teammate and I paired for almost all of the new back-end of this project, with a focus on refactoring existing code and TDD. I think the code showed great improvement because of this."
       :url => 'http://github.com/thesteady/daughterofstore_engine'
-      :what_to_look_for => ['full-spectrum testing on all added or refactored features(integration, controller, unit, etc)','testing with FactoryGirl']
+      :what_to_look_for => ['full-spectrum testing on all added or refactored features(integration, controller, unit, etc)','testing with FactoryGirl', 'jQuery ajax']
     }
   },
-  :resume => "https://docs.google.com/document/d/1EcCVj0WaoUs20DlWCvu4AUaFgfsUN8B2dUGEeJ04zX4/edit?usp=sharing",
+  :resume => "http://refactoring-rainbows.herokuapp.com/resume",
   :references => ['Eoin Coffey -- Gnip, Katrina Owen -- JumpstartLab, Charlie and Lindsay Prezzano -- Hawthorne Threads']
   :other_notes => "My experience includes geospatial analysis and cartography, managing an online retailer’s warehouse, and working with natural and cultural resources. In my personal time I enjoy hiking and camping, birding, gardening, and cooking."
 }
