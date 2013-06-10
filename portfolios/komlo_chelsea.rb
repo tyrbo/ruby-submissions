@@ -1,7 +1,7 @@
 {
   :last_name => "Komlo",
   :first_name => "Chelsea",
-  :image_url => "/images/students/gschool/chelsea.jpg",
+  :image_url => "/images/students/gschool0/chelsea.jpg",
   :email_address => "chelsea.komlo@gmail.com",
   :looking_for => "Working with a software development team with a great culture, appreciation for test-driven and agile development, pair programming, contributing to open source, and building cutting-edge products. My interests include developing new products and hard engineering problems.",
   :best_at => ["Test Driven Development", 'Refactoring', 'Ruby on Rails'],
