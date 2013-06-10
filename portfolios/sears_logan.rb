@@ -3,14 +3,14 @@
     :last_name => "Sears",
     :first_name => "Logan",
     :email_address => "lsears322@gmail.com",
-    :looking_for => "I want to position myself with a company that pushes me to hone my craft as a Ruby on Rails web developer. I'm looking forward to working with a team that values hard effort, but also allows room for innovation and new ideas. My ideal workplace is one where employees and management are very horizontally layered. I believe it fosters communication and an overall greater work environment.",
+    :looking_for_description => "I want to position myself with a company that pushes me to hone my craft as a Ruby on Rails web developer. I'm looking forward to working with a team that values hard effort, but also allows room for innovation and new ideas. My ideal workplace is one where employees and management are very horizontally layered. I believe it fosters communication and an overall greater work environment.",
     :best_at => ['Backend', 'Background workers', 'TDD'],
     :looking_for => ['Pair Programming (optional at least)', 'Small to mid size company', 'Benefits'],
     :locations => ["Denver", "San Francisco", "Seattle", "Portland", "Boston"],
 :code => {
     :github => 'http://github.com/diasporism',
     :project_1 => {
-        :title => "OneWall"
+        :title => "OneWall",
 :description => "An app that solves the problem of keeping track of multiple accounts and feeds by aggregating them all in one place. Interesting problems such as integrating with 3rd party APIs, scaling, and performance were solved by moving long running processes into background workers and scheduled jobs.",
 :url => 'https://github.com/Diasporism/feed_engine.git',
 :what_to_look_for => ['Integration with various APIs', 'Use of delayed, scheduled, and re-occuring background jobs', 'Use of Oauth to login with other services']

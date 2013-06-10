@@ -3,7 +3,7 @@
   :last_name => "Maddux",
   :first_name => "John",
   :email_address => "jemaddux@gmail.com",
-  :looking_for => "I want to be a full stack developer who gets to work with everything from Ruby, Rails and database all the way up to HTML, CSS, Javascript and Javascript libraries.",
+  :looking_for_description => "I want to be a full stack developer who gets to work with everything from Ruby, Rails and database all the way up to HTML, CSS, Javascript and Javascript libraries.",
   :best_at => ["Ruby", "Jquery", "Rails"],
   :looking_for => ["small to medium teams", "project ownership", "full-stack work"],
   :locations => ["Atlanta, GA", "Decatur, GA"],

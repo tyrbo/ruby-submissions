@@ -3,7 +3,7 @@
   :last_name => "Mee",
   :first_name => "Daniel",
   :email_address => "danmee10@gmail.com",
-  :looking_for => "The ideal position would give me exposure to variety of different responsibilities.  I would like to be challenged by interesting and relevant problems that affect a diverse array of industries.  It is also important to me that I am given opportunities to hone my skills as a full-stack developer.",
+  :looking_for_description => "The ideal position would give me exposure to variety of different responsibilities.  I would like to be challenged by interesting and relevant problems that affect a diverse array of industries.  It is also important to me that I am given opportunities to hone my skills as a full-stack developer.",
   :best_at => ["Finding alternative solutions to difficult problems",
                "Staying flexible and keeping my mind open to new ideas",
                "Keeping the primary objective in sight while evaluating different strategies"],
