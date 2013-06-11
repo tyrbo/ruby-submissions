@@ -2,7 +2,7 @@
   :last_name => "Knight",
   :first_name => "Christopher",
   :email_address => "ChrisKnight.mail@gmail.com",
-  :looking_for_description => "I am really motivated to find a position where I can work alongside seasoned developers, and expand on the full stack of my devloping skills in Rails, Javascript, and HTML/CSS.",
+  :looking_for_description => "Motivatd to work alongside seasoned developers, and expand on the full stack of my devloping skills in Rails, Javascript, and HTML/CSS.",
   :best_at => ["Participating in a team", "Having accountability for my work", "Being professional and approachable."],
   :looking_for => ["TDD, Github, Agile development workplace", "A product / company vision that I can stand behind", "A team willing to mentor me in open-source participation"],
   :locations => ["Denver, CO", "Portland, OR", "Boulder, CO", "Austin, TX", "San Francisco / Los Angeles, CA"],
@@ -22,12 +22,12 @@
     },
     :project_3 => {
       :title => "Hacktivism",
-      :description => "Built this application solo. A passionate project for me as I am very into documentary film. This app collects and embeds YouTube & Vimeo films along with a set of tags, to recommend related Charities for the video's content.",
+      :description => "Built this application solo - and it was a very passionate project for me as I am very into documentary film. This app collects and embeds YouTube & Vimeo films along with a set of tags, to recommend charities related to the video's content.",
       :url => 'https://github.com/SerKnight/hactavism',
       :what_to_look_for => ['Custom ActiveRecord Validations', 'Regular Expressions', 'Youtube Vimeo iFrame API']
     }
   },
-  :resume => "https://github.com/SerKnight/Resume/blob/master/resume.pdf",
-  :references => ['Lewis Parker, @parker_evi, http://www.earthvectors.com/'],
-  :other_notes => "Excited to become part of a team, contributing and learning to push the highest quality code"
+  :resume => "https://github.com/SerKnight/Resume/blob/master/knight_christopher_resume.pdf",
+  :references => ['Lewis Parker, @parker_evi, http://www.earthvectors.com/', 'Jamie Van Leeuwen, http://www.linkedin.com/in/jvanlee'],
+  :other_notes => "I am ready to become part of a team, contributing to, and learning to push the highest quality code"
 }
