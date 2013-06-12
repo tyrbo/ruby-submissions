@@ -6,7 +6,7 @@
   :looking_for_description => "Motivatd to work alongside seasoned developers, and expand on the full stack of my devloping skills in Rails, Javascript, and HTML/CSS.",
   :best_at => ["Participating in a team", "Having accountability for my work", "Being professional and approachable."],
   :looking_for => ["TDD, Github, Agile development workplace", "A product / company vision that I can stand behind", "A team willing to mentor me in open-source participation"],
-  :locations => ["Denver, CO", "Portland, OR", "Boulder, CO", "Austin, TX", "San Francisco / Los Angeles, CA"],
+  :locations => ["Denver, CO", "Portland, OR", "Boulder, CO", "Austin, TX", "San Francisco, CA",  "Los Angeles, CA"],
   :code => {
     :github => 'http://github.com/SerKnight',
     :project_1 => {

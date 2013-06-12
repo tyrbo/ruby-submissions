@@ -6,7 +6,7 @@
   :looking_for_description => "Working with a software development team with a great culture, appreciation for test-driven and agile development, pair programming, contributing to open source, and building cutting-edge products. My interests include developing new products and hard engineering problems.",
   :best_at => ["Test Driven Development", 'Refactoring', 'Ruby on Rails'],
   :looking_for => ["Forward-thinking culture", 'Development best practices', "Interesting engineering problems"],
-  :locations => ["New York", "Chicago", "San Francisco", "International"],
+  :locations => ["New York, NY", "Chicago, IL", "San Francisco, CA", "International"],
   :code => {
     :github => 'http://github.com/chelseakomlo',
     :project_1 => {

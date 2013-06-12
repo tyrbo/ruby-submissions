@@ -7,7 +7,7 @@
     :looking_for_description => "I want to position myself with a company that pushes me to hone my craft as a Ruby on Rails web developer. I'm looking forward to working with a team that values hard effort, but also allows room for innovation and new ideas. My ideal workplace is one where employees and management are very horizontally layered. I believe it fosters communication and an overall greater work environment.",
     :best_at => ['Backend Development', 'Delayed/Scheduled/Background Jobs', 'TDD'],
     :looking_for => ['Pair Programming', 'TDD', 'Junior Developer/Apprentice'],
-    :locations => ["Denver", "San Francisco", "Portland", "Chicago", "Boston"],
+    :locations => ["Denver, CO", "San Francisco, CA", "Portland, OR", "Chicago, IL", "Boston, MA"],
 :code => {
     :github => 'http://github.com/diasporism',
     :project_1 => {

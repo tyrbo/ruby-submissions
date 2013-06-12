@@ -6,7 +6,7 @@
   :looking_for_description => "I am seeking to match my talents with a company in the Boston area.  My ideal company realizes that programming and design are acts of interpersonal communication aimed at solving human problems.  It invests in the growth of its employees, and contributes to open source and community projects.  It has a collaborative work environment that encourages pair-programming, follows test-driven development and iterative product development.",
   :best_at => ["Ruby on Rails", 'UX Strategy', 'Client Relations'],
   :looking_for => ["Craftsmanship in Programming and Design", "Collaborative Culture", "Employe Growth (including formal or informal mentoring/apprenticeship)"],
-  :locations => ["Boston", "Denver", "Boulder"],
+  :locations => ["Boston, MA", "Denver, CO", "Boulder, CO"],
   :code => {
     :github => 'http://github.com/bradpsheehan',
     :project_1 => {

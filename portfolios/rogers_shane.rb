@@ -6,7 +6,7 @@
   :looking_for_description => "An environment where I can be mentored which has an exceptional group culture that drives the highest standards of product development. A company that puts equal emphasis on team communication and best development practices.",
   :best_at => ["Design intelligence", "Communication", "Teamwork"],
   :looking_for => ["TDD", "Pair Programming", "Mentorship"],
-  :locations => ["San Francisco", "New York"],
+  :locations => ["San Francisco, CA", "New York, NY"],
   :code => {
     :github => 'https://github.com/phoenixbox',
     :project_1 => {

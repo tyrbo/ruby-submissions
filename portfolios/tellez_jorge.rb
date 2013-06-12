@@ -7,7 +7,7 @@
   :looking_for_description => "I want to build carefully crafted products.",
   :best_at => ["Product Design", "Backend", "Frontend"],
   :looking_for => ["Product-Oriented company.", "Great teams.", "Outstanding quality."],
-  :locations => ["San Francisco", "New York"],
+  :locations => ["San Francisco, CA", "New York, NY"],
   :code => {
     :github => 'http://github.com/novohispano',
     :project_1 => {

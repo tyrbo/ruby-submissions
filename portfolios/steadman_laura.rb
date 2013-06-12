@@ -6,7 +6,7 @@
   :looking_for_description => "As a full-stack Ruby on Rails developer, I hope to find work with a great team that values agile processes, the art of crafting beautiful, well-tested code, and challenges me to continue my growth as a programmer. I enjoy frequent pair-programming.",
   :best_at => ["TDD for Ruby on Rails", 'Being a Team Player', 'Project Management'],
   :looking_for => ["a challenge", 'great teammates', "a company that values agile processes and the art of Ruby on Rails"],
-  :locations => ["Denver","Boulder", "remote"],
+  :locations => ["Denver, CO","Boulder, CO", "Remote"],
   :code => {
     :github => 'http://github.com/thesteady',
     :project_1 => {

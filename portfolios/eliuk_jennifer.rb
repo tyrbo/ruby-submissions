@@ -6,13 +6,13 @@
   :looking_for_description => "Apprenticeship with a development team that has high standards for quality code, testing and delivering great products.",
   :best_at => ["Clear, concise and explicit code", 'Testing', 'Coordinating team'],
   :looking_for => ["Apprenticeship"],
-  :locations => ["Colorado", "Vancouver, B.C.", "Seattle", "Other U.S. & Canada", "International"],
+  :locations => ["Denver, CO", "Boulder, CO", "Vancouver, BC", "Seattle, WA", "Anywhere", "International"],
   :code => {
-    :github => 'http://github.com/7maples',
+    :github => 'https://github.com/7maples',
     :project_1 => {
       :title => "Patient Intake",
       :description => "My first individual Rails project ever, a program to replace paper intake forms at doctors' offices.",
-      :url => 'http://patient-intake.herokuapp.com',
+      :url => 'https://github.com/7maples/patient-intake',
       :what_to_look_for => ['Used hstore to collect form responses instead of many tables and columns', 'Integrated with the Twilio API.', 'Used jQuery to create search form that displays results without reloading the page.']
     },
     :project_2 => {

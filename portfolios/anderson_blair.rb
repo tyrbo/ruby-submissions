@@ -6,7 +6,7 @@
   :looking_for_description => "I don't _just_ want to join a company, I want to join a team. I want to work with a group of people that care about educating each-other and working towards a common goal. I'm most passionate about disrupting politics, healthcare, payments, and education but would be happy to work outside of these industries. I'm eager to pair with amazing programmers, and to continually become better.",
   :best_at => ['Testing First', 'Writing Clean Code', 'Getting Things Done!'],
   :looking_for => ["Continuous Learning", 'Building Products', "Having Fun"],
-  :locations => ["Boulder", "Denver", "San Francisco", "Portland", "New York"],
+  :locations => ["Boulder, CO", "Denver, CO", "San Francisco, CA", "Portland, OR", "New York, NY"],
   :code => {
     :github => 'https://github.com/blairanderson',
     :project_1 => {

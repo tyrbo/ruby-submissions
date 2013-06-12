@@ -7,7 +7,7 @@
   :looking_for_description => "I'm looking for a fullstack Ruby on Rails position at a company that values TDD, agile development, code quality, and pair programming.",
   :best_at => ["Ruby on Rails", 'TDD', 'pairing'],
   :looking_for => ["Fullstack Developer"],
-  :locations => ["Boulder/Denver", "International", "NYC", "Austin", "Washington DC"],
+  :locations => ["Boulder, CO", "Denver, CO", "International", "New York, NY", "Austin, TX", "Washington DC"],
   :code => {
     :github => 'http://github.com/lalalainexd',
     :project_1 => {

@@ -7,7 +7,7 @@
   :looking_for_description => "I'm a diverse full-stack developer looking for a company that places an emphasis on building a long-term, sustainable business. I believe that good work comes through a focus on quality design & user experience and I want to work around those individuals who feel the same way. I want to work for a company who believes that software should be a pleasure to use and that the individuals building the software should have fun doing so. My ideal team has a strong camaraderie and a shared focus on the mission on the organization.",
   :best_at => ["Implementing front-end experiences", 'Working with cross-functional teams', 'Writing code with longevity in mind'],
   :looking_for => ["Small-mid sized team", 'Full stack work', "Focus on design"],
-  :locations => ["Denver", "Remote"],
+  :locations => ["Denver, CO", "Remote"],
   :code => {
     :github => 'http://github.com/kylesuss',
     :project_1 => {
