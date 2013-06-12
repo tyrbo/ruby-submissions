@@ -2,6 +2,7 @@
 {
   :last_name => "Tai",
   :first_name => "Elaine",
+  :image_url => "/images/students/gschool0/elaine.jpg",
   :email_address => "elaine.tai96@gmail.com",
   :looking_for_description => "I'm looking for a fullstack Ruby on Rails position at a company that values TDD, agile development, code quality, and pair programming.",
   :best_at => ["Ruby on Rails", 'TDD', 'pairing'],

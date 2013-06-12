@@ -2,6 +2,7 @@
   :last_name => "Knight",
   :first_name => "Christopher",
   :email_address => "ChrisKnight.mail@gmail.com",
+  :image_url => "/images/students/gschool0/chris.jpg",
   :looking_for_description => "Motivatd to work alongside seasoned developers, and expand on the full stack of my devloping skills in Rails, Javascript, and HTML/CSS.",
   :best_at => ["Participating in a team", "Having accountability for my work", "Being professional and approachable."],
   :looking_for => ["TDD, Github, Agile development workplace", "A product / company vision that I can stand behind", "A team willing to mentor me in open-source participation"],

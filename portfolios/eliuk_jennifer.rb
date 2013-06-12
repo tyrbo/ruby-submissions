@@ -1,6 +1,7 @@
 {
   :last_name => "Eliuk",
   :first_name => "Jennifer",
+  :image_url => "/images/students/gschool0/jennifer.jpg",
   :email_address => "jen7maples@gmail.com",
   :looking_for_description => "Apprenticeship with a development team that has high standards for quality code, testing and delivering great products.",
   :best_at => ["Clear, concise and explicit code", 'Testing', 'Coordinating team'],

@@ -2,6 +2,7 @@
 {
     :last_name => "Sears",
     :first_name => "Logan",
+    :image_url => "/images/students/gschool0/logan.jpg",
     :email_address => "lsears322@gmail.com",
     :looking_for_description => "I want to position myself with a company that pushes me to hone my craft as a Ruby on Rails web developer. I'm looking forward to working with a team that values hard effort, but also allows room for innovation and new ideas. My ideal workplace is one where employees and management are very horizontally layered. I believe it fosters communication and an overall greater work environment.",
     :best_at => ['Backend Development', 'Delayed/Scheduled/Background Jobs', 'TDD'],

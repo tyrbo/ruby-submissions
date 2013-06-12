@@ -1,6 +1,7 @@
 {
   :last_name => "Garcia",
   :first_name => "Danny",
+  :image_url => "/images/students/gschool0/danny.jpg",
   :email_address => "dannygarcia.me@gmail.com",
   :looking_for_description => "I'm looking for a company that cares about the growth of their developers and will push me to become a stronger developer by working on different aspects of a project and with a range of technologies. A company with a philosophy that it's ok to make mistakes as long as you learn from them. I'm looking for a company that cares about best practices. A company that cares about our community and encourages community involvement through open source work, conference talks, and local meetups. I genuinely love to write code, solve challenging problems, and help my colleagues out. My goal is to find a like-minded team of developers. I want to work with a company that'll constantly push me outside of my comfort zone.",
   :best_at => ["Ruby on Rails", 'Pair Programming', 'Test Driven Development'],

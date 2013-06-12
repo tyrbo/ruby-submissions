@@ -1,6 +1,7 @@
 {
   :last_name => "Schorkopf",
   :first_name => "Geoffrey",
+  :image_url => "/images/students/gschool0/geoff.jpg",
   :email_address => "gschorkopf@gmail.com",
   :looking_for_description => "I am looking for a startup or consultancy atmosphere of small/medium size in the Atlanta area. An ideal company would value open source work and community contribution, as well as continue to challenge and expand my programming knowledge. I strongly prefer a company culture that values project candidness, frequent pairing sessions, and test-driven development. I would love the opportunity to work with both the backend in Ruby and frontend in JavaScript, and generally be able to regularly express my understanding of the full stack. I expect the company regularly contributes to local Ruby meetups, participates and sends speakers to local/national conferences, and in general has employees that respect a regular workweek and have fun after hours (whether that be hackathons, going out to see theater/live music, or enjoying happy hours).",
   :best_at => ["Using test-driven development with Ruby on Rails to create strong apps and clean code", "Using jQuery, AJAX, and JavaScript to create a beautiful user experience", "Creativity in product design and interpersonal/team skills"],

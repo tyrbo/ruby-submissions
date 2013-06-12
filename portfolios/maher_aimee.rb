@@ -1,6 +1,7 @@
 {
   :last_name => "Maher",
   :first_name => "Aimee",
+  :image_url => "/images/students/gschool0/aimee.jpg",
   :email_address => "aimee@geekycheeks.com",
   :looking_for_description => "I would like to find work at a place that believes in empowering their developers
 to continue learning. My strengths lie in design and creativity and I would like to
