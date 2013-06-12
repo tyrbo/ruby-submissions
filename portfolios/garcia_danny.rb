@@ -29,5 +29,9 @@
     }
   },
   :resume => "https://docs.google.com/file/d/0B6TsDvWw3OqhXzlscDJLUk9OaUE/edit?usp=sharing",
-  :references => ["{name: 'Solomon White', twitter: '@rubysolo', email: 'rubysolo@gmail.com'}, {name: 'Elikem Adadevoh', email: 'elikem@gmail.com'}"]
+  :references => [
+    "{name: 'Jeff Casimir', twitter: '@j3', email: 'jeff@jumpstartlab.com'},
+     {name: 'Solomon White', twitter: '@rubysolo', email: 'rubysolo@gmail.com'},
+     {name: 'Elikem Adadevoh', twitter: '@elikem', email: 'elikem@gmail.com'}"
+  ]
 }
