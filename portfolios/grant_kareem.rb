@@ -19,7 +19,7 @@
       :title => "ShopMazing Auctions - Multi-tenant auction platform, think Shopify for eBay",
       :description => "This 3-person project involved taking a legacy code base that was built to support a traditional ecommerce platform and modifying it to support an multi-tenant auction platform. One of the interesting features that I worked on centered around giving users the option of submitting their credit card information during registration. This involved using the Stripe API to store a reference to the user's credit card information in our database. During implementation, I realized that Stripe's recommended credit card validation approach was conflicting with the logic for the optional submission of credit card data. As a workaround, I moved Stripe's credit card validation logic into the user model.",
       :url => 'http://github.com/kareemgrant/daughterofstore_engine',
-      :what_to_look_for => ['Pramagtic use of Stripe API', 'Intelligent redirect logic', "Tests"]
+      :what_to_look_for => ['Pragmatic use of Stripe API', 'Intelligent redirect logic', "Tests"]
     },
     :project_3 => {
       :title => "Messy Controller Refactoring",
