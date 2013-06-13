@@ -2,7 +2,7 @@
   :last_name => "Battos",
   :first_name => "Phil",
   :email_address => "philbattos@gmail.com",
-  :image_url => "http://www.gravatar.com/avatar/89c173a60fd20adf2e746267597dab20.png",
+  :image_url => "/images/students/gschool0/phil.jpg",
   :looking_for_description => "I am eager to contribute my skills and experience to a company that values sustainable growth, high-quality products and services, and investment in employee development. I am looking to join a team that is as committed to each other as they are to their work. I want to work with developers who see themselves as craftspeople, plying their trade as artists who engineer tools that make the world a little more enjoyable.",
   :best_at => ["Ruby on Rails", "Project Management", "Test-Driven Development"],
   :looking_for => ["Opportunity to continue learning", "Team that loves their work", "Growing company"],
