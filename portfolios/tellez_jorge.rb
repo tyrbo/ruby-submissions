@@ -7,13 +7,13 @@
   :looking_for_description => "I am looking for a place where I can build carefully crafted products. I am looking for great teams where I can grow and learn.",
   :best_at => ["Product Design", "Backend", "Frontend"],
   :looking_for => ["Product-Oriented company.", "Great teams.", "Outstanding quality."],
-  :locations => ["San Francisco, CA", "New York, NY", "Anywhere if the company is worth it"],
+  :locations => ["San Francisco, CA", "New York, NY", "Anywhere"],
   :code => {
     :github => 'http://github.com/novohispano',
     :project_1 => {
       :title => "HaxHub",
       :description => "We built a team project management tool that integrates with Pivotal Tracker, Github and Travis. We use Github for authentication, fetch the data for the services and refresh them using AJAX.",
-      :url => 'https://github.com/blairanderson/haxhub',
+      :url => 'https://github.com/novohispano/haxhub',
       :what_to_look_for => ['Integration with Github', 'Integration with Pivotal Tracker', 'Integration with Travis']
     },
     :project_2 => {
