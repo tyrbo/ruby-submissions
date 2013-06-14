@@ -2,17 +2,18 @@
 {
   :last_name => "Téllez",
   :first_name => "Jorge",
+  :image_url => "/images/students/gschool0/jorge.jpg",
   :email_address => "novohispano@gmail.com",
   :looking_for_description => "I want to build carefully crafted products.",
   :best_at => ["Product Design", "Backend", "Frontend"],
   :looking_for => ["Product-Oriented company.", "Great teams.", "Outstanding quality."],
-  :locations => ["San Francisco", "New York"],
+  :locations => ["San Francisco, CA", "New York, NY"],
   :code => {
     :github => 'http://github.com/novohispano',
     :project_1 => {
       :title => "HaxHub",
       :description => "We built a team project management tool that integrates with Pivotal Tracker, Github and Travis. We use Github for authentication, fetch the data for the services and refresh them using AJAX.",
-      :url => 'https://github.com/novohispano/haxhub',
+      :url => 'https://github.com/blairand/haxhub',
       :what_to_look_for => ['Integration with Github', 'Integration with Pivotal Tracker', 'Integration with Travis']
     },
     :project_2 => {

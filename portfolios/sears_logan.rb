@@ -2,11 +2,12 @@
 {
     :last_name => "Sears",
     :first_name => "Logan",
+    :image_url => "/images/students/gschool0/logan.jpg",
     :email_address => "lsears322@gmail.com",
     :looking_for_description => "I want to position myself with a company that pushes me to hone my craft as a Ruby on Rails web developer. I'm looking forward to working with a team that values hard effort, but also allows room for innovation and new ideas. My ideal workplace is one where employees and management are very horizontally layered. I believe it fosters communication and an overall greater work environment.",
-    :best_at => ['Backend', 'Background workers', 'TDD'],
-    :looking_for => ['Pair Programming (optional at least)', 'Small to mid size company', 'Benefits'],
-    :locations => ["Denver", "San Francisco", "Seattle", "Portland", "Boston"],
+    :best_at => ['Backend Development', 'Delayed/Scheduled/Background Jobs', 'TDD'],
+    :looking_for => ['Pair Programming', 'TDD', 'Junior Developer/Apprentice'],
+    :locations => ["Denver, CO", "San Francisco, CA", "Portland, OR", "Chicago, IL", "Boston, MA"],
 :code => {
     :github => 'http://github.com/diasporism',
     :project_1 => {
@@ -29,6 +30,5 @@
 }
 },
     :resume => "https://github.com/Diasporism/resume/blob/master/resume.pdf?raw=true",
-    :references => ['Horace Williams', ''],
-:other_notes => "I like pink drinks and being little spoon (just kidding). But, seriously, I'm laid back but hard working. I believe balance is about working hard during business hours and playing hard on the weekends. Other than programming, I enjoy snowboarding, biking, rock climbing, music, and games."
+    :references => ['Horace Williams', 'Franklin Webber', 'Katrina Owen'],
 }

@@ -2,11 +2,12 @@
 {
   :last_name => "Weiner",
   :first_name => "Raphael",
+  :image_url => "/images/students/gschool0/raphael.jpg",
   :email_address => "raphael.weiner@gmail.com",
   :looking_for_description => "Join a community where code is treated as a craft and promotes my growth as a developer through pairing and agile practices.",
   :best_at => ["Decomposing complex problems", "Communicating", "Back-end development"],
   :looking_for => ["Pair-programming", "TDD", "Mentoring"],
-  :locations => ["San Francisco", "International"],
+  :locations => ["San Francisco, CA", "International", "New York, NY", "Chicago, IL", "Anywhere"],
   :code => {
     :github => 'http://github.com/raphweiner',
     :project_1 => {

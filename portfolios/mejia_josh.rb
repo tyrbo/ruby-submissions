@@ -1,6 +1,7 @@
 {
   :last_name => "Mejia",
   :first_name => "Josh",
+  :image_url => "/images/students/gschool0/josh.jpg",
   :email_address => "joshua.mejia@gmail.com",
   :looking_for_description => "To surround myself with a talented and passionate team where I can collaborate on challenging problems and learn new perspectives. I have a strong interest and natural intuition for software architecture that I am eager to continue developing. I’m also looking for an environment where pairing is encouraged and there is a strong focus on quality.",
   :best_at => ['Ruby on Rails', 'Interpreting client requirements', 'Fullstack'],

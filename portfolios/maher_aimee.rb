@@ -1,6 +1,7 @@
 {
   :last_name => "Maher",
   :first_name => "Aimee",
+  :image_url => "/images/students/gschool0/aimee.jpg",
   :email_address => "aimee@geekycheeks.com",
   :looking_for_description => "I would like to find work at a place that believes in empowering their developers
 to continue learning. My strengths lie in design and creativity and I would like to
@@ -9,7 +10,7 @@ being a full-stack developer and I would like to work for a company that will he
 me polish not only my development skills but also my design skills.",
   :best_at => ["Flexibility", 'Communication', 'Design'],
   :looking_for => ["Desire to teach/train", 'Great Culture', "Some pair programming"],
-  :locations => ["Denver", "Boulder", "San Fransisco", "New York", "Los Angeles"],
+  :locations => ["Denver, CO", "Boulder, CO", "San Fransisco, CA", "New York, NY", "Los Angeles, CA"],
   :code => {
     :github => 'http://github.com/aimzatron',
     :project_1 => {

@@ -1,11 +1,12 @@
 {
   :last_name => "Rogers",
   :first_name => "Shane",
+  :image_url => "/images/students/gschool0/shane.jpg",
   :email_address => "rogerssh@gmail.com",
   :looking_for_description => "An environment where I can be mentored which has an exceptional group culture that drives the highest standards of product development. A company that puts equal emphasis on team communication and best development practices.",
   :best_at => ["Design intelligence", "Communication", "Teamwork"],
   :looking_for => ["TDD", "Pair Programming", "Mentorship"],
-  :locations => ["San Francisco", "New York"],
+  :locations => ["San Francisco, CA", "New York, NY"],
   :code => {
     :github => 'https://github.com/phoenixbox',
     :project_1 => {
@@ -27,7 +28,7 @@
       :what_to_look_for => ['Test Quality', 'Composed Methods', 'Morris/Raphael JS']
     }
   },
-  :resume => "TBD",
+  :resume => "http://shaneblog.herokuapp.com/shane_rogers_cv.pdf",
   :references => ['Franklin Webber', 'Katrina Owen','Cory Flanigan'],
   :other_notes => "I am a non-US resident, with a one year work visa commencing mid-late September 2013 whom is eligible for a H-1B visa."
 }
