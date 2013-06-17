@@ -1,7 +1,7 @@
 {
   :last_name => "Rogers",
   :first_name => "Shane",
-  :email_address => "rogerssh@gmail.com",
+  :email_address => "rogerssh@tcd.ie",
   :looking_for => "An environment where I can be mentored which has an exceptional group culture that drives the highest standards of product development. A company that puts equal emphasis on team communication and best development practices.",
   :best_at => ["Design intelligence", "Communication", "Teamwork"],
   :looking_for => ["TDD", "Pair Programming", "Mentorship"],
