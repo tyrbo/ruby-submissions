@@ -7,7 +7,7 @@
     :looking_for_description => "I want to place myself in an environment where everything I do works toward honing my craft as a software developer. Pair programming, TDD, and clean code principles are incredibly important to me and I want to work with other developers who encourage and value these principles as much as I do.",
     :best_at => ['Backend Development', 'Background Jobs/Workers', 'TDD'],
     :looking_for => ['Junior Developer', 'Apprentice'],
-    :locations => ["Denver", "San Francisco", "West Coast", "Chicago", "Boston"],
+    :locations => ["Denver, CO", "San Francisco, CA", "Chicago, IL", "Boston, MA"],
 :code => {
     :github => 'http://github.com/diasporism',
     :project_1 => {
@@ -30,5 +30,5 @@
 }
 },
     :resume => "https://github.com/Diasporism/resume/blob/master/resume.pdf?raw=true",
-    :references => ['Horace Williams', 'Franklin Webber', 'Katrina Owen'],
+    :references => ['Jeff Casimir', 'Horace Williams', 'Franklin Webber', 'Katrina Owen'],
 }
