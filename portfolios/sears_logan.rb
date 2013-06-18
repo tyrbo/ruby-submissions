@@ -4,10 +4,10 @@
     :first_name => "Logan",
     :image_url => "/images/students/gschool0/logan.jpg",
     :email_address => "lsears322@gmail.com",
-    :looking_for_description => "I want to position myself with a company that pushes me to hone my craft as a Ruby on Rails web developer. I'm looking forward to working with a team that values hard effort, but also allows room for innovation and new ideas. My ideal workplace is one where employees and management are very horizontally layered. I believe it fosters communication and an overall greater work environment.",
-    :best_at => ['Backend Development', 'Delayed/Scheduled/Background Jobs', 'TDD'],
-    :looking_for => ['Pair Programming', 'TDD', 'Junior Developer/Apprentice'],
-    :locations => ["Denver, CO", "San Francisco, CA", "Portland, OR", "Chicago, IL", "Boston, MA"],
+    :looking_for_description => "I want to place myself in an environment where everything I do works toward honing my craft as a software developer. Pair programming, TDD, and clean code principles are incredibly important to me and I want to work with other developers who encourage and value these principles as much as I do.",
+    :best_at => ['Backend Development', 'Background Jobs/Workers', 'TDD'],
+    :looking_for => ['Junior Developer', 'Apprentice'],
+    :locations => ["Denver", "San Francisco", "West Coast", "Chicago", "Boston"],
 :code => {
     :github => 'http://github.com/diasporism',
     :project_1 => {
