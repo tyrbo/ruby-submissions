@@ -1,8 +1,8 @@
 {
   :developers => ["Elaine Tai"]
-  :project_name => "lynxsy",
-  :project_description => "lynxsy is a platform that allows companies to find recent college grads for temp-to-fulltime hire.",
+  :project_name => "jobify",
+  :project_description => "yet another job finding app.",
   :backend_technologies => [],
   :frontend_technologies => ['backbone']
-  :repo => 'http://github.com/lalalainexd/lynxsy'
+  :repo => 'http://github.com/lalalainexd/jobify'
 }
