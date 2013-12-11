@@ -55,5 +55,5 @@ def project
 end
 
 def config
-  {:abbreviation => 'feed'}
+  {:abbreviation => 'fourth_meal'}
 end
