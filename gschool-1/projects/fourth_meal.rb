@@ -25,7 +25,7 @@ def project
                  :repo_url      => 'https://github.com/fluxusfrequency/fourth_meal',
                  :tracker_url   => 'https://www.pivotaltracker.com/s/projects/968664',
                  :staging_url   => 'http://noshify.herokuapp.com/',
-                 :collaborators => []},
+                 :collaborators => ['bennlewis@gmail.com', 'navyosu@gmail.com','Adam.dev89@gmail.com']},
     :group_4 => {:members       => ['Antony Siegert', 'Bryana Knight', 'Jonah Moses'],
                  :repo_url      => '',
                  :tracker_url   => '',
