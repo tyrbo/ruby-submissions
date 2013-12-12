@@ -47,10 +47,10 @@ def project
                  :staging_url   => 'craveyard-staging.herokuapp.com',
                  :collaborators => ['persa@persazula.com','rrgayhart@gmail.com','tyler.stephen.long@gmail.com']},
     :group_8 => {:members       => ['Bree Thomas', 'Brian Winterling', 'George Hudson', 'Simon Taranto'],
-                 :repo_url      => '',
-                 :tracker_url   => '',
-                 :staging_url   => '',
-                 :collaborators => []}
+                 :repo_url      => 'https://github.com/bwinterling/fourthmeal',
+                 :tracker_url   => 'https://www.pivotaltracker.com/s/projects/968674',
+                 :staging_url   => 'http://staging-fourthmeal.herokuapp.com/',
+                 :collaborators => ['bree@aha-method.com','bwinterling@yahoo.com','georgehudson78@gmail.com','simon.taranto@gmail.com']}
   }
 end
 
