@@ -15,7 +15,7 @@ def project
                  :repo_url      => 'https://github.com/QuillyT/fourth_meal',
                  :tracker_url   => 'https://www.pivotaltracker.com/s/projects/968834',
                  :staging_url   => 'http://orderup.herokuapp.com/',
-                 :collaborators => []},
+                 :collaborators => ['nikhil.a.taneja@gmail.com','kevin.m.powell04@gmail.com','quillyt@gmail.com']},
     :group_2 => {:members       => ['Katrina Engelsted', 'Luke Martinez', 'Nathaniel Watts'],
                  :repo_url      => 'https://github.com/thewatts/bearlyhungry',
                  :tracker_url   => 'https://www.pivotaltracker.com/s/projects/970514',
