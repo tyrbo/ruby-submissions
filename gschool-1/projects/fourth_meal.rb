@@ -17,11 +17,11 @@ def project
                   :staging_url   => 'http://orderup.herokuapp.com/',
                   :collaborators => ['nikhil.a.taneja@gmail.com','kevin.m.powell04@gmail.com','quillyt@gmail.com'],
                   :technical_evaluation => {
-                    :modeling    => 0,
-                    :interface   => 0,
-                    :performance => 0,
-                    :process     => 0,
-                    :comments    => ""
+                    :modeling    => 2.5,
+                    :interface   => 3,
+                    :performance => 1,
+                    :process     => 2.5,
+                    :comments    => "Good use of Tracker, good work on multitenancy, good work on security, nice UX. No performance optimizations. All the SQL is in the controller. Very few tests."
                   }
                 },
     :group2 => {  :members       => ['Katrina Engelsted', 'Luke Martinez', 'Nathaniel Watts'],
@@ -30,11 +30,11 @@ def project
                   :staging_url   => 'http://staging.bearlyhungry.com/',
                   :collaborators => ['katrina@engelsted.co', 'lukemartinez@gmail.com','watts@nathanielwatts.com'],
                   :technical_evaluation => {
-                    :modeling    => 0,
-                    :interface   => 0,
-                    :performance => 0,
-                    :process     => 0,
-                    :comments    => ""
+                    :modeling    => 3,
+                    :interface   => 3,
+                    :performance => 3,
+                    :process     => 2,
+                    :comments    => "Multitenancy, pushed some logic down, reasonable security, DB indices, some caching, background workers. UX is nice, needs some polish. Did a fair amount of TDD, used Tracker moderately well."
                   }
                 },
     :group3 => {  :members       => ['Ben Lewis', 'Billy Griffin', 'Magan Adam'],
@@ -43,11 +43,11 @@ def project
                   :staging_url   => 'http://noshify.herokuapp.com/',
                   :collaborators => ['bennlewis@gmail.com', 'navyosu@gmail.com','Adam.dev89@gmail.com'],
                   :technical_evaluation => {
-                    :modeling    => 0,
-                    :interface   => 0,
-                    :performance => 0,
-                    :process     => 0,
-                    :comments    => ""
+                    :modeling    => 3,
+                    :interface   => 3,
+                    :performance => 2.5,
+                    :process     => 3.5,
+                    :comments    => "Kicked ass on the multitenancy piece, reasonable security, started pushing things down to the model layer. Really bat-shit-crazy-scary-as-hell helpers. Implementation drove the design, used tracker reasonably well, used github issues, travis-ci, github pull requests, 87% test coverage (model + feature/integration). Good UX, clean views, no design."
                   }
                 },
     :group4 => {  :members       => ['Antony Siegert', 'Bryana Knight', 'Jonah Moses'],
@@ -56,11 +56,11 @@ def project
                   :staging_url   => 'http://fourth-meal.herokuapp.com/',
                   :collaborators => ['agsiegert@hotmail.com', 'brknig11@gmail.com', 'jonahkmoses@gmail.com'],
                   :technical_evaluation => {
-                    :modeling    => 0,
-                    :interface   => 0,
-                    :performance => 0,
-                    :process     => 0,
-                    :comments    => ""
+                    :modeling    => 2,
+                    :interface   => 1,
+                    :performance => 4,
+                    :process     => 3.5,
+                    :comments    => "Multitenancy: good, Pushing logic down: Ish. Security: Pretty bad. UX: no focus on it. Performance: caching, background workers, pagination, db indices, very cool. Process: Very responsive to stuff in tracker, reasonable testing."
                   }
                 },
     :group5 => {  :members       => ['Ben Horne', 'Louisa Barrett', 'Will Mitchell'],
