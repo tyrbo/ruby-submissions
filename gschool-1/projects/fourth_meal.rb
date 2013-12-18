@@ -30,11 +30,11 @@ def project
                   :staging_url   => 'http://staging.bearlyhungry.com/',
                   :collaborators => ['katrina@engelsted.co', 'lukemartinez@gmail.com','watts@nathanielwatts.com'],
                   :technical_evaluation => {
-                    :modeling    => 0,
-                    :interface   => 0,
-                    :performance => 0,
-                    :process     => 0,
-                    :comments    => ""
+                    :modeling    => 3,
+                    :interface   => 3,
+                    :performance => 3,
+                    :process     => 2,
+                    :comments    => "Multitenancy, pushed some logic down, reasonable security, DB indices, some caching, background workers. UX is nice, needs some polish. Did a fair amount of TDD, used Tracker moderately well."
                   }
                 },
     :group3 => {  :members       => ['Ben Lewis', 'Billy Griffin', 'Magan Adam'],
