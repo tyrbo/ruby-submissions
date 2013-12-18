@@ -17,11 +17,11 @@ def project
                   :staging_url   => 'http://orderup.herokuapp.com/',
                   :collaborators => ['nikhil.a.taneja@gmail.com','kevin.m.powell04@gmail.com','quillyt@gmail.com'],
                   :technical_evaluation => {
-                    :modeling    => 0,
-                    :interface   => 0,
-                    :performance => 0,
-                    :process     => 0,
-                    :comments    => ""
+                    :modeling    => 2.5,
+                    :interface   => 3,
+                    :performance => 1,
+                    :process     => 2.5,
+                    :comments    => "Good use of Tracker, good work on multitenancy, good work on security, nice UX. No performance optimizations. All the SQL is in the controller. Very few tests."
                   }
                 },
     :group2 => {  :members       => ['Katrina Engelsted', 'Luke Martinez', 'Nathaniel Watts'],
