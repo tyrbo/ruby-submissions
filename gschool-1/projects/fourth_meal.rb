@@ -104,11 +104,15 @@ def project
                   :staging_url   => 'craveyard-staging.herokuapp.com',
                   :collaborators => ['persa@persazula.com','rrgayhart@gmail.com','tyler.stephen.long@gmail.com'],
                   :technical_evaluation => {
-                    :modeling    => 0,
-                    :interface   => 0,
-                    :performance => 0,
-                    :process     => 0,
-                    :comments    => ""
+                    :modeling    => 2,
+                    :interface   => 2.2,
+                    :performance => 2,
+                    :process     => 3,
+                    :comments    => "Security holes in controllers.
+                                     Decent multitenancy and pushing logic down.
+                                     Add a bit more caching. Pagination sounds good.
+                                     Add background workers for mail.
+                                     Good use of Tracker and tests."
                   }
                 },
     :group8 => {  :members       => ['Bree Thomas', 'Brian Winterling', 'George Hudson', 'Simon Taranto'],
