@@ -43,11 +43,11 @@ def project
                   :staging_url   => 'http://noshify.herokuapp.com/',
                   :collaborators => ['bennlewis@gmail.com', 'navyosu@gmail.com','Adam.dev89@gmail.com'],
                   :technical_evaluation => {
-                    :modeling    => 0,
-                    :interface   => 0,
-                    :performance => 0,
-                    :process     => 0,
-                    :comments    => ""
+                    :modeling    => 3,
+                    :interface   => 3,
+                    :performance => 2.5,
+                    :process     => 3.5,
+                    :comments    => "Kicked ass on the multitenancy piece, reasonable security, started pushing things down to the model layer. Really bat-shit-crazy-scary-as-hell helpers. Implementation drove the design, used tracker reasonably well, used github issues, travis-ci, github pull requests, 87% test coverage (model + feature/integration). Good UX, clean views, no design."
                   }
                 },
     :group4 => {  :members       => ['Antony Siegert', 'Bryana Knight', 'Jonah Moses'],
