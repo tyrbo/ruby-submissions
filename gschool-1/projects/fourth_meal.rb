@@ -86,11 +86,16 @@ def project
                   :staging_url   => 'http://hunger-gains.herokuapp.com/',
                   :collaborators => ['lespath@gmail.com', 'rolentle@gmail.com', 'pequickster@msn.com'],
                   :technical_evaluation => {
-                    :modeling    => 0,
-                    :interface   => 0,
-                    :performance => 0,
-                    :process     => 0,
-                    :comments    => ""
+                    :modeling    => 2,
+                    :interface   => 2,
+                    :performance => 2,
+                    :process     => 2,
+                    :comments    => "Need more focus on security.
+                                     Push logic down to models from controllers.
+                                     Use more partials, helpers to simplify views.
+                                     Good start with caching, look for more opportunities.
+                                     Need background workers for sending email.
+                                     Write, estimate, use more stories."
                   }
                 },
     :group7 => {  :members       => ['Persa Zula', 'Romeeka Gayhart', 'Tyler Long'],
@@ -112,11 +117,16 @@ def project
                   :staging_url   => 'http://staging-fourthmeal.herokuapp.com/',
                   :collaborators => ['bree@aha-method.com','bwinterling@yahoo.com','georgehudson78@gmail.com','simon.taranto@gmail.com',
                   :technical_evaluation => {
-                    :modeling    => 0,
-                    :interface   => 0,
-                    :performance => 0,
-                    :process     => 0,
-                    :comments    => ""
+                    :modeling    => 2,
+                    :interface   => 2,
+                    :performance => 2,
+                    :process     => 1.49,
+                    :comments    => "Need more work on security.
+                                     Multitenancy looks good with a few holes.
+                                     Some logic pushed down the stack.
+                                     View templates can make better use of partials, helpers, iteration.
+                                     Decent use of indicies.
+                                     You can do better on project management."
                   }
                 }
   }
