@@ -56,11 +56,11 @@ def project
                   :staging_url   => 'http://fourth-meal.herokuapp.com/',
                   :collaborators => ['agsiegert@hotmail.com', 'brknig11@gmail.com', 'jonahkmoses@gmail.com'],
                   :technical_evaluation => {
-                    :modeling    => 0,
-                    :interface   => 0,
-                    :performance => 0,
-                    :process     => 0,
-                    :comments    => ""
+                    :modeling    => 2,
+                    :interface   => 1,
+                    :performance => 4,
+                    :process     => 3.5,
+                    :comments    => "Multitenancy: good, Pushing logic down: Ish. Security: Pretty bad. UX: no focus on it. Performance: caching, background workers, pagination, db indices, very cool. Process: Very responsive to stuff in tracker, reasonable testing."
                   }
                 },
     :group5 => {  :members       => ['Ben Horne', 'Louisa Barrett', 'Will Mitchell'],
