@@ -69,11 +69,15 @@ def project
                   :staging_url   => 'http://retto-staging.herokuapp.com/',
                   :collaborators => ['louisabarrett@gmail.com', 'benhorne44@gmail.com', 'wvmitchell@gmail.com'],
                   :technical_evaluation => {
-                    :modeling    => 0,
-                    :interface   => 0,
-                    :performance => 0,
-                    :process     => 0,
-                    :comments    => ""
+                    :modeling    => 3,
+                    :interface   => 2,
+                    :performance => 2.5,
+                    :process     => 3,
+                    :comments    => "Lots of security weaknesses.
+                                     Background workers really need to be implemented.
+                                     Good use of Tracker.
+                                     Good use of tests, especially feature tests.
+                                     UX rough - Need pagination and some optimizations."
                   }
                 },
     :group6 => {  :members       => ['Darryl Pequeen', 'Lauren Spath Luhring', 'Rolen Le'],
