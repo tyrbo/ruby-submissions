@@ -11,7 +11,7 @@ For this cycle, please select a text from our [Ruby Texts](http://tutorials.jump
 * Antony Siegert - 
 * Ben Horne - Practical Object-Oriented Design with Ruby
 * Ben Lewis - Design Patterns in Ruby
-* Billy Griffin - 
+* Billy Griffin - Practical Object-Oriented Design
 * Bree Thomas - Russ Olsen’s Eloquent Ruby
 * Brian Winterling - 
 * Bryana Knight - 
