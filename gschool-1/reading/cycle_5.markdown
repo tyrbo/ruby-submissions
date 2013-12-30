@@ -9,7 +9,7 @@ For this cycle, please select a text from our [Ruby Texts](http://tutorials.jump
 ### Selections
 
 * Antony Siegert - 
-* Ben Horne - 
+* Ben Horne - Practical Object-Oriented Design with Ruby
 * Ben Lewis - Design Patterns in Ruby
 * Billy Griffin - 
 * Bree Thomas - Russ Olsen’s Eloquent Ruby
@@ -22,14 +22,14 @@ For this cycle, please select a text from our [Ruby Texts](http://tutorials.jump
 * Kevin Powell - 
 * Lauren Spath Luhring - 
 * Louisa Barrett - 
-* Luke Martinez - 
-* Magan Adam - 
+* Luke Martinez - Sandi Metz’ Practical Object-Oriented Design with Ruby
+* Magan Adam - Eloquent Ruby
 * Nathaniel Watts - Design Patterns in Ruby
 * Nikhil Taneja - 
 * Persa Zula - 
-* Quentin Tai - 
+* Quentin Tai - Refactoring: Ruby Edition
 * Rolen Le - Design Patterns in Ruby. To The Moon!
 * Romeeka Gayhart - 
 * Simon Taranto - Design Patterns in Ruby
-* Tyler Long - 
+* Tyler Long - Practical Object-Oriented Design in Ruby
 * Will Mitchell - 
