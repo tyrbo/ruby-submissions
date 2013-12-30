@@ -18,7 +18,7 @@ For this cycle, please select a text from our [Ruby Texts](http://tutorials.jump
 * Darryl Pequeen - 
 * George Hudson - 
 * Jonah Moses - 
-* Katrina Engelsted - 
+* Katrina Engelsted - Russ Olsen’s Eloquent Ruby
 * Kevin Powell - 
 * Lauren Spath Luhring - 
 * Louisa Barrett - 
