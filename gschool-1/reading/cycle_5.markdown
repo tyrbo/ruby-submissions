@@ -13,7 +13,7 @@ For this cycle, please select a text from our [Ruby Texts](http://tutorials.jump
 * Ben Lewis - Design Patterns in Ruby
 * Billy Griffin - 
 * Bree Thomas - Russ Olsen’s Eloquent Ruby
-* Brian Winterling - 
+* Brian Winterling - POODR
 * Bryana Knight - 
 * Darryl Pequeen - 
 * George Hudson - POODR
