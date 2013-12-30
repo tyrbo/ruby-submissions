@@ -119,7 +119,7 @@ def project
                   :repo_url      => 'https://github.com/bwinterling/fourthmeal',
                   :tracker_url   => 'https://www.pivotaltracker.com/s/projects/968674',
                   :staging_url   => 'http://staging-fourthmeal.herokuapp.com/',
-                  :collaborators => ['bree@aha-method.com','bwinterling@yahoo.com','georgehudson78@gmail.com','simon.taranto@gmail.com',
+                  :collaborators => ['bree@aha-method.com','bwinterling@yahoo.com','georgehudson78@gmail.com','simon.taranto@gmail.com'],
                   :technical_evaluation => {
                     :modeling    => 2,
                     :interface   => 2,
