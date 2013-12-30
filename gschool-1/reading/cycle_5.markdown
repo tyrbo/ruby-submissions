@@ -24,7 +24,7 @@ For this cycle, please select a text from our [Ruby Texts](http://tutorials.jump
 * Louisa Barrett - 
 * Luke Martinez - 
 * Magan Adam - 
-* Nathaniel Watts - 
+* Nathaniel Watts - Design Patterns in Ruby
 * Nikhil Taneja - 
 * Persa Zula - 
 * Quentin Tai - 
