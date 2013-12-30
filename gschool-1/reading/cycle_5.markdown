@@ -16,7 +16,7 @@ For this cycle, please select a text from our [Ruby Texts](http://tutorials.jump
 * Brian Winterling - 
 * Bryana Knight - 
 * Darryl Pequeen - 
-* George Hudson - 
+* George Hudson - POODR
 * Jonah Moses - 
 * Katrina Engelsted - Russ Olsen’s Eloquent Ruby
 * Kevin Powell - 
