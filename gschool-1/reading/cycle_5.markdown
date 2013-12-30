@@ -8,7 +8,7 @@ For this cycle, please select a text from our [Ruby Texts](http://tutorials.jump
 
 ### Selections
 
-* Antony Siegert - 
+* Antony Siegert - Practical Object-Oriented Design with Ruby
 * Ben Horne - Practical Object-Oriented Design with Ruby
 * Ben Lewis - Design Patterns in Ruby
 * Billy Griffin - 
