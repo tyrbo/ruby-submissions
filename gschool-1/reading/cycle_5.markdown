@@ -12,7 +12,7 @@ For this cycle, please select a text from our [Ruby Texts](http://tutorials.jump
 * Ben Horne - 
 * Ben Lewis - 
 * Billy Griffin - 
-* Bree Thomas - 
+* Bree Thomas - Russ Olsen’s Eloquent Ruby
 * Brian Winterling - 
 * Bryana Knight - 
 * Darryl Pequeen - 
