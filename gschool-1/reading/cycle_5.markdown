@@ -28,7 +28,7 @@ For this cycle, please select a text from our [Ruby Texts](http://tutorials.jump
 * Nikhil Taneja - 
 * Persa Zula - 
 * Quentin Tai - 
-* Rolen Le - 
+* Rolen Le - Design Patterns in Ruby. To The Moon!
 * Romeeka Gayhart - 
 * Simon Taranto - 
 * Tyler Long - 
