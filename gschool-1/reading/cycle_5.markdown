@@ -30,6 +30,6 @@ For this cycle, please select a text from our [Ruby Texts](http://tutorials.jump
 * Quentin Tai - 
 * Rolen Le - Design Patterns in Ruby. To The Moon!
 * Romeeka Gayhart - 
-* Simon Taranto - 
+* Simon Taranto - Design Patterns in Ruby
 * Tyler Long - 
 * Will Mitchell - 
