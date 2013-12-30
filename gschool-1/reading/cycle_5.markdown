@@ -10,7 +10,7 @@ For this cycle, please select a text from our [Ruby Texts](http://tutorials.jump
 
 * Antony Siegert - 
 * Ben Horne - 
-* Ben Lewis - 
+* Ben Lewis - Design Patterns in Ruby
 * Billy Griffin - 
 * Bree Thomas - 
 * Brian Winterling - 
