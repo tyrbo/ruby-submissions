@@ -21,7 +21,7 @@ For this cycle, please select a text from our [Ruby Texts](http://tutorials.jump
 * Katrina Engelsted - Russ Olsen’s Eloquent Ruby
 * Kevin Powell - 
 * Lauren Spath Luhring - 
-* Louisa Barrett - 
+* Louisa Barrett - Sandi Metz' POODR
 * Luke Martinez - Sandi Metz’ Practical Object-Oriented Design with Ruby
 * Magan Adam - Eloquent Ruby
 * Nathaniel Watts - Design Patterns in Ruby
