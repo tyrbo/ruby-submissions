@@ -11,7 +11,7 @@ def project
                   :technical_evaluation  => {},
                   :learning_and_progress => {}
                 },
-    :group2 => {  :project_name    => '',
+    :group2 => {  :project_name    => 'TravelHub',
                   :members         => ['Brian Winterling', 'Katrina Engelsted', 'Persa Zula', 'Rolen Le'],
                   :repo_url        => '',
                   :tracker_url     => '',
