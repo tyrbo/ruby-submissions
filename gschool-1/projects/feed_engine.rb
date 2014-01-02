@@ -22,7 +22,7 @@ def project
                   :technical_evaluation  => {},
                   :learning_and_progress => {}
                 },
-    :group3 => {  :project_name    => '',
+    :group3 => {  :project_name    => 'Agile Board',
                   :members         => ['Kevin Powell', 'Nathaniel Watts', 'Simon Taranto', 'Tyler Long'],
                   :repo_url        => '',
                   :tracker_url     => '',
