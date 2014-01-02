@@ -1,6 +1,6 @@
 def project
   {
-    :group1 => {  :project_name    => '',
+    :group1 => {  :project_name    => 'Hot Streak',
                   :members         => ['Jonah Moses', 'Magan Adam', 'Quentin Tai', 'Romeeka Gayhart'],
                   :repo_url        => '',
                   :tracker_url     => '',
