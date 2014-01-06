@@ -33,7 +33,7 @@ def project
                   :technical_evaluation  => {},
                   :learning_and_progress => {}
                 },
-    :group4 => {  :project_name    => '',
+    :group4 => {  :project_name    => 'Runline',
                   :members         => ['Billy Griffin', 'Bree Thomas', 'Lauren Spath Luhring', 'Luke Martinez'],
                   :repo_url        => '',
                   :tracker_url     => '',
@@ -44,7 +44,7 @@ def project
                   :technical_evaluation  => {},
                   :learning_and_progress => {}
                 },
-    :group5 => {  :project_name    => '',
+    :group5 => {  :project_name    => 'Mile High',
                   :members         => ['Ben Horne', 'Ben Lewis', 'Bryana Knight', 'Darryl Pequeen'],
                   :repo_url        => '',
                   :tracker_url     => '',
@@ -55,7 +55,7 @@ def project
                   :technical_evaluation  => {},
                   :learning_and_progress => {}
                 },
-    :group6 => {  :project_name    => '',
+    :group6 => {  :project_name    => 'Social Smarts',
                   :members         => ['Antony Siegert', 'George Hudson', 'Louisa Barrett', 'Nikhil Taneja', 'Will Mitchell'],
                   :repo_url        => '',
                   :tracker_url     => '',
