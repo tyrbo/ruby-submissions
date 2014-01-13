@@ -1,11 +1,11 @@
 def project
   {
-    :group1 => {  :project_name    => 'Hot Streak',
+    :group1 => {  :project_name    => 'APollo IO',
                   :members         => ['Jonah Moses', 'Magan Adam', 'Quentin Tai', 'Romeeka Gayhart'],
-                  :repo_url        => '',
-                  :tracker_url     => '',
+                  :repo_url        => 'https://github.com/rrgayhart/apolloio',
+                  :tracker_url     => 'https://www.pivotaltracker.com/s/projects/984452',
                   :staging_url     => '',
-                  :production_url  => '',
+                  :production_url  => '192.241.153.235:3000',
                   :vps_owner_email => '',
                   :client_satisfaction   => {},
                   :technical_evaluation  => {},
