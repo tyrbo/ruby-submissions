@@ -8,7 +8,8 @@ def project
                   :production_url  => '',
                   :vps_owner_email => '',
                   :client_satisfaction   => {},
-                  :technical_evaluation  => {},
+                  :technical_evaluation  => {
+                    },
                   :learning_and_progress => {}
                 },
     :group2 => {  :project_name    => 'TravelHub',
@@ -19,7 +20,15 @@ def project
                   :production_url  => '',
                   :vps_owner_email => '',
                   :client_satisfaction   => {},
-                  :technical_evaluation  => {},
+                  :technical_evaluation  => {                    
+                    :apis => 2,
+                    :workers => 3,
+                    :tdd => 2.5,
+                    :processes => 1,
+                    :comments => "Ok API but missing the wrapper gem.
+                                  Workers look good, some small parts of API access are in the request cycle.
+                                  Would like to see you make use of tools like TravisCI, CodeClimate, Coveralls throughout project.
+                                  Using both RSpec and MiniTest is interesting."},
                   :learning_and_progress => {}
                 },
     :group3 => {  :project_name    => 'Agile Board',
@@ -30,7 +39,13 @@ def project
                   :production_url  => '',
                   :vps_owner_email => '',
                   :client_satisfaction   => {},
-                  :technical_evaluation  => {},
+                  :technical_evaluation  => {
+                    :apis => 4,
+                    :workers => 4,
+                    :tdd => 4,
+                    :processes => 2,
+                    :comments => "Most of the code was great. Tracker / Iteration planning and delivery could be better."
+                    },
                   :learning_and_progress => {}
                 },
     :group4 => {  :project_name    => 'Runline',
