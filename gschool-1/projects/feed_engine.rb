@@ -1,6 +1,6 @@
 def project
   {
-    :group1 => {  :project_name    => 'APollo IO',
+    :group1 => {  :project_name    => 'Apollo IO',
                   :members         => ['Jonah Moses', 'Magan Adam', 'Quentin Tai', 'Romeeka Gayhart'],
                   :repo_url        => 'https://github.com/rrgayhart/apolloio',
                   :tracker_url     => 'https://www.pivotaltracker.com/s/projects/984452',
@@ -9,6 +9,14 @@ def project
                   :vps_owner_email => '',
                   :client_satisfaction   => {},
                   :technical_evaluation  => {
+                    :apis => 2,
+                    :workers => 2,
+                    :tdd => 4,
+                    :processes => 3,
+                    :comments => "Well built consolidation of external APIs, but no internal API.
+                                  Workers are used for the reminders, but not fetching API data.
+                                  Use coverage as part of your process.
+                                  Tracker might have gone too far into breaking down stories."
                     },
                   :learning_and_progress => {}
                 },
