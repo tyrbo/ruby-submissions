@@ -26,7 +26,7 @@ For this cycle, please select a text from our [Ruby Texts](http://tutorials.jump
 * Magan Adam - Eloquent Ruby
 * Nathaniel Watts - Design Patterns in Ruby
 * Nikhil Taneja - 
-* Persa Zula - 
+* Persa Zula - POODR
 * Quentin Tai - Refactoring: Ruby Edition
 * Rolen Le - Design Patterns in Ruby. To The Moon!
 * Romeeka Gayhart - 
