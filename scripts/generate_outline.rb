@@ -1,8 +1,10 @@
+require_relative '../gschool-1/projects/feed_engine'
+
 project.each do |name, values|
-  puts "### Group #{name[-1]}"
+  puts "### #{values[:project_name]}"
   puts ""
   puts "* Team: #{values[:members].join(', ')}"
   puts "* Code: #{values[:repo_url]}"
-  puts "* Production: http://fourth-meal-group#{name[-1]}.herokuapp.com/"
+  puts "* Production: #{values[:production_url]}"
   puts ""
 end
