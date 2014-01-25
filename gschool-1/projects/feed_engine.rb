@@ -63,7 +63,16 @@ def project
                   :staging_url     => '',
                   :production_url  => '',
                   :vps_owner_email => '',
-                  :client_satisfaction   => {},
+                  :client_satisfaction   => {
+                    :deployment => 2,
+                    :features => 2,
+                    :interface => 3,
+                    :concept => 3,
+                    :comments => "Don't have a fronting web server (NGINX/Apache).
+                                  Solo stats and friend comparison features are solid.
+                                  Cut the 'schedule a run' feature.
+                                  Hit the idea of making running social."
+                    },
                   :technical_evaluation  => {},
                   :learning_and_progress => {}
                 },
@@ -74,7 +83,15 @@ def project
                   :staging_url     => '',
                   :production_url  => '',
                   :vps_owner_email => '',
-                  :client_satisfaction   => {},
+                  :client_satisfaction   => {
+                    :deployment => 3,
+                    :features => 3,
+                    :interface => 3.5,
+                    :concept => 3,
+                    :comments => "Really strong overall project.
+                                  Would be great to hand it off to a designer for touchup.
+                                  Sounds like the team did a great job working together."
+                    },
                   :technical_evaluation  => {},
                   :learning_and_progress => {}
                 },
@@ -85,9 +102,15 @@ def project
                   :staging_url     => '',
                   :production_url  => 'http://192.241.152.77:3000/',
                   :vps_owner_email => 'georgehudson78@gmail.com',
-                  :client_satisfaction   => {},
+                  :client_satisfaction   => {
+                    :deployment => 3,
+                    :features => 2.5,
+                    :interface => 3,
+                    :concept => 3,
+                    :comments => "Missed the live update feature.
+                                  UX is good with a few rough edges."
+                    },
                   :technical_evaluation  => {},
-                  :learning_and_progress => {}
                 },
   }
 end
