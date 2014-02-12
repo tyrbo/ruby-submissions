@@ -51,7 +51,7 @@ def project
                   },
                   :learning_and_progress => {}
                 },
-    :group4 => {  :project_name    => '',
+    :group4 => {  :project_name    => 'Walk It Off',
                   :members         => [''],
                   :repo_url        => '',
                   :tracker_url     => '',
