@@ -9,11 +9,13 @@ def project
                   :vps_owner_email => 'simon.taranto@gmail.com',
                   :client_satisfaction   => {},
                   :technical_evaluation  => {
-                    :apis => 5,
-                    :workers => 5,
-                    :tdd => 5,
-                    :processes => 5,
-                    :comments => ""
+                    :services => 3,
+                    :encapsulation => 3,
+                    :mvc => 4,
+                    :testing => 4,
+                    :comments =>  "Good wrapping, could pull the wrappers our to a gem.
+                                   Great job breaking components down and pushing logic down the stack.
+                                   Like how you approached testing."
                   },
                   :learning_and_progress => {}
                 },
@@ -43,11 +45,11 @@ def project
                   :vps_owner_email => 'reg@thewatts.com',
                   :client_satisfaction   => {},
                   :technical_evaluation  => {
-                    :apis => 0,
-                    :workers => 0,
-                    :tdd => 0,
-                    :processes => 0,
-                    :comments => ""
+                    :services => 0,
+                    :encapsulation => 0,
+                    :mvc => 0,
+                    :testing => 0,
+                    :comments =>  ""
                   },
                   :learning_and_progress => {}
                 },
