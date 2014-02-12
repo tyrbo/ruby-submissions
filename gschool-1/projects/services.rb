@@ -1,18 +1,18 @@
 def project
   {
-    :group1 => {  :project_name    => '',
-                  :members         => [''],
-                  :repo_url        => '',
-                  :tracker_url     => '',
-                  :staging_url     => '',
-                  :production_url  => '',
-                  :vps_owner_email => '',
+    :group1 => {  :project_name    => 'FreshFinder',
+                  :members         => ['Katrina Englested', 'Lauren Spath Luhring', 'Simon Taranto', 'Persa Zula'],
+                  :repo_url        => 'https://github.com/FreshFinder',
+                  :tracker_url     => 'https://www.pivotaltracker.com/s/projects/1002246',
+                  :staging_url     => ' - ',
+                  :production_url  => 'http://FreshFinder.us',
+                  :vps_owner_email => 'simon.taranto@gmail.com',
                   :client_satisfaction   => {},
                   :technical_evaluation  => {
-                    :apis => 0,
-                    :workers => 0,
-                    :tdd => 0,
-                    :processes => 0,
+                    :apis => 5,
+                    :workers => 5,
+                    :tdd => 5,
+                    :processes => 5,
                     :comments => ""
                   },
                   :learning_and_progress => {}
