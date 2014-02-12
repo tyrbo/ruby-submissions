@@ -59,13 +59,16 @@ def project
                   :production_url  => '',
                   :vps_owner_email => '',
                   :client_satisfaction   => {
-                    :deployment => 0,
-                    :features => 0,
-                    :interface => 0,
-                    :concept => 0,
-                    :comments => ""
                   },
-                  :technical_evaluation  => {},
+                  :technical_evaluation  => {
+                    :services => 2,
+                    :encapsulation => 3,
+                    :mvc => 3,
+                    :testing => 4,
+                    :comments => "Implemented one service as a middleware.
+                                  Service access is effectively pushed down to one model.
+                                  Great job pushing logic down the stack, view templates are complex."
+                    },
                   :learning_and_progress => {}
                 },
     :group5 => {  :project_name    => 'The Fridge',
