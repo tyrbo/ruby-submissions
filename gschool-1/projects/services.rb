@@ -27,11 +27,11 @@ def project
                   :production_url  => '',
                   :vps_owner_email => '',
                   :client_satisfaction   => {},
-                  :technical_evaluation  => {                    
-                    :apis => 0,
-                    :workers => 0,
-                    :tdd => 0,
-                    :processes => 0,
+                  :technical_evaluation  => {            
+                    :services => 3,
+                    :encapsulation => 3,
+                    :mvc => 2.5,
+                    :testing => 1,
                     :comments => ""
                   },
                   :learning_and_progress => {}
@@ -45,10 +45,10 @@ def project
                   :vps_owner_email => 'reg@thewatts.com',
                   :client_satisfaction   => {},
                   :technical_evaluation  => {
-                    :services => 0,
-                    :encapsulation => 0,
-                    :mvc => 0,
-                    :testing => 0,
+                    :services => 3.5,
+                    :encapsulation => 4,
+                    :mvc => 2.5,
+                    :testing => 1,
                     :comments =>  ""
                   },
                   :learning_and_progress => {}
@@ -81,10 +81,10 @@ def project
                   :production_url  => 'http://thefridge.tk',
                   :vps_owner_email => 'wvmitchell@gmail.com',
                   :client_satisfaction   => {
-                    :deployment => 0,
-                    :features => 0,
-                    :interface => 0,
-                    :concept => 0,
+                    :services => 3,
+                    :encapsulation => 3,
+                    :mvc => 3,
+                    :testing => 3,
                     :comments => ""
                   },
                   :technical_evaluation  => {},
