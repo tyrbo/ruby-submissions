@@ -1,7 +1,7 @@
 def project
   {
     :group1 => {  :project_name    => 'FreshFinder',
-                  :members         => ['Katrina Englested', 'Lauren Spath Luhring', 'Simon Taranto', 'Persa Zula'],
+                  :members         => ['Katrina Engelsted', 'Lauren Spath Luhring', 'Simon Taranto', 'Persa Zula'],
                   :repo_url        => 'https://github.com/FreshFinder',
                   :tracker_url     => 'https://www.pivotaltracker.com/s/projects/1002246',
                   :staging_url     => ' - ',
