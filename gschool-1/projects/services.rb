@@ -24,8 +24,8 @@ def project
                   :repo_url        => 'https://github.com/JonahMoses/community_playdates',
                   :tracker_url     => 'https://www.pivotaltracker.com/s/projects/1002306',
                   :staging_url     => 'community-palydates.herokuapps.com',:project_name    => '',
-                  :production_url  => '',
-                  :vps_owner_email => '',
+                  :production_url  => 'http://communityplaydates.com',
+                  :vps_owner_email => 'benhorne44@gamil.com',
                   :client_satisfaction   => {},
                   :technical_evaluation  => {            
                     :services => 3,
