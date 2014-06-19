@@ -9,7 +9,7 @@ submissions:
       REPL Interface: 0
       Breaking Logic into Components: 0
   Allison Larson:
-    repository: git@github.com/allisonlarson/mastermind.git
+    repository: git@github.com:allisonlarson/mastermind.git
     notes: "Notes about extensions or things a reviewer needs to know"
     evaluation:
       Fundamental Ruby & Style: 0
