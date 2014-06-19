@@ -162,7 +162,7 @@ submissions:
       REPL Interface: 0
       Breaking Logic into Components: 0
   Will Faurot:
-    repository: git@github.com:username/reponame.git
+    repository: git@github.com:wfro/mastermind.git
     notes: "Notes about extensions or things a reviewer needs to know"
     evaluation:
       Fundamental Ruby & Style: 0
