@@ -111,11 +111,11 @@ submissions:
     repository: git@github.com:JessicaG/mastermind-game.git
     notes: "Added in timer for game and enhanced user features of colors."
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 3
+      Test-Driven Development: 2
+      REPL Interface: 4
+      Breaking Logic into Components: 3
   Jonmichael Chambers:
     repository: git@github.com:tyrbo/mastermind.git
     notes: "Added some ASCII art and colors. Added top scores. Added guessing history. Submitted as a gem to Rubygems. Didn't get to multiple players or difficulty levels."
