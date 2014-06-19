@@ -109,7 +109,7 @@ submissions:
       Breaking Logic into Components: 0
   Jessica Goulding:
     repository: git@github.com:JessicaG/mastermind-game.git
-    notes: "Notes about extensions or things a reviewer needs to know"
+    notes: "Added in timer for game and enhanced user features of colors."
     evaluation:
       Fundamental Ruby & Style: 0
       Enumerable & Collections: 0
