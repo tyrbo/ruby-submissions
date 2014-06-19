@@ -81,8 +81,8 @@ submissions:
       REPL Interface: 0
       Breaking Logic into Components: 0
   Gustavo Villagrana:
-    repository: git@github.com:username/reponame.git
-    notes: "Notes about extensions or things a reviewer needs to know"
+    repository: git@github.com:GusVilla303/Mastermind.git
+    notes: "Did not have enough time to implement guess counter and timer.  Also- due to last minute changes to my sequence_matcher.rb, my sequence_matcher_tests are blowing up.  Commented out GameBuilder.rb file"
     evaluation:
       Fundamental Ruby & Style: 0
       Enumerable & Collections: 0
