@@ -66,11 +66,11 @@ submissions:
     repository: git@github.com:emilyadavis303/mastermind.git
     notes: "Whew!"
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 2
+      Test-Driven Development: 2
+      REPL Interface: 3
+      Breaking Logic into Components: 3
   Eric Fransen:
     repository: git@github.com:ericfransen/mastermind.git
     notes: "Notes about extensions or things a reviewer needs to know"
