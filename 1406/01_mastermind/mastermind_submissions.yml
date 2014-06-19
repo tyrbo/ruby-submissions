@@ -1,6 +1,6 @@
 submissions:
   Alan Smith:
-    repository: git@github.com:username/reponame.git
+    repository: https://github.com/alanbsmith/Mastermind.git
     notes: "Notes about extensions or things a reviewer needs to know"
     evaluation:
       Fundamental Ruby & Style: 0
