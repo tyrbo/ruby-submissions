@@ -54,8 +54,8 @@ submissions:
       REPL Interface: 0
       Breaking Logic into Components: 0
   Corey Davis:
-    repository: git@github.com:username/reponame.git
-    notes: "Notes about extensions or things a reviewer needs to know"
+    repository: git@github.com:coreyd303/mastermind--c.davis.git
+    notes: "Can be run with $ruby mastermind. I did complete a turns counter that will give you info when you beat the game. I also added color, and was able to make the executable run with $mastermind from my terminal."
     evaluation:
       Fundamental Ruby & Style: 0
       Enumerable & Collections: 0
