@@ -1,5 +1,4 @@
-# Submissions for gSchool
+# Submissions for Turing Ruby Courses
 
-This repository is used to collect submission urls and other data for gSchool projects and assignments.
-
-You're probably looking for something under the `projects` folder.
+This repository is used to collect submission urls and other data for Turing
+projects and assignments during the Ruby course.
