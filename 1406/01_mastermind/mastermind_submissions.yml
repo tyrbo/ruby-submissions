@@ -90,7 +90,7 @@ submissions:
       REPL Interface: 0
       Breaking Logic into Components: 0
   Hilary Denton:
-    repository: git@github.com:username/reponame.git
+    repository: git@github.com:Hilaryous/Mastermind.git
     notes: "Notes about extensions or things a reviewer needs to know"
     evaluation:
       Fundamental Ruby & Style: 0
