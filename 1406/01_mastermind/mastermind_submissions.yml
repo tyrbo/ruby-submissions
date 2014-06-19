@@ -117,8 +117,8 @@ submissions:
       REPL Interface: 0
       Breaking Logic into Components: 0
   Jonmichael Chambers:
-    repository: git@github.com:username/reponame.git
-    notes: "Notes about extensions or things a reviewer needs to know"
+    repository: git@github.com:tyrbo/mastermind.git
+    notes: "Added some ASCII art and colors. Added top scores. Added guessing history. Submitted as a gem to Rubygems. Didn't get to multiple players or difficulty levels."
     evaluation:
       Fundamental Ruby & Style: 0
       Enumerable & Collections: 0
