@@ -99,8 +99,8 @@ submissions:
       REPL Interface: 0
       Breaking Logic into Components: 0
   Horacio Chavez:
-    repository: git@github.com:username/reponame.git
-    notes: "Notes about extensions or things a reviewer needs to know"
+    repository: git@github.com:H6C5/mastermind.git
+    notes: "Really cool experience, I learn that I need to prioritize better. I really enjoy this project, it was fun. Let's see what's next."
     evaluation:
       Fundamental Ruby & Style: 0
       Enumerable & Collections: 0
