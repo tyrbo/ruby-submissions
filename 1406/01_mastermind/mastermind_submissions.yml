@@ -165,8 +165,8 @@ submissions:
     repository: git@github.com:wfro/mastermind.git
     notes: "Notes about extensions or things a reviewer needs to know"
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 2
+      Enumerable & Collections: 2
+      Test-Driven Development: 2
+      REPL Interface: 2
+      Breaking Logic into Components: 2
