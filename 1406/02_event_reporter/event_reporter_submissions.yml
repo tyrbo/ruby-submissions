@@ -30,8 +30,8 @@ submissions:
       Fundamental Ruby & Style: 0
       Enumerable & Collections: 0
   Allison Larson & Tim Proctor:
-    repository:
-    notes: ""
+    repository: https://github.com/timproctor/event-reporter
+    notes: 
     evaluation:
       Functional Expectations: 0
       REPL Interface: 0
