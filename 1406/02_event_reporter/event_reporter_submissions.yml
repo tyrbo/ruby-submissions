@@ -31,7 +31,7 @@ submissions:
       Enumerable & Collections: 0
   Allison Larson & Tim Proctor:
     repository: https://github.com/timproctor/event-reporter
-    notes: 
+    notes:
     evaluation:
       Functional Expectations: 0
       REPL Interface: 0
@@ -50,7 +50,7 @@ submissions:
       Fundamental Ruby & Style: 2.5
       Enumerable & Collections: 3
   Cara Dennis & Gustavo Villagrana:
-    repository:
+    repository: git@github.com:objectParadigm/event-cloaked-wallhack-reporter.git
     notes: ""
     evaluation:
       Functional Expectations: 0
