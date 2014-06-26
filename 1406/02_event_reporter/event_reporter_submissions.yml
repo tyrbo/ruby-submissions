@@ -40,8 +40,8 @@ submissions:
       Fundamental Ruby & Style: 0
       Enumerable & Collections: 0
   Will Faurot & Hilary Denton:
-    repository:
-    notes: ""
+    repository: git@github.com:Hilaryous/event_reporter.git
+    notes: "implemented save_to extension for only csv and txt files"
     evaluation:
       Functional Expectations: 0
       REPL Interface: 0
