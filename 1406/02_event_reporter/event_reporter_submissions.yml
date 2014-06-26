@@ -63,12 +63,18 @@ submissions:
     repository:
     notes: ""
     evaluation:
-      Functional Expectations: 0
-      REPL Interface: 0
-      Test-Driven Development: 0
-      Breaking Logic into Components: 0
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
+      Functional Expectations: 1
+      REPL Interface: 3
+      Test-Driven Development: 1
+      Breaking Logic into Components: 2
+      Fundamental Ruby & Style: 2
+      Enumerable & Collections: 3
+      Notes:
+        Help misses the individual help items
+        Needs output folder to be made by hand
+        Extra .csv on output files
+        Failed story D & E
+        Tests don not run
   Andrew Watkins & Horacio Chavez:
     repository:
     notes: ""
