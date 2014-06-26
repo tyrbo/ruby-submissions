@@ -23,12 +23,12 @@ submissions:
     repository: https://github.com/alanbsmith/EventReporter
     notes: "Added Queue Math. Improved Queue Print. Improved Find. Partial support for Nightmare mode Find. Some other improvements (imo)."
     evaluation:
-      Functional Expectations: 0
-      REPL Interface: 0
-      Test-Driven Development: 0
-      Breaking Logic into Components: 0
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
+      Functional Expectations: 4
+      REPL Interface: 3.5
+      Test-Driven Development: 4
+      Breaking Logic into Components: 4
+      Fundamental Ruby & Style: 4
+      Enumerable & Collections: 4
   Allison Larson & Tim Proctor:
     repository: https://github.com/timproctor/event-reporter
     notes:
