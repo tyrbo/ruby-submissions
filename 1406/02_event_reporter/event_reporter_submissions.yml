@@ -3,12 +3,12 @@ submissions:
     repository: git@github.com:coreyd303/eventreporter_davis_davis.git
     notes: "You will need the following gems to successfully run our program: colorize,  terminal-table,  ValidateEmail"
     evaluation:
-      Functional Expectations: 0
-      REPL Interface: 0
-      Test-Driven Development: 0
-      Breaking Logic into Components: 0
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
+      Functional Expectations: 3
+      REPL Interface: 3.5
+      Test-Driven Development: 1.5
+      Breaking Logic into Components: 3
+      Fundamental Ruby & Style: 2
+      Enumerable & Collections: 3
   Chad Brading & Robert Gu:
     repository: git@github.com:chadbrading/event_reporter.git
     notes: ""
