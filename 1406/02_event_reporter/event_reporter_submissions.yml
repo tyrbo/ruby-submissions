@@ -1,7 +1,7 @@
 submissions:
   Corey Davis & Emily Davis:
-    repository:
-    notes: ""
+    repository: git@github.com:coreyd303/eventreporter_davis_davis.git
+    notes: "You will need the following gems to successfully run our program: colorize,  terminal-table,  ValidateEmail"
     evaluation:
       Functional Expectations: 0
       REPL Interface: 0
