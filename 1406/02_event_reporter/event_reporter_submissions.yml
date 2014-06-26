@@ -33,12 +33,12 @@ submissions:
     repository: https://github.com/timproctor/event-reporter
     notes:
     evaluation:
-      Functional Expectations: 0
-      REPL Interface: 0
-      Test-Driven Development: 0
-      Breaking Logic into Components: 0
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
+      Functional Expectations: 3
+      REPL Interface: 3.5
+      Test-Driven Development: 3
+      Breaking Logic into Components: 3
+      Fundamental Ruby & Style: 2
+      Enumerable & Collections: 3
   Will Faurot & Hilary Denton:
     repository: git@github.com:Hilaryous/event_reporter.git
     notes: "implemented save_to extension for only csv and txt files"
