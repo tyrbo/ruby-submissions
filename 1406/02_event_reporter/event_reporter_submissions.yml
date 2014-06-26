@@ -70,8 +70,8 @@ submissions:
       Fundamental Ruby & Style: 0
       Enumerable & Collections: 0
   Andrew Watkins & Horacio Chavez:
-    repository:
-    notes: ""
+    repository: git@github.com:121watts/event-reporter.git
+    notes: "no need for underscores in search fields i.e. first_name is simply first name"
     evaluation:
       Functional Expectations: 0
       REPL Interface: 0
