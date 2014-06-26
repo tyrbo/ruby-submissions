@@ -23,22 +23,22 @@ submissions:
     repository: https://github.com/alanbsmith/EventReporter
     notes: "Added Queue Math. Improved Queue Print. Improved Find. Partial support for Nightmare mode Find. Some other improvements (imo)."
     evaluation:
-      Functional Expectations: 0
-      REPL Interface: 0
-      Test-Driven Development: 0
-      Breaking Logic into Components: 0
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
+      Functional Expectations: 4
+      REPL Interface: 3.5
+      Test-Driven Development: 4
+      Breaking Logic into Components: 4
+      Fundamental Ruby & Style: 4
+      Enumerable & Collections: 4
   Allison Larson & Tim Proctor:
     repository: https://github.com/timproctor/event-reporter
     notes:
     evaluation:
-      Functional Expectations: 0
-      REPL Interface: 0
-      Test-Driven Development: 0
-      Breaking Logic into Components: 0
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
+      Functional Expectations: 3
+      REPL Interface: 3.5
+      Test-Driven Development: 3
+      Breaking Logic into Components: 3
+      Fundamental Ruby & Style: 2
+      Enumerable & Collections: 3
   Will Faurot & Hilary Denton:
     repository: git@github.com:Hilaryous/event_reporter.git
     notes: "implemented save_to extension for only csv and txt files"
