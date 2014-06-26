@@ -43,12 +43,12 @@ submissions:
     repository: git@github.com:Hilaryous/event_reporter.git
     notes: "implemented save_to extension for only csv and txt files"
     evaluation:
-      Functional Expectations: 0
-      REPL Interface: 0
-      Test-Driven Development: 0
-      Breaking Logic into Components: 0
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
+      Functional Expectations: 3
+      REPL Interface: 3
+      Test-Driven Development: 3
+      Breaking Logic into Components: 3
+      Fundamental Ruby & Style: 2.5
+      Enumerable & Collections: 3
   Cara Dennis & Gustavo Villagrana:
     repository:
     notes: ""
