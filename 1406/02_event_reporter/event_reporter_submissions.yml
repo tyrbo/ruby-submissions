@@ -10,7 +10,7 @@ submissions:
       Fundamental Ruby & Style: 0
       Enumerable & Collections: 0
   Chad Brading & Robert Gu:
-    repository:
+    repository: git@github.com:chadbrading/event_reporter.git
     notes: ""
     evaluation:
       Functional Expectations: 0
