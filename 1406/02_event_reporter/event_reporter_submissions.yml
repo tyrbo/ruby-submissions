@@ -1,7 +1,7 @@
 submissions:
   Corey Davis & Emily Davis:
-    repository:
-    notes: ""
+    repository: git@github.com:coreyd303/eventreporter_davis_davis.git
+    notes: "You will need the following gems to successfully run our program: colorize,  terminal-table,  ValidateEmail"
     evaluation:
       Functional Expectations: 0
       REPL Interface: 0
@@ -10,7 +10,7 @@ submissions:
       Fundamental Ruby & Style: 0
       Enumerable & Collections: 0
   Chad Brading & Robert Gu:
-    repository:
+    repository: git@github.com:chadbrading/event_reporter.git
     notes: ""
     evaluation:
       Functional Expectations: 0
@@ -20,8 +20,8 @@ submissions:
       Fundamental Ruby & Style: 0
       Enumerable & Collections: 0
   Jonmichael Chambers & Alan Smith:
-    repository:
-    notes: ""
+    repository: https://github.com/alanbsmith/EventReporter
+    notes: "Added Queue Math. Improved Queue Print. Improved Find. Partial support for Nightmare mode Find. Some other improvements (imo)."
     evaluation:
       Functional Expectations: 0
       REPL Interface: 0
@@ -30,8 +30,8 @@ submissions:
       Fundamental Ruby & Style: 0
       Enumerable & Collections: 0
   Allison Larson & Tim Proctor:
-    repository:
-    notes: ""
+    repository: https://github.com/timproctor/event-reporter
+    notes: 
     evaluation:
       Functional Expectations: 0
       REPL Interface: 0
@@ -40,15 +40,15 @@ submissions:
       Fundamental Ruby & Style: 0
       Enumerable & Collections: 0
   Will Faurot & Hilary Denton:
-    repository:
-    notes: ""
+    repository: git@github.com:Hilaryous/event_reporter.git
+    notes: "implemented save_to extension for only csv and txt files"
     evaluation:
-      Functional Expectations: 0
-      REPL Interface: 0
-      Test-Driven Development: 0
-      Breaking Logic into Components: 0
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
+      Functional Expectations: 3
+      REPL Interface: 3
+      Test-Driven Development: 3
+      Breaking Logic into Components: 3
+      Fundamental Ruby & Style: 2.5
+      Enumerable & Collections: 3
   Cara Dennis & Gustavo Villagrana:
     repository:
     notes: ""
@@ -60,8 +60,8 @@ submissions:
       Fundamental Ruby & Style: 0
       Enumerable & Collections: 0
   Jessica Goulding & Eric Fransen:
-    repository:
-    notes: ""
+    repository: https://github.com/JessicaG/event_reporter
+    notes: "Gems needed are terminal-table and colorize"
     evaluation:
       Functional Expectations: 1
       REPL Interface: 3
@@ -76,8 +76,8 @@ submissions:
         Failed story D & E
         Tests don not run
   Andrew Watkins & Horacio Chavez:
-    repository:
-    notes: ""
+    repository: git@github.com:121watts/event-reporter.git
+    notes: "no need for underscores in search fields i.e. first_name is simply first name"
     evaluation:
       Functional Expectations: 0
       REPL Interface: 0
@@ -86,7 +86,7 @@ submissions:
       Fundamental Ruby & Style: 0
       Enumerable & Collections: 0
   Tan Doan & Andy Mention & Marc Garreau:
-    repository:
+    repository: git@github.com:MarcGarreau/turing_event_reporter.git
     notes: ""
     evaluation:
       Functional Expectations: 0
