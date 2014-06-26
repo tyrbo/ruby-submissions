@@ -78,17 +78,21 @@ submissions:
         Needs output folder to be made by hand
         Extra .csv on output files
         Failed story D & E
-        Tests don not run
+        Tests do not run
   Andrew Watkins & Horacio Chavez:
     repository: git@github.com:121watts/event-reporter.git
     notes: "no need for underscores in search fields i.e. first_name is simply first name"
     evaluation:
-      Functional Expectations: 0
-      REPL Interface: 0
-      Test-Driven Development: 0
-      Breaking Logic into Components: 0
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
+      Functional Expectations: 2
+      REPL Interface: 3.1
+      Test-Driven Development: 3
+      Breaking Logic into Components: 3
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 3.1
+      Notes:
+        Queue print by only uses last name
+        Queue does not output CSV
+        Loads up the data at startup without Load
   Tan Doan & Andy Mention & Marc Garreau:
     repository: git@github.com:MarcGarreau/turing_event_reporter.git
     notes: ""
