@@ -60,8 +60,8 @@ submissions:
       Fundamental Ruby & Style: 0
       Enumerable & Collections: 0
   Jessica Goulding & Eric Fransen:
-    repository:
-    notes: ""
+    repository: https://github.com/JessicaG/event_reporter
+    notes: "Gems needed are terminal-table and colorize"
     evaluation:
       Functional Expectations: 0
       REPL Interface: 0
