@@ -98,12 +98,12 @@ submissions:
     peer_evaluation:
       notes: ""
       rubric:
-        Functional Expectations: 0
-        Test-Driven Development: 0
-        Encapsulation / Components: 0
-        Fundamental Ruby & Style: 0
-        Enumerable & Collections: 0
-        Code Sanitation: 0
+        Functional Expectations: 3
+        Test-Driven Development: 3
+        Encapsulation / Components: 3.5
+        Fundamental Ruby & Style: 2.5
+        Enumerable & Collections: 3
+        Code Sanitation: 4
   Alan Smith & Watts Watkins:
     repository: https://github.com/121watts/sales_engine.git
     setup_notes: ""
