@@ -12,14 +12,14 @@ submissions:
         Enumerable & Collections: 0
         Code Sanitation: 0
     peer_evaluation:
-      notes: ""
+      notes: "extension invoice spec test passes 1 of 2, but AWESOME!(so neat and clean) "
       rubric:
-        Functional Expectations: 0
-        Test-Driven Development: 0
-        Encapsulation / Components: 0
-        Fundamental Ruby & Style: 0
-        Enumerable & Collections: 0
-        Code Sanitation: 0
+        Functional Expectations: 3.5
+        Test-Driven Development: 4
+        Encapsulation / Components: 4
+        Fundamental Ruby & Style: 4
+        Enumerable & Collections: 4
+        Code Sanitation: 4
   Allison Larson & Horacio Chavez:
     repository: https://github.com/H6C5/sales_engine
     setup_notes: ""
