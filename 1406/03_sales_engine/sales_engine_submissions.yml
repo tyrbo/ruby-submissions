@@ -42,7 +42,7 @@ submissions:
         Enumerable & Collections: 0
         Code Sanitation: 0
   Corey Davis & Marc Garreau:
-    repository:
+    repository: git@github.com:MarcGarreau/sales_engine.git
     setup_notes: ""
     instructor_evaluation:
       notes: ""
