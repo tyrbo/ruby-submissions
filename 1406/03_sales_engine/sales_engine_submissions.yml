@@ -1,6 +1,6 @@
 submissions:
   Jonmichael Chambers & Eric Fransen:
-    repository:
+    repository: https://github.com/tyrbo/sales_engine
     setup_notes: ""
     instructor_evaluation:
       notes: ""
@@ -21,7 +21,7 @@ submissions:
         Enumerable & Collections: 0
         Code Sanitation: 0
   Allison Larson & Horacio Chavez:
-    repository:
+    repository: https://github.com/H6C5/sales_engine
     setup_notes: ""
     instructor_evaluation:
       notes: ""
@@ -42,7 +42,7 @@ submissions:
         Enumerable & Collections: 0
         Code Sanitation: 0
   Corey Davis & Marc Garreau:
-    repository:
+    repository: git@github.com:MarcGarreau/sales_engine.git
     setup_notes: ""
     instructor_evaluation:
       notes: ""
@@ -63,10 +63,10 @@ submissions:
         Enumerable & Collections: 0
         Code Sanitation: 0
   Robert Gu & Jessica Goulding:
-    repository:
-    setup_notes: ""
+    repository: https://github.com/JessicaG/sales_engine
+    setup_notes: "standard"
     instructor_evaluation:
-      notes: ""
+      notes: "did customer extension for most revenue and most items, did not complete invoices."
       rubric:
         Functional Expectations: 0
         Test-Driven Development: 0
@@ -84,7 +84,7 @@ submissions:
         Enumerable & Collections: 0
         Code Sanitation: 0
   Chad Brading & Gustavo Villagrana & Hilary Denton:
-    repository:
+    repository: git@github.com:Hilaryous/sales_engine.git
     setup_notes: ""
     instructor_evaluation:
       notes: ""
@@ -104,8 +104,8 @@ submissions:
         Fundamental Ruby & Style: 0
         Enumerable & Collections: 0
         Code Sanitation: 0
-  Alan Smith & Andrew Watkins:
-    repository:
+  Alan Smith & Watts Watkins:
+    repository: https://github.com/121watts/sales_engine.git
     setup_notes: ""
     instructor_evaluation:
       notes: "Well built and designed code, just needs the rest of the features"
@@ -126,7 +126,7 @@ submissions:
         Enumerable & Collections: 0
         Code Sanitation: 0
   Emily Davis & Cara Dennis:
-    repository:
+    repository: git@github.com:objectParadigm/sales_engine_davis_dennis.git
     setup_notes: ""
     instructor_evaluation:
       notes: ""
@@ -168,8 +168,8 @@ submissions:
         Enumerable & Collections: 0
         Code Sanitation: 0
   Will Faurot & Andy Mention:
-    repository:
-    setup_notes: ""
+    repository: https://github.com/wfro/sales_engine
+    setup_notes: "We did a few extensions. Details are in README"
     instructor_evaluation:
       notes: ""
       rubric:
