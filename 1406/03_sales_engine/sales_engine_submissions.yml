@@ -129,14 +129,14 @@ submissions:
     repository: git@github.com:emilyadavis303/sales_engine_davis_dennis.git
     setup_notes: ""
     instructor_evaluation:
-      notes: ""
+      notes: "Missing some features, but did a good job executing tests and implementation."
       rubric:
-        Functional Expectations: 0
-        Test-Driven Development: 0
-        Encapsulation / Components: 0
-        Fundamental Ruby & Style: 0
-        Enumerable & Collections: 0
-        Code Sanitation: 0
+        Functional Expectations: 2
+        Test-Driven Development: 3
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 3
+        Enumerable & Collections: 3
+        Code Sanitation: 4
     peer_evaluation:
       notes: ""
       rubric:
