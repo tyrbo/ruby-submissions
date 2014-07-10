@@ -43,7 +43,7 @@ submissions:
         Code Sanitation: 0
   Corey Davis & Marc Garreau:
     repository: git@github.com:MarcGarreau/sales_engine.git
-    setup_notes: ""
+    setup_notes: "Completed 3/4 customer extensions"
     instructor_evaluation:
       notes: ""
       rubric:
@@ -126,7 +126,7 @@ submissions:
         Enumerable & Collections: 0
         Code Sanitation: 0
   Emily Davis & Cara Dennis:
-    repository: git@github.com:objectParadigm/sales_engine_davis_dennis.git
+    repository: git@github.com:emilyadavis303/sales_engine_davis_dennis.git
     setup_notes: ""
     instructor_evaluation:
       notes: ""
@@ -147,7 +147,7 @@ submissions:
         Enumerable & Collections: 0
         Code Sanitation: 0
   Tim Proctor & Tan Doan:
-    repository:
+    repository: https://github.com/tdoan87/sales_engine.git
     setup_notes: ""
     instructor_evaluation:
       notes: ""
