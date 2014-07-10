@@ -63,10 +63,10 @@ submissions:
         Enumerable & Collections: 0
         Code Sanitation: 0
   Robert Gu & Jessica Goulding:
-    repository:
-    setup_notes: ""
+    repository: https://github.com/JessicaG/sales_engine
+    setup_notes: "standard"
     instructor_evaluation:
-      notes: ""
+      notes: "did customer extension for most revenue and most items, did not complete invoices."
       rubric:
         Functional Expectations: 0
         Test-Driven Development: 0
