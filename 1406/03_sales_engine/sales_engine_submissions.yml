@@ -84,7 +84,7 @@ submissions:
         Enumerable & Collections: 0
         Code Sanitation: 0
   Chad Brading & Gustavo Villagrana & Hilary Denton:
-    repository:
+    repository: git@github.com:Hilaryous/sales_engine.git
     setup_notes: ""
     instructor_evaluation:
       notes: ""
