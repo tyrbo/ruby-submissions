@@ -147,7 +147,7 @@ submissions:
         Enumerable & Collections: 0
         Code Sanitation: 0
   Tim Proctor & Tan Doan:
-    repository:
+    repository: https://github.com/tdoan87/sales_engine.git
     setup_notes: ""
     instructor_evaluation:
       notes: ""
