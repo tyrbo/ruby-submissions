@@ -168,8 +168,8 @@ submissions:
         Enumerable & Collections: 0
         Code Sanitation: 0
   Will Faurot & Andy Mention:
-    repository:
-    setup_notes: ""
+    repository: https://github.com/wfro/sales_engine
+    setup_notes: "We did a few extensions. Details are in README"
     instructor_evaluation:
       notes: ""
       rubric:
