@@ -108,14 +108,14 @@ submissions:
     repository:
     setup_notes: ""
     instructor_evaluation:
-      notes: ""
+      notes: "Well built and designed code, just needs the rest of the features"
       rubric:
-        Functional Expectations: 0
-        Test-Driven Development: 0
-        Encapsulation / Components: 0
-        Fundamental Ruby & Style: 0
-        Enumerable & Collections: 0
-        Code Sanitation: 0
+        Functional Expectations: 2
+        Test-Driven Development: 4
+        Encapsulation / Components: 4
+        Fundamental Ruby & Style: 3
+        Enumerable & Collections: 3
+        Code Sanitation: 3
     peer_evaluation:
       notes: ""
       rubric:
