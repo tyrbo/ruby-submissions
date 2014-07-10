@@ -138,14 +138,16 @@ submissions:
         Enumerable & Collections: 3
         Code Sanitation: 4
     peer_evaluation:
-      notes: ""
+      notes: "Some business logic was missing.
+              Significant number of law of demeter violations.
+              Room for some refactoring. Some unnecessary variables."
       rubric:
-        Functional Expectations: 0
-        Test-Driven Development: 0
-        Encapsulation / Components: 0
-        Fundamental Ruby & Style: 0
-        Enumerable & Collections: 0
-        Code Sanitation: 0
+        Functional Expectations: 2
+        Test-Driven Development: 3
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 2.5
+        Enumerable & Collections: 3
+        Code Sanitation: 4
   Tim Proctor & Tan Doan:
     repository: https://github.com/tdoan87/sales_engine.git
     setup_notes: ""
