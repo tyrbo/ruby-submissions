@@ -54,14 +54,15 @@ submissions:
         Enumerable & Collections: 0
         Code Sanitation: 0
     peer_evaluation:
-      notes: ""
+      notes: "Code was very clean, missing all tests on Business Intelligence. Minitest also taking a very long time to load, from
+      using full CSV. Not much actual refactoring needed. "
       rubric:
-        Functional Expectations: 0
-        Test-Driven Development: 0
-        Encapsulation / Components: 0
-        Fundamental Ruby & Style: 0
-        Enumerable & Collections: 0
-        Code Sanitation: 0
+        Functional Expectations: 4
+        Test-Driven Development: 2
+        Encapsulation / Components: 3.5
+        Fundamental Ruby & Style: 4
+        Enumerable & Collections: 4
+        Code Sanitation: 4
   Robert Gu & Jessica Goulding:
     repository: https://github.com/JessicaG/sales_engine
     setup_notes: "did customer extension for most revenue and most items, did not complete invoices."
