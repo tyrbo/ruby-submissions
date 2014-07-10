@@ -183,11 +183,11 @@ submissions:
         Enumerable & Collections: 0
         Code Sanitation: 0
     peer_evaluation:
-      notes: ""
+      notes: "Great understanding of enumerables, TDD and breaking things into smaller pieces.  Breaks LOD."
       rubric:
-        Functional Expectations: 0
-        Test-Driven Development: 0
-        Encapsulation / Components: 0
-        Fundamental Ruby & Style: 0
-        Enumerable & Collections: 0
-        Code Sanitation: 0
+        Functional Expectations: 3.5
+        Test-Driven Development: 4
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 3.5
+        Enumerable & Collections: 4
+        Code Sanitation: 4
