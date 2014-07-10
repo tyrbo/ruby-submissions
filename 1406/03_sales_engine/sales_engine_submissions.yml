@@ -64,16 +64,16 @@ submissions:
         Code Sanitation: 0
   Robert Gu & Jessica Goulding:
     repository: https://github.com/JessicaG/sales_engine
-    setup_notes: "standard"
+    setup_notes: "did customer extension for most revenue and most items, did not complete invoices."
     instructor_evaluation:
-      notes: "did customer extension for most revenue and most items, did not complete invoices."
+      notes: "Good execution of implementation and tests, missing adding invoices, shows growing comfort with Ruby + processes."
       rubric:
-        Functional Expectations: 0
-        Test-Driven Development: 0
-        Encapsulation / Components: 0
-        Fundamental Ruby & Style: 0
-        Enumerable & Collections: 0
-        Code Sanitation: 0
+        Functional Expectations: 2
+        Test-Driven Development: 3
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 3
+        Enumerable & Collections: 3
+        Code Sanitation: 4
     peer_evaluation:
       notes: ""
       rubric:
