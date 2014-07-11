@@ -33,14 +33,14 @@ submissions:
         Enumerable & Collections: 0
         Code Sanitation: 0
     peer_evaluation:
-      notes: ""
+      notes: "Spec harness incomplete, and some test failing for TDD. Great job using enumerables for the right situation."
       rubric:
-        Functional Expectations: 0
-        Test-Driven Development: 0
-        Encapsulation / Components: 0
-        Fundamental Ruby & Style: 0
-        Enumerable & Collections: 0
-        Code Sanitation: 0
+        Functional Expectations: 2
+        Test-Driven Development: 2.5
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 3
+        Enumerable & Collections: 4
+        Code Sanitation: 4
   Corey Davis & Marc Garreau:
     repository: git@github.com:MarcGarreau/sales_engine.git
     setup_notes: "Completed 3/4 customer extensions"
