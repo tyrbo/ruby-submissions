@@ -5,14 +5,15 @@ submissions:
     repository: https://github.com/tyrbo/sales_engine
     setup_notes: ""
     instructor_evaluation:
-      notes: ""
+      notes: "Good grasp of ruby style and methods; would like to have seen higher-level integration test.
+              Spec harness produced one error when Rachel ran tests but no errors on Jon's machine."
       rubric:
-        Functional Expectations: 0
-        Test-Driven Development: 0
-        Encapsulation / Components: 0
-        Fundamental Ruby & Style: 0
-        Enumerable & Collections: 0
-        Code Sanitation: 0
+        Functional Expectations: 4
+        Test-Driven Development: 3
+        Encapsulation / Components: 3.5
+        Fundamental Ruby & Style: 3.5
+        Enumerable & Collections: 4
+        Code Sanitation: 4
     peer_evaluation:
       notes: "extension invoice spec test passes 1 of 2, but AWESOME!(so neat and clean) "
       rubric:
@@ -28,12 +29,12 @@ submissions:
     instructor_evaluation:
       notes: ""
       rubric:
-        Functional Expectations: 0
-        Test-Driven Development: 0
-        Encapsulation / Components: 0
-        Fundamental Ruby & Style: 0
-        Enumerable & Collections: 0
-        Code Sanitation: 0
+        Functional Expectations: 2
+        Test-Driven Development: 2.5
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 2.5
+        Enumerable & Collections: 3
+        Code Sanitation: 4
     peer_evaluation:
       notes: "Spec harness incomplete, and some test failing for TDD. Great job using enumerables for the right situation."
       rubric:
@@ -213,14 +214,15 @@ submissions:
     repository: https://github.com/tdoan87/sales_engine.git
     setup_notes: ""
     instructor_evaluation:
-      notes: ""
+      notes: "Well-written tests; need fixtures to avoid ridiculously long
+              time for testing. "
       rubric:
-        Functional Expectations: 0
-        Test-Driven Development: 0
-        Encapsulation / Components: 0
-        Fundamental Ruby & Style: 0
-        Enumerable & Collections: 0
-        Code Sanitation: 0
+        Functional Expectations: 3
+        Test-Driven Development: 3
+        Encapsulation / Components: 4
+        Fundamental Ruby & Style: 3.5
+        Enumerable & Collections: 3
+        Code Sanitation: 4
     peer_evaluation:
       notes: ""
       rubric:
