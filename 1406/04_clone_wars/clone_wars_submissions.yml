@@ -2,7 +2,7 @@
 # $ ruby -rpp -ryaml -e 'pp YAML.load File.read("1406/04_clone_wars/clone_wars_submissions.yml")
 submissions:
   Chad Brading, Gustavo Villagrana, Hilary Denton:
-    repository: 
+    repository: git@github.com:GusVilla303/Clone-Wars.git
     setup_notes: ""
     instructor_evaluation:
       notes: ""
