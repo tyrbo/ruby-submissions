@@ -35,14 +35,18 @@ submissions:
         Sinatra / Web and Business Logic: 3
         View Layer: 2
     peer_evaluation:
-      notes: ""
+      notes: "It would have been nice to see categories separated into their own table, so they could be linked up by id.
+              Having to manually type the category name when adding a menu item leaves a lot of potential for typos.
+              Would have been nice to see some unit tests.
+              Contacting and applying both send mail. Maybe there's room to extract out the mailing functionality into a Mailer class?
+              Not comfortable with the MenuDB.new logic in the view. Would have been cool to see a helper used or maybe locals passed in instead."
       rubric:
-        Functional Expectations: 0
-        Test-Driven Development: 0
-        Encapsulation / Components: 0
-        Fundamental Ruby & Style: 0
-        Sinatra / Web and Business Logic: 0
-        View Layer: 0
+        Functional Expectations: 4
+        Test-Driven Development: 3
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 3
+        Sinatra / Web and Business Logic: 4
+        View Layer: 3
   Andy Mention, Emily Davis:
     repository: git@github.com:AndyDangerous/lodojimmys.git
     setup_notes: ""
@@ -107,17 +111,17 @@ submissions:
         Sinatra / Web and Business Logic: 0
         View Layer: 0
   Tim Proctor, Tan Doan, Will Faurot: 
-    repository: https://github.com/timproctor/clone_wars.git
-    setup_notes: ""
-    instructor_evaluation:
-      notes: ""
-      rubric:
-        Functional Expectations: 0
-        Test-Driven Development: 0
-        Encapsulation / Components: 0
-        Fundamental Ruby & Style: 0
-        Sinatra / Web and Business Logic: 0
-        View Layer: 0
+  repository: https://github.com/timproctor/clone_wars.git
+  setup_notes: ""
+  instructor_evaluation:
+    notes: ""
+    rubric:
+      Functional Expectations: 0
+      Test-Driven Development: 0
+      Encapsulation / Components: 0
+      Fundamental Ruby & Style: 0
+      Sinatra / Web and Business Logic: 0
+      View Layer: 0
     peer_evaluation:
       notes: ""
       rubric:
