@@ -23,8 +23,8 @@ submissions:
         Sinatra / Web and Business Logic: 0
         View Layer: 0
   Corey Davis, Marc Garreau, Robert Gu:
-    repository: 
-    setup_notes: ""
+    repository: git@github.com:MarcGarreau/clonewars_uncubed.git
+    setup_notes: "run bundle install to pull dependencies, then run bundle exec to rack up"
     instructor_evaluation:
       notes: ""
       rubric:
