@@ -54,8 +54,7 @@ submissions:
         Enumerable & Collections: 0
         Code Sanitation: 0
     peer_evaluation:
-      notes: "Code was very clean, missing all tests on Business Intelligence. Minitest also taking a very long time to load, from
-      using full CSV. Not much actual refactoring needed. "
+      notes: "Code was very clean, missing all tests on Business Intelligence. Minitest also taking a very long time to load, from using full CSV. Not much actual refactoring needed. "
       rubric:
         Functional Expectations: 4
         Test-Driven Development: 2
