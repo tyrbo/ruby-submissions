@@ -86,8 +86,8 @@ submissions:
         Sinatra / Web and Business Logic: 0
         View Layer: 0
   Andrew Watkins, Allison Larson, Horacio Chavez:
-    repository: 
-    setup_notes: ""
+    repository: https://github.com/allisonlarson/clone_wars.git
+    setup_notes: "clone of http://playersclothing.com/"
     instructor_evaluation:
       notes: ""
       rubric:
