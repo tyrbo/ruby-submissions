@@ -7,12 +7,12 @@ submissions:
     instructor_evaluation:
       notes: ""
       rubric:
-        Functional Expectations: 0
-        Test-Driven Development: 0
-        Encapsulation / Components: 0
-        Fundamental Ruby & Style: 0
-        Sinatra / Web and Business Logic: 0
-        View Layer: 0
+        Functional Expectations: 2.5
+        Test-Driven Development: 1.5
+        Encapsulation / Components: 2
+        Fundamental Ruby & Style: 2
+        Sinatra / Web and Business Logic: 3
+        View Layer: 4
     peer_evaluation:
       notes: ""
       rubric:
@@ -28,12 +28,12 @@ submissions:
     instructor_evaluation:
       notes: ""
       rubric:
-        Functional Expectations: 0
-        Test-Driven Development: 0
-        Encapsulation / Components: 0
-        Fundamental Ruby & Style: 0
-        Sinatra / Web and Business Logic: 0
-        View Layer: 0
+        Functional Expectations: 4
+        Test-Driven Development: 3
+        Encapsulation / Components: 2
+        Fundamental Ruby & Style: 3
+        Sinatra / Web and Business Logic: 3
+        View Layer: 2
     peer_evaluation:
       notes: ""
       rubric:
