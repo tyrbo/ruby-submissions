@@ -35,15 +35,13 @@ submissions:
         Sinatra / Web and Business Logic: 3
         View Layer: 2
     peer_evaluation:
-      notes: "It would have been nice to see categories separated into their own table, so they could be linked up by id.
-              Having to manually type the category name when adding a menu item leaves a lot of potential for typos.
-              Would have been nice to see some unit tests.
-              Contacting and applying both send mail. Maybe there's room to extract out the mailing functionality into a Mailer class?
-              Not comfortable with the MenuDB.new logic in the view. Would have been cool to see a helper used or maybe locals passed in instead."
+      notes: 'Would have been nice to see unit tests.
+              DatabaseRepository seems to know a lot. Maybe it would have been better to extract functionality out to the model it belongs to.
+              There is a ton of inline CSS and JavaScript that we feel could have been pulled out into separate css/js files.'
       rubric:
         Functional Expectations: 4
         Test-Driven Development: 3
-        Encapsulation / Components: 3
+        Encapsulation / Components: 2
         Fundamental Ruby & Style: 3
         Sinatra / Web and Business Logic: 4
         View Layer: 3
