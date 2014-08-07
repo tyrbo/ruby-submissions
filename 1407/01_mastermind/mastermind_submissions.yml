@@ -64,7 +64,7 @@ submissions:
       Breaking Logic into Components: 2.5
   Cara Dennis:
     repository: git@github.com:objectParadigm/master-octo-mind-wallhack.git
-    notes: "Pretty clean, nice code but the app did not work. Very polished REPL but since it is not fully working."
+    notes: "Pretty clean, nice code but the app did not work. Very polished REPL but it is not fully working."
     evaluation:
       Fundamental Ruby & Style: 2
       Enumerable & Collections: 3
