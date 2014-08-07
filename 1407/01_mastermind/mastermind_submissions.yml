@@ -72,14 +72,14 @@ submissions:
       REPL Interface: 2
       Breaking Logic into Components: 4
   Ian Anderson:
-    repository: 
-    notes: ""
+    repository: git@github.com:ianderse/battleship.git
+    notes: "Did two projects. Mastermind and Battleship. Both are working and are complete. Good level of effort."
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 2
+      Enumerable & Collections: 3
+      Test-Driven Development: 3
+      REPL Interface: 3
+      Breaking Logic into Components: 4
   Aaron Paul Wortham:
     repository: 
     notes: ""
