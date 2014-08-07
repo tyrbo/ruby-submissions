@@ -1,6 +1,6 @@
 submissions:
   Jim Sutton:
-    repository: 
+    repository: https://github.com/a6ftcruton/mastermind.git
     notes: ""
     evaluation:
       Fundamental Ruby & Style: 0
