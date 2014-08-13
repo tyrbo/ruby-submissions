@@ -1,49 +1,49 @@
 submissions:
   Jim Sutton:
-    repository: 
+    repository:
     notes: ""
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 2.5
+      Test-Driven Development: 2
+      REPL Interface: 4
+      Breaking Logic into Components: 3
   Kavita Sachdeva:
     repository: https://github.com/kavitasa/mastermind
     notes: ""
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 3-
+      Enumerable & Collections: 2
+      Test-Driven Development: 2-
+      REPL Interface: 3
+      Breaking Logic into Components: 2.5
   Glen Egbert:
-    repository: 
+    repository:
     notes: ""
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 3.5
+      Enumerable & Collections: 3.5
+      Test-Driven Development: 4
+      REPL Interface: 3.5
+      Breaking Logic into Components: 3
   Rolando Navarette:
-    repository: 
+    repository:
     notes: ""
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 2.5
+      Enumerable & Collections: 4
+      Test-Driven Development: 2.5
+      REPL Interface: 3.5
+      Breaking Logic into Components: 3
   Sara Simon:
-    repository: 
-    notes: ""
+    repository:
+    notes: "brainstormed things to test"
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 2.5
+      Enumerable & Collections: 2
+      Test-Driven Development: 2
+      REPL Interface: 3
+      Breaking Logic into Components: 1.5
   Luke Aiken:
     repository: git@github.com:lukeaiken/battleship.git
     notes: ""
@@ -53,8 +53,8 @@ submissions:
       Test-Driven Development: 2
       REPL Interface: 1
       Breaking Logic into Components: 4
-  Jessica Goulding: git@github.com:JessicaG/battleship.git
-    repository: 
+  Jessica Goulding:
+    repository: git@github.com:JessicaG/battleship.git
     notes: ""
     evaluation:
       Fundamental Ruby & Style: 1
@@ -81,7 +81,7 @@ submissions:
       REPL Interface: 3
       Breaking Logic into Components: 4
   Aaron Paul Wortham:
-    repository: 
+    repository:
     notes: ""
     evaluation:
       Fundamental Ruby & Style: 3
