@@ -10,7 +10,7 @@ submissions:
       Fundamental Ruby & Style: 0
       Enumerable & Collections: 0
   Kavita Sachdeva and Ian Andersen:
-    repository:
+    repository: git@github.com:ianderse/event_reporter.git
     notes: ""
     evaluation:
       Functional Expectations: 0
