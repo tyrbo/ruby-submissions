@@ -1,6 +1,6 @@
 submissions:
   Jim Sutton:
-    repository:
+    repository: https://github.com/a6ftcruton/mastermind.git
     notes: ""
     evaluation:
       Fundamental Ruby & Style: 3
@@ -27,7 +27,7 @@ submissions:
       REPL Interface: 3.5
       Breaking Logic into Components: 3
   Rolando Navarette:
-    repository:
+    repository: https://github.com/rNavarrete/mastermind
     notes: ""
     evaluation:
       Fundamental Ruby & Style: 2.5
