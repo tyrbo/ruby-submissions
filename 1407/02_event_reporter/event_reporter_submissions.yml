@@ -40,7 +40,7 @@ submissions:
       Fundamental Ruby & Style: 0
       Enumerable & Collections: 0
   Cara Dennis and Aaron Paul Wortham:
-    repository:
+    repository: git@github.com:objectParadigm/event-reporter.git
     notes: ""
     evaluation:
       Functional Expectations: 0
