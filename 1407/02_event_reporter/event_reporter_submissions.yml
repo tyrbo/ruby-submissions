@@ -37,14 +37,17 @@ submissions:
       Enumerable & Collections: 3
   Jessica Goulding and Rolando Navarette:
     repository:https://github.com/JessicaG/event_reporter_rj
-    notes: ""
+    notes: "Crashes during find w/o load and reloading CSV.
+            Good use of best-choice enumerables.
+            Decent separation of logic -- confusion with CLI and UserCommand class.
+            For Fundamental Ruby & Style -- looks mostly good, but app crashes because errors are not handled."
     evaluation:
-      Functional Expectations: 0
-      REPL Interface: 0
-      Test-Driven Development: 0
-      Breaking Logic into Components: 0
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
+      Functional Expectations: 2
+      REPL Interface: 4
+      Test-Driven Development: 3
+      Breaking Logic into Components: 3
+      Fundamental Ruby & Style: 2
+      Enumerable & Collections: 4
   Cara Dennis and Aaron Paul Wortham:
     repository: git@github.com:objectParadigm/event-reporter.git
     notes: "Some small deviations from the spec instructions.
