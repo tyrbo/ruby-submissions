@@ -21,14 +21,20 @@ submissions:
       Enumerable & Collections: 0
   Luke Aiken and Glen Egbert:
     repository: Luke: https://github.com/lukeaiken/event_reporter, Glen: https://github.com/glenegbert/mastermind.git
-    notes: ""
+    notes: "Some test cases execute properly.
+            Good implementation of fundamental finding, printing.
+            Doesn't handle some edge cases.
+            Tests don't run, needs better coverage.
+            Decomposition is good.
+            Ruby is overall strong, but tries to do too much in places.
+            Good use of enumerable methods."
     evaluation:
-      Functional Expectations: 0
-      REPL Interface: 0
-      Test-Driven Development: 0
-      Breaking Logic into Components: 0
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
+      Functional Expectations: 1
+      REPL Interface: 3
+      Test-Driven Development: 1.5
+      Breaking Logic into Components: 3
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 3
   Jessica Goulding and Rolando Navarette:
     repository:https://github.com/JessicaG/event_reporter_rj
     notes: ""
