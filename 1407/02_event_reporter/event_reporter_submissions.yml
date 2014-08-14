@@ -1,6 +1,6 @@
 submissions:
   Jim Sutton and Sara Simon:
-    repository:
+    repository: https://github.com/a6ftcruton/event_reporter.git
     notes: ""
     evaluation:
       Functional Expectations: 0
