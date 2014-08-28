@@ -1,0 +1,108 @@
+# NOTE: You can verify that you haven't broken the format with
+# $ ruby -rpp -ryaml -e 'pp YAML.load File.read("1406/03_sales_engine/sales_engine_submissions.yml")
+submissions:
+  Jim Sutton & Aaron Paul Wortham:
+    repository:
+    setup_notes: ""
+    instructor_evaluation:
+      notes: ""
+      rubric:
+        Functional Expectations: 0
+        Test-Driven Development: 0
+        Encapsulation / Components: 0
+        Fundamental Ruby & Style: 0
+        Enumerable & Collections: 0
+        Code Sanitation: 0
+    peer_evaluation:
+      notes: ""
+      rubric:
+        Functional Expectations: 0
+        Test-Driven Development: 0
+        Encapsulation / Components: 0
+        Fundamental Ruby & Style: 0
+        Enumerable & Collections: 0
+        Code Sanitation: 0
+  Cara Dennis & Luke Aiken:
+    repository:
+    setup_notes: ""
+    instructor_evaluation:
+      notes: ""
+      rubric:
+        Functional Expectations: 0
+        Test-Driven Development: 0
+        Encapsulation / Components: 0
+        Fundamental Ruby & Style: 0
+        Enumerable & Collections: 0
+        Code Sanitation: 0
+    peer_evaluation:
+      notes: ""
+      rubric:
+        Functional Expectations: 0
+        Test-Driven Development: 0
+        Encapsulation / Components: 0
+        Fundamental Ruby & Style: 0
+        Enumerable & Collections: 0
+        Code Sanitation: 0
+  Kavita Sachdeva & Sara Simon:
+    repository:
+    setup_notes: ""
+    instructor_evaluation:
+      notes: ""
+      rubric:
+        Functional Expectations: 0
+        Test-Driven Development: 0
+        Encapsulation / Components: 0
+        Fundamental Ruby & Style: 0
+        Enumerable & Collections: 0
+        Code Sanitation: 0
+    peer_evaluation:
+      notes: ""
+      rubric:
+        Functional Expectations: 0
+        Test-Driven Development: 0
+        Encapsulation / Components: 0
+        Fundamental Ruby & Style: 0
+        Enumerable & Collections: 0
+        Code Sanitation: 0
+  Rolando Navarrete & Ian Andersen:
+    repository:
+    setup_notes: ""
+    instructor_evaluation:
+      notes: ""
+      rubric:
+        Functional Expectations: 0
+        Test-Driven Development: 0
+        Encapsulation / Components: 0
+        Fundamental Ruby & Style: 0
+        Enumerable & Collections: 0
+        Code Sanitation: 0
+    peer_evaluation:
+      notes: ""
+      rubric:
+        Functional Expectations: 0
+        Test-Driven Development: 0
+        Encapsulation / Components: 0
+        Fundamental Ruby & Style: 0
+        Enumerable & Collections: 0
+        Code Sanitation: 0
+  Jessica Goulding & Glen Egbert:
+    repository:
+    setup_notes: ""
+    instructor_evaluation:
+      notes: ""
+      rubric:
+        Functional Expectations: 0
+        Test-Driven Development: 0
+        Encapsulation / Components: 0
+        Fundamental Ruby & Style: 0
+        Enumerable & Collections: 0
+        Code Sanitation: 0
+    peer_evaluation:
+      notes: ""
+      rubric:
+        Functional Expectations: 0
+        Test-Driven Development: 0
+        Encapsulation / Components: 0
+        Fundamental Ruby & Style: 0
+        Enumerable & Collections: 0
+        Code Sanitation: 0
