@@ -26,7 +26,7 @@ submissions:
       TDD: 0
       Usability: 0
   Emily Davis, Tim Proctor, Gustavo Villagrana, Robert Gu:
-    repository:
+    repository: git@github.com:BobGu/dinner_dash.git
     setup_notes: ""
     instructor_evaluation:
       notes: ""
