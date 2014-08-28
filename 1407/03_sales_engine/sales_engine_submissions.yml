@@ -56,14 +56,14 @@ submissions:
     repository:
     setup_notes: ""
     instructor_evaluation:
-      notes: ""
+      notes: "Conditional loaded of CSVs, use of abstracted parser, non-static directory were all good. Consider using modules to keep code DRY, additional objects to handle common tasks, additional methods for granular functionality and better stack traces"
       rubric:
-        Functional Expectations: 0
-        Test-Driven Development: 0
-        Encapsulation / Components: 0
-        Fundamental Ruby & Style: 0
-        Enumerable & Collections: 0
-        Code Sanitation: 0
+        Functional Expectations: 3
+        Test-Driven Development: 4
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 2.5
+        Enumerable & Collections: 3
+        Code Sanitation: 2
     peer_evaluation:
       notes: ""
       rubric:
@@ -77,14 +77,14 @@ submissions:
     repository: git@github.com:ianderse/sales_engine.git
     setup_notes: ""
     instructor_evaluation:
-      notes: ""
+      notes: "Consider using modules to keep code DRY; use of objects to specfic responsibilities was really good; clean short methods most of the time; confident use of Enumerable; functionality was broken out into clear methods"
       rubric:
-        Functional Expectations: 0
-        Test-Driven Development: 0
-        Encapsulation / Components: 0
-        Fundamental Ruby & Style: 0
-        Enumerable & Collections: 0
-        Code Sanitation: 0
+        Functional Expectations: 4
+        Test-Driven Development: 4
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 3.5
+        Enumerable & Collections: 4
+        Code Sanitation: 4
     peer_evaluation:
       notes: ""
       rubric:
