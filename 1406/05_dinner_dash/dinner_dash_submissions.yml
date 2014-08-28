@@ -2,7 +2,7 @@
 # $ ruby -rpp -ryaml -e 'pp YAML.load File.read("1406/04_clone_wars/clone_wars_submissions.yml")
 submissions:
   Andrew Watkins, Jonmichael Chambers, Marc Garreau, Chad Brading:
-    repository:
+    repository: https://github.com/marcgarreau/grubhub_v2
     setup_notes: ""
     instructor_evaluation:
       notes: ""
