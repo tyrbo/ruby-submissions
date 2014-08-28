@@ -5,14 +5,18 @@ submissions:
     repository:https://github.com/a6ftcruton/sales_engine.git
     setup_notes: ""
     instructor_evaluation:
-      notes: ""
+      notes: "Well tested, but missing some business logic. Tests are consistent and thorough. 
+              Excellent encapsulation and breaking lotic into components -- just not complete with business logic. 
+              Code is easy to read; structured well.
+              Well-chosen enumerables; one place where could have chained enumerables. Would like to see business logic to get 4.
+              No problems with line length or confusing methods/variable names."
       rubric:
-        Functional Expectations: 0
-        Test-Driven Development: 0
-        Encapsulation / Components: 0
-        Fundamental Ruby & Style: 0
-        Enumerable & Collections: 0
-        Code Sanitation: 0
+        Functional Expectations: 2
+        Test-Driven Development: 3.5
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 4
+        Enumerable & Collections: 3.5
+        Code Sanitation: 4
     peer_evaluation:
       notes: ""
       rubric:
