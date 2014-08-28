@@ -52,18 +52,23 @@ submissions:
         Fundamental Ruby & Style: 0
         Enumerable & Collections: 0
         Code Sanitation: 0
-  Kavita Sachdeva & Sara Simon: https://github.com/kavitasa/sales_engine
+ Kavita Sachdeva & Sara Simon: https://github.com/kavitasa/sales_engine
     repository:
     setup_notes: ""
     instructor_evaluation:
-      notes: "Conditional loaded of CSVs, use of abstracted parser, non-static directory were all good. Consider using modules to keep code DRY, additional objects to handle common tasks, additional methods for granular functionality and better stack traces"
+      notes: "Some business logic attempted, but failing tests in spec harness. 
+              Well-tested with both isolation and integration tests for current functionality.
+              Separation of concerns is present, but some logic is tightly coupled (merchant repository knowing about parser).
+              Evidence of refactoring (pulling finder methods into module), would like to have seen the same with parser.
+              Used appropriate enumerables for features implemented; some instances where enumerables (map + reduce) could be combined.
+              Some violations with rake sanitation, but most were similar issues in different files."
       rubric:
-        Functional Expectations: 3
+        Functional Expectations: 2
         Test-Driven Development: 4
         Encapsulation / Components: 3
-        Fundamental Ruby & Style: 2.5
+        Fundamental Ruby & Style: 3
         Enumerable & Collections: 3
-        Code Sanitation: 2
+        Code Sanitation: 3
     peer_evaluation:
       notes: ""
       rubric:
