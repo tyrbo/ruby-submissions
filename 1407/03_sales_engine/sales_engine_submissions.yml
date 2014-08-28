@@ -2,7 +2,7 @@
 # $ ruby -rpp -ryaml -e 'pp YAML.load File.read("1406/03_sales_engine/sales_engine_submissions.yml")
 submissions:
   Jim Sutton & Aaron Paul Wortham:
-    repository:
+    repository:https://github.com/a6ftcruton/sales_engine.git
     setup_notes: ""
     instructor_evaluation:
       notes: ""
