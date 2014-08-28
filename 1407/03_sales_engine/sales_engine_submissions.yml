@@ -30,14 +30,19 @@ submissions:
     repository: git@github.com:objectParadigm/sales-engine.git
     setup_notes: ""
     instructor_evaluation:
-      notes: ""
+      notes: "Some business logic implemented (9 out of 12), but some functionality missing. 7 failing tests when running spec harness.
+              High-level integration tests are present, but would like to see more isolation and smaller-level integration tests. 
+              Responsibilities are broken down, but some classes rely to heavily on others (repositories loading their own data).
+              Effort towards clarity and refactoring -- some confusingly-named variables, some long methods.
+              Good use of varied enumerables; some instances where enumerables were chained where one would have worked.
+              Code sanitation good -- method names, line length good. "
       rubric:
-        Functional Expectations: 0
-        Test-Driven Development: 0
-        Encapsulation / Components: 0
-        Fundamental Ruby & Style: 0
-        Enumerable & Collections: 0
-        Code Sanitation: 0
+        Functional Expectations: 2
+        Test-Driven Development: 2.5
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 3
+        Enumerable & Collections: 3.5
+        Code Sanitation: 4
     peer_evaluation:
       notes: ""
       rubric:
