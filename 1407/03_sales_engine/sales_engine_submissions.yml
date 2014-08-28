@@ -65,7 +65,7 @@ submissions:
         Enumerable & Collections: 0
         Code Sanitation: 0
   Rolando Navarrete & Ian Andersen:
-    repository:
+    repository: git@github.com:ianderse/sales_engine.git
     setup_notes: ""
     instructor_evaluation:
       notes: ""
