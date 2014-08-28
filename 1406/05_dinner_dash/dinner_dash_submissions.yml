@@ -7,45 +7,45 @@ submissions:
     instructor_evaluation:
       notes: ""
       rubric:
-        Functional Expectations: 0
-        Test-Driven Development: 0
-        Encapsulation / Components: 0
-        Fundamental Ruby & Style: 0
-        Sinatra / Web and Business Logic: 0
-        View Layer: 0
+        Feature Completeness: 0
+        Views: 0
+        Controllers: 0
+        Models: 0
+        TDD: 0
+        Usability: 0
   Horacio Chavez, Corey Davis, Tan Doan, Hilary Denton:
     repository:
     setup_notes: ""
     instructor_evaluation:
       notes: ""
-      rubric:
-        Functional Expectations: 0
-        Test-Driven Development: 0
-        Encapsulation / Components: 0
-        Fundamental Ruby & Style: 0
-        Sinatra / Web and Business Logic: 0
-        View Layer: 0
+    rubric:
+      Feature Completeness: 0
+      Views: 0
+      Controllers: 0
+      Models: 0
+      TDD: 0
+      Usability: 0
   Emily Davis, Tim Proctor, Gustavo Villagrana, Robert Gu:
     repository:
     setup_notes: ""
     instructor_evaluation:
       notes: ""
-      rubric:
-        Functional Expectations: 0
-        Test-Driven Development: 0
-        Encapsulation / Components: 0
-        Fundamental Ruby & Style: 0
-        Sinatra / Web and Business Logic: 0
-        View Layer: 0
+    rubric:
+      Feature Completeness: 0
+      Views: 0
+      Controllers: 0
+      Models: 0
+      TDD: 0
+      Usability: 0
   Allison Larson, Andy Mention, Alan Smith, Will Faurot, Eric Fransen:
     repository:
     setup_notes: ""
     instructor_evaluation:
       notes: ""
-      rubric:
-        Functional Expectations: 0
-        Test-Driven Development: 0
-        Encapsulation / Components: 0
-        Fundamental Ruby & Style: 0
-        Sinatra / Web and Business Logic: 0
-        View Layer: 0
+    rubric:
+      Feature Completeness: 0
+      Views: 0
+      Controllers: 0
+      Models: 0
+      TDD: 0
+      Usability: 0
