@@ -5,8 +5,8 @@ submissions:
     repository:https://github.com/a6ftcruton/sales_engine.git
     setup_notes: ""
     instructor_evaluation:
-      notes: "Well tested, but missing some business logic. Tests are consistent and thorough. 
-              Excellent encapsulation and breaking lotic into components -- just not complete with business logic. 
+      notes: "Well tested, but missing some business logic. Tests are consistent and thorough.
+              Excellent encapsulation and breaking lotic into components -- just not complete with business logic.
               Code is easy to read; structured well.
               Well-chosen enumerables; one place where could have chained enumerables. Would like to see business logic to get 4.
               No problems with line length or confusing methods/variable names."
@@ -31,7 +31,7 @@ submissions:
     setup_notes: ""
     instructor_evaluation:
       notes: "Some business logic implemented (9 out of 12), but some functionality missing. 7 failing tests when running spec harness.
-              High-level integration tests are present, but would like to see more isolation and smaller-level integration tests. 
+              High-level integration tests are present, but would like to see more isolation and smaller-level integration tests.
               Responsibilities are broken down, but some classes rely to heavily on others (repositories loading their own data).
               Effort towards clarity and refactoring -- some confusingly-named variables, some long methods.
               Good use of varied enumerables; some instances where enumerables were chained where one would have worked.
@@ -98,14 +98,14 @@ submissions:
     repository: https://github.com/JessicaG/sales_engine
     setup_notes: ""
     instructor_evaluation:
-      notes: ""
+      notes: "Conditional loaded of CSVs, use of abstracted parser, non-static directory were all good. Consider using modules to keep code DRY, additional objects to handle common tasks, additional methods for granular functionality and better stack traces"
       rubric:
-        Functional Expectations: 0
-        Test-Driven Development: 0
-        Encapsulation / Components: 0
-        Fundamental Ruby & Style: 0
-        Enumerable & Collections: 0
-        Code Sanitation: 0
+        Functional Expectations: 3
+        Test-Driven Development: 4
+        Encapsulation / Components: 3
+        Fundamental Ruby & Style: 2.5
+        Enumerable & Collections: 3
+        Code Sanitation: 2
     peer_evaluation:
       notes: ""
       rubric:
