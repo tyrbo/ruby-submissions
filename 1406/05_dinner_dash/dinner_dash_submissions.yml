@@ -38,14 +38,14 @@ submissions:
       TDD: 2.5
       Usability: 1.5
   Allison Larson, Andy Mention, Alan Smith, Will Faurot, Eric Fransen:
-    repository:
+    repository: git@github.com:ericfransen/dinner_dash.git
     setup_notes: ""
     instructor_evaluation:
       notes: ""
     rubric:
-      Feature Completeness: 0
-      Views: 0
-      Controllers: 0
-      Models: 0
-      TDD: 0
-      Usability: 0
+      Feature Completeness: 2.5
+      Views: 3
+      Controllers: 3
+      Models: 4
+      TDD: 4
+      Usability: 4
