@@ -23,7 +23,7 @@ submissions:
         Enumerable & Collections: 0
         Code Sanitation: 0
   Cara Dennis & Luke Aiken:
-    repository:
+    repository: git@github.com:objectParadigm/sales-engine.git
     setup_notes: ""
     instructor_evaluation:
       notes: ""
