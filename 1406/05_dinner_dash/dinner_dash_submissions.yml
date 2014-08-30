@@ -55,34 +55,34 @@ submissions:
           Unused routes
           most pages need aesthetic work
           the map doesn't show
-    rubric:
-      Feature Completeness: 1.5
-      Views: 3
-      Controllers: 3
-      Models: 3.5
-      TDD: 3
-      Usability: 2
+      rubric:
+        Feature Completeness: 1.5
+        Views: 3
+        Controllers: 3
+        Models: 3.5
+        TDD: 3
+        Usability: 2
   Emily Davis, Tim Proctor, Gustavo Villagrana, Robert Gu:
     repository: git@github.com:BobGu/dinner_dash.git
     setup_notes: ""
     instructor_evaluation:
       notes: ""
-    rubric:
-      Feature Completeness: 1
-      Views: 3
-      Controllers: 3.5
-      Models: 4
-      TDD: 2.5
-      Usability: 1.5
+      rubric:
+        Feature Completeness: 1
+        Views: 3
+        Controllers: 3.5
+        Models: 4
+        TDD: 2.5
+        Usability: 1.5
   Allison Larson, Andy Mention, Alan Smith, Will Faurot, Eric Fransen:
     repository: git@github.com:ericfransen/dinner_dash.git
     setup_notes: ""
     instructor_evaluation:
       notes: ""
-    rubric:
-      Feature Completeness: 2.5
-      Views: 3
-      Controllers: 3
-      Models: 4
-      TDD: 4
-      Usability: 4
+      rubric:
+        Feature Completeness: 2.5
+        Views: 3
+        Controllers: 3
+        Models: 4
+        TDD: 4
+        Usability: 4
