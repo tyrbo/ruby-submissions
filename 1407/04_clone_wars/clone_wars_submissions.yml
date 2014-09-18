@@ -1,0 +1,39 @@
+# NOTE: You can verify that you haven't broken the format with
+# $ ruby -rpp -ryaml -e 'pp YAML.load File.read("1406/04_clone_wars/clone_wars_submissions.yml")
+submissions:
+  "Cara Dennis & Jim Sutton & Kavita Sachdeva & Rolando Navarrete":
+    repository: ""
+    setup_notes: ""
+    instructor_evaluation:
+      notes: ""
+      rubric:
+        Functional Expectations: 0
+        Test-Driven Development: 0
+        Encapsulation / Components: 0
+        Fundamental Ruby & Style: 0
+        Sinatra / Web and Business Logic: 0
+        View Layer: 0
+  "Sara Simon & Ian Andersen & Glen Egbert":
+    repository: ""
+    setup_notes: ""
+    instructor_evaluation:
+      notes: ""
+      rubric:
+        Functional Expectations: 0
+        Test-Driven Development: 0
+        Encapsulation / Components: 0
+        Fundamental Ruby & Style: 0
+        Sinatra / Web and Business Logic: 0
+        View Layer: 0
+  "Jessica Goulding & Luke Aiken & Aaron Paul Wortham":
+    repository: ""
+    setup_notes: ""
+    instructor_evaluation:
+      notes: ""
+      rubric:
+        Functional Expectations: 0
+        Test-Driven Development: 0
+        Encapsulation / Components: 0
+        Fundamental Ruby & Style: 0
+        Sinatra / Web and Business Logic: 0
+        View Layer: 0
