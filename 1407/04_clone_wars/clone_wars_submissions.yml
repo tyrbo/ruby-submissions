@@ -2,7 +2,7 @@
 # $ ruby -rpp -ryaml -e 'pp YAML.load File.read("1406/04_clone_wars/clone_wars_submissions.yml")
 submissions:
   "Cara Dennis & Jim Sutton & Kavita Sachdeva & Rolando Navarrete":
-    repository: ""
+    repository: "git@github.com:objectParadigm/jimmys-urban-bar-and-grill.git"
     setup_notes: ""
     instructor_evaluation:
       notes: ""
