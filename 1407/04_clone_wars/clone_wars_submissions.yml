@@ -40,11 +40,36 @@ submissions:
     repository: "https://github.com/JessicaG/slice_works_clone"
     setup_notes: ""
     instructor_evaluation:
-      notes: ""
+      notes: "several routes that do not work (missing template, error pages).
+              content on pages well-tested; missing tests for user authentication and ability to edit.
+              started classes for menu and menu item, but not implemented.
+              would like to see controller not as responsible for executing DB commands and raw sql.
+              app crashed during execution, but code showed effort toward organization and refactoring.
+              web and business logic mixed, but used features of Sinatra (Rack::Session, setting variables based on ENV); used helpers to authenticate user
+              views contain minimal logic; make use of layout and partials; did not see built-in view helpers.
+              "
       rubric:
-        Functional Expectations: 0
-        Test-Driven Development: 0
-        Encapsulation / Components: 0
-        Fundamental Ruby & Style: 0
-        Sinatra / Web and Business Logic: 0
-        View Layer: 0
+        Functional Expectations: 1
+        Test-Driven Development: 2.5
+        Encapsulation / Components: 2
+        Fundamental Ruby & Style: 1.5
+        Sinatra / Web and Business Logic: 2.5
+        View Layer: 3.5
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
