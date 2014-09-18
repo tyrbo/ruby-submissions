@@ -14,7 +14,7 @@ submissions:
         Sinatra / Web and Business Logic: 0
         View Layer: 0
   "Sara Simon & Ian Andersen & Glen Egbert":
-    repository: ""
+    repository: "git@github.com:ianderse/clone_wars.git"
     setup_notes: ""
     instructor_evaluation:
       notes: ""
