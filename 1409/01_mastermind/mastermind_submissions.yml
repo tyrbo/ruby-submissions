@@ -14,13 +14,19 @@ submissions:
       Breaking Logic into Components: 3
   Herbert Joseph:
     repository: https://github.com/Copywright/mastermind
-    notes: "Don't kill me..."
+    notes: "Don't kill me...
+            Complex code with long methods, but saw logic ____.
+            Saw map and include?; used .each for generating color sequence (look into better choice enumerable).
+            Small, encapsulated classes had solid tests, but game_manager was difficult because of too much going on.
+            Game was pleasant to play, but did not always behave as expected.
+            Pulled out input, printer, color sequence, and guess checker into small, manageable classes; would like to see game manager separated into objects that perform certain responsibilities.
+            "
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 2
+      Enumerable & Collections: 2.5
+      Test-Driven Development: 2.5
+      REPL Interface: 2.5
+      Breaking Logic into Components: 2.5
   Sam Kuhlmann:
     repository: https://github.com/skuhlmann/turing_mastermind
     notes: ""
