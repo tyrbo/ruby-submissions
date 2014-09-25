@@ -47,12 +47,12 @@ Airlift
 
 TravelHome
   * Great work on the UX
-  * Signup aworks well
+  * Signup works well
   * Product
     * Completion: 3
     * Organization: 3
     * Progress: 3
-  * Technicalpu
+  * Technical
     * TDD: 3
     * Code Quality: 3? Setup code climate
     * UX: 4
