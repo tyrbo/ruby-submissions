@@ -54,14 +54,18 @@ submissions:
       REPL Interface: 4
       Breaking Logic into Components: 3
   Kate Lane:
-    repository:
-    notes: ""
+    repository: https://github.com/katelane/mastermind.git
+    notes: "Good naming conventions; shows effort toward organization and refactoring.
+            Saw each_with_index and count -- and chained together! :)
+            Well-tested with guess checker, but missing tests on game, board, and printer.
+            Couldn't find edge-cases to break REPL. Pleasant to use.
+            Able to pull board and game apart easily; would like to see case statements pulled out from within methods."
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 3
+      Test-Driven Development: 2
+      REPL Interface: 3
+      Breaking Logic into Components: 3
   Timothy Mee:
     repository: https://github.com/Tmee/MASTERMIND/tree/take_2
     notes: "and that's that."
