@@ -1,13 +1,17 @@
 submissions:
   Alex Jensen:
     repository: https://github.com/danajensen/mastermind
-    notes: ""
+    notes: "Shows strong effort toward organization. Some closely-coupled objects.
+            Good use of best-choice enumerables (collect, any? zip).
+            Well-tested in isolation and integration.
+            Integrated difficulty level in REPL. Clear to use.
+            Saw intent to break apart logical components, but some objects tied together that will make future iterations or changes difficult to implement."
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 3.5
+      Enumerable & Collections: 4
+      Test-Driven Development: 4
+      REPL Interface: 3.5
+      Breaking Logic into Components: 3
   Herbert Joseph:
     repository: https://github.com/Copywright/mastermind
     notes: "Don't kill me..."
