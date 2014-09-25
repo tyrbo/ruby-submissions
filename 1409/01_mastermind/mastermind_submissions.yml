@@ -29,13 +29,17 @@ submissions:
       Breaking Logic into Components: 2.5
   Sam Kuhlmann:
     repository: https://github.com/skuhlmann/turing_mastermind
-    notes: ""
+    notes: "Showed effort toward good organization and refactoring.
+            Saw use of each_with_index, map, count for enumerables.
+            Small classes well-tested, but missing tests for game logic.
+            Some rough edges in game play (not major features), but clear and pleasant to play otherwise.
+            Broke out responsibilities into small classes (timer, code generator, message printer, etc.), but game class could be smaller."
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 3
+      Test-Driven Development: 2.5
+      REPL Interface: 2.5
+      Breaking Logic into Components: 3
   Gregory Narajka:
     repository:
     notes: ""
