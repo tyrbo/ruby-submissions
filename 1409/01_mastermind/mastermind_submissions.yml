@@ -41,14 +41,18 @@ submissions:
       REPL Interface: 2.5
       Breaking Logic into Components: 3
   Gregory Narajka:
-    repository:
-    notes: ""
+    repository: https://github.com/gregnar/mastermind.git
+    notes: "Saw good naming conventions; some long methods with nested loops/case/until statements.
+            Saw map, each_with_index, count; check use of destructive .map! and chaining each_with_index and count together.
+            Good use of StringIO for testing input/output. Well-tested in isolation and integration.
+            Game is easy and pleasant to use; implemented turns and difficulty options.
+            Encapsulated responsibilities into separate objects (printer, checker, cli, game, sequence generator, color sequence), but would like to see less logic per method (especially with loops and case statements)."
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 2.5
+      Enumerable & Collections: 3
+      Test-Driven Development: 4
+      REPL Interface: 4
+      Breaking Logic into Components: 3
   Kate Lane:
     repository:
     notes: ""
