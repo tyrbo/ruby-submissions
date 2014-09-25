@@ -27,7 +27,7 @@ submissions:
       REPL Interface: 0
       Breaking Logic into Components: 0
   Gregory Narajka:
-    repository: 
+    repository:
     notes: ""
     evaluation:
       Fundamental Ruby & Style: 0
@@ -36,7 +36,7 @@ submissions:
       REPL Interface: 0
       Breaking Logic into Components: 0
   Kate Lane:
-    repository: 
+    repository:
     notes: ""
     evaluation:
       Fundamental Ruby & Style: 0
@@ -81,7 +81,7 @@ submissions:
       REPL Interface: 0
       Breaking Logic into Components: 0
   Adam Smith:
-    repository: 
+    repository:
     notes: ""
     evaluation:
       Fundamental Ruby & Style: 0
@@ -90,7 +90,7 @@ submissions:
       REPL Interface: 0
       Breaking Logic into Components: 0
   Christopher Bynum:
-    repository: 
+    repository:
     notes: ""
     evaluation:
       Fundamental Ruby & Style: 0
@@ -102,13 +102,13 @@ submissions:
     repository: https://github.com/ChasevanHekken/mastermind-game.git
     notes: ""
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 2.5
+      Enumerable & Collections: 2.5
+      Test-Driven Development: 2.5
+      REPL Interface: 3
+      Breaking Logic into Components: 2.5
   Victoria Harrod:
-    repository: 
+    repository:
     notes: ""
     evaluation:
       Fundamental Ruby & Style: 0
@@ -126,7 +126,7 @@ submissions:
       REPL Interface: 0
       Breaking Logic into Components: 0
   Travis Yoder:
-    repository: 
+    repository:
     notes: ""
     evaluation:
       Fundamental Ruby & Style: 0
@@ -135,7 +135,7 @@ submissions:
       REPL Interface: 0
       Breaking Logic into Components: 0
   Danny Glunz:
-    repository: 
+    repository:
     notes: ""
     evaluation:
       Fundamental Ruby & Style: 0
@@ -144,7 +144,7 @@ submissions:
       REPL Interface: 0
       Breaking Logic into Components: 0
   Chandra Carney:
-    repository: 
+    repository:
     notes: ""
     evaluation:
       Fundamental Ruby & Style: 0
