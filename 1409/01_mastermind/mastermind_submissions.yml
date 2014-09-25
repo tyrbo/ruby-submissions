@@ -27,7 +27,7 @@ submissions:
       REPL Interface: 0
       Breaking Logic into Components: 0
   Gregory Narajka:
-    repository: 
+    repository:
     notes: ""
     evaluation:
       Fundamental Ruby & Style: 0
@@ -36,7 +36,7 @@ submissions:
       REPL Interface: 0
       Breaking Logic into Components: 0
   Kate Lane:
-    repository: 
+    repository:
     notes: ""
     evaluation:
       Fundamental Ruby & Style: 0
@@ -55,13 +55,14 @@ submissions:
       Breaking Logic into Components: 0
   Konr Larson:
     repository: https://github.com/larsonkonr/mastermind.git
-    notes: ""
+    notes: "Game plays well. Good use of colors. Needs tests!!! Some weak spots
+            in enumerable usage and if/else vs unless vs case."
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 2
+      Enumerable & Collections: 2
+      Test-Driven Development: 1
+      REPL Interface: 4
+      Breaking Logic into Components: 3
   Zachary Routhier:
     repository: https://github.com/zRouth/Mastermind.git
     notes: ""
@@ -81,7 +82,7 @@ submissions:
       REPL Interface: 0
       Breaking Logic into Components: 0
   Adam Smith:
-    repository: 
+    repository:
     notes: ""
     evaluation:
       Fundamental Ruby & Style: 0
@@ -90,7 +91,7 @@ submissions:
       REPL Interface: 0
       Breaking Logic into Components: 0
   Christopher Bynum:
-    repository: 
+    repository:
     notes: ""
     evaluation:
       Fundamental Ruby & Style: 0
@@ -108,7 +109,7 @@ submissions:
       REPL Interface: 0
       Breaking Logic into Components: 0
   Victoria Harrod:
-    repository: 
+    repository:
     notes: ""
     evaluation:
       Fundamental Ruby & Style: 0
@@ -126,7 +127,7 @@ submissions:
       REPL Interface: 0
       Breaking Logic into Components: 0
   Travis Yoder:
-    repository: 
+    repository:
     notes: ""
     evaluation:
       Fundamental Ruby & Style: 0
@@ -135,7 +136,7 @@ submissions:
       REPL Interface: 0
       Breaking Logic into Components: 0
   Danny Glunz:
-    repository: 
+    repository:
     notes: ""
     evaluation:
       Fundamental Ruby & Style: 0
@@ -144,7 +145,7 @@ submissions:
       REPL Interface: 0
       Breaking Logic into Components: 0
   Chandra Carney:
-    repository: 
+    repository:
     notes: ""
     evaluation:
       Fundamental Ruby & Style: 0
