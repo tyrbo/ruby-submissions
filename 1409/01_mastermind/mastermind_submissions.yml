@@ -97,13 +97,14 @@ submissions:
       Breaking Logic into Components: 2
   Adam Smith:
     repository:
-    notes: ""
+    notes: "Doesn't quite follow spec for the game. Really no tests. Code works
+            but is difficult to follow/read. Work on breaking out components."
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 2
+      Enumerable & Collections: 2
+      Test-Driven Development: 1
+      REPL Interface: 3
+      Breaking Logic into Components: 2
   Christopher Bynum:
     repository:
     notes: ""
