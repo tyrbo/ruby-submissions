@@ -68,13 +68,19 @@ submissions:
       Breaking Logic into Components: 3
   Timothy Mee:
     repository: https://github.com/Tmee/MASTERMIND/tree/take_2
-    notes: "and that's that."
+    notes: "and that's that.
+            Some methods clean and single-responsibility; others need refactoring.
+            Saw use of each to iterate. Would like to see enumerables used in place of stacked if statements.
+            Attempt at testing to get user input but not implemented.
+            REPL easy to use; clear and easy to play.
+            Broke apart printer, CLI, and game (run), but Run class included a lot of responsibilities.  
+            "
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 2.5
+      Enumerable & Collections: 2
+      Test-Driven Development: 1
+      REPL Interface: 3
+      Breaking Logic into Components: 2
   Konr Larson:
     repository: https://github.com/larsonkonr/mastermind.git
     notes: "Game plays well. Good use of colors. Needs tests!!! Some weak spots
