@@ -45,8 +45,8 @@ submissions:
       REPL Interface: 0
       Breaking Logic into Components: 0
   Timothy Mee:
-    repository: 
-    notes: ""
+    repository: https://github.com/Tmee/MASTERMIND/tree/take_2
+    notes: "and that's that."
     evaluation:
       Fundamental Ruby & Style: 0
       Enumerable & Collections: 0
