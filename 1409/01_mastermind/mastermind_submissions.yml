@@ -65,22 +65,26 @@ submissions:
       Breaking Logic into Components: 3
   Zachary Routhier:
     repository: https://github.com/zRouth/Mastermind.git
-    notes: ""
+    notes: "Game plays well. Separate files out to subfolders (lib, test). Nine
+            tests total, they pass. Get rid of dead code/files."
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 3
+      Test-Driven Development: 1
+      REPL Interface: 3
+      Breaking Logic into Components: 3
   David Bayendor:
     repository: git@github.com:bayendor/mastermind.git
-    notes: ""
+    notes: "Game plays well. Decent job of testing (w/ 17 tests). Many good
+            unit tests, need some tests at a higher level that imitate the user.
+            Ruby uses small methods, simple code, solid Ruby API. Pull some
+            responsibilities like sequence generation out into their own classes."
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 3
+      Test-Driven Development: 2
+      REPL Interface: 3
+      Breaking Logic into Components: 2
   Adam Smith:
     repository:
     notes: ""
