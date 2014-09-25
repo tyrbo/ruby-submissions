@@ -1,22 +1,32 @@
 submissions:
   Alex Jensen:
     repository: https://github.com/danajensen/mastermind
-    notes: ""
+    notes: "Shows strong effort toward organization. Some closely-coupled objects.
+            Good use of best-choice enumerables (collect, any? zip).
+            Well-tested in isolation and integration.
+            Integrated difficulty level in REPL. Clear to use.
+            Saw intent to break apart logical components, but some objects tied together that will make future iterations or changes difficult to implement."
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 3.5
+      Enumerable & Collections: 4
+      Test-Driven Development: 4
+      REPL Interface: 3.5
+      Breaking Logic into Components: 3
   Herbert Joseph:
     repository: https://github.com/Copywright/mastermind
-    notes: "Don't kill me..."
+    notes: "Don't kill me...
+            Complex code with long methods, but saw logic ____.
+            Saw map and include?; used .each for generating color sequence (look into better choice enumerable).
+            Small, encapsulated classes had solid tests, but game_manager was difficult because of too much going on.
+            Game was pleasant to play, but did not always behave as expected.
+            Pulled out input, printer, color sequence, and guess checker into small, manageable classes; would like to see game manager separated into objects that perform certain responsibilities.
+            "
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 2
+      Enumerable & Collections: 2.5
+      Test-Driven Development: 2.5
+      REPL Interface: 2.5
+      Breaking Logic into Components: 2.5
   Sam Kuhlmann:
     repository: https://github.com/skuhlmann/turing_mastermind
     notes: ""
@@ -113,7 +123,7 @@ submissions:
       REPL Interface: 0
       Breaking Logic into Components: 0
   Victoria Harrod:
-    repository:
+    repository: https://github.com/VikiAnn/mastermind
     notes: ""
     evaluation:
       Fundamental Ruby & Style: 0
