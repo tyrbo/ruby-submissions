@@ -20,4 +20,4 @@ Gamers.
 
 * Twitch.tv is the most obvious candidate for oAuth integration. The majority of competitive streams are displayed on Twitch.tv, so the bulk of the target audience likely already have Twitch.tv accounts.
 * None of the data.gov APIs are very thrilling. I was planning on pulling data from the somewhat less public APIs from the League of Legends eSport site (as it's built with Angular and has JSON endpoints) in addition to the official Riot Games API (for item, champion, and other information in various languages).
-* I was planning on using Twilio, and if time permits, making use of the Ruboto gem to -perhaps- create an Android app to interact with the application.
+* I was planning on using Twilio, and if time permits, making use of the Ruboto gem to -perhaps- create an Android app to interact with the application. Oh, and maybe Pusher for real time messaging. I've rolled my own solution before using Redis, so it'd be nice to let someone else handle it.
