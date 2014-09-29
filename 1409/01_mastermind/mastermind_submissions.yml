@@ -73,7 +73,7 @@ submissions:
             Saw use of each to iterate. Would like to see enumerables used in place of stacked if statements.
             Attempt at testing to get user input but not implemented.
             REPL easy to use; clear and easy to play.
-            Broke apart printer, CLI, and game (run), but Run class included a lot of responsibilities.  
+            Broke apart printer, CLI, and game (run), but Run class included a lot of responsibilities.
             "
     evaluation:
       Fundamental Ruby & Style: 2.5
@@ -135,55 +135,67 @@ submissions:
       Breaking Logic into Components: 4
   Chase van Hekken:
     repository: https://github.com/ChasevanHekken/mastermind-game.git
-    notes: ""
+    notes: "Definitely shows a growing grasp of OO concepts and idiomatic Ruby.
+            had some long and methods that did multiple things.
+            Also had a few classes that had to reach a bit too deeply to keep the game logic together."
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 2.5
+      Enumerable & Collections: 2.5
+      Test-Driven Development: 2.5
+      REPL Interface: 3
+      Breaking Logic into Components: 2.5
   Victoria Harrod:
     repository: https://github.com/VikiAnn/mastermind
-    notes: ""
+    notes: "Had some components that were well thought out.
+            Some of the tests were superficial.
+            Developing a good grasp of OO concepts."
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 2.5
+      Enumerable & Collections: 3
+      Test-Driven Development: 2.5
+      REPL Interface: 3
+      Breaking Logic into Components: 2.5
   Kalah Cheek:
     repository: https://github.com/kcheek/mastermind.git
-    notes: ""
+    notes: "Was able to defend design decisions.
+            Limited test coverage."
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 2.5
+      Enumerable & Collections: 3
+      Test-Driven Development: 2
+      REPL Interface: 3
+      Breaking Logic into Components: 3
   Travis Yoder:
-    repository:
-    notes: ""
+    repository: "https://github.com/trayo/mastermind.git"
+    notes: "Some incomplete tests.
+            Several good attempts at trying to split up logical components into
+            individual classes."
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 3
+      Test-Driven Development: 2
+      REPL Interface: 3
+      Breaking Logic into Components: 3
   Danny Glunz:
     repository:
-    notes: ""
+    notes: "Completed both Mastermind and Battleship.
+            Lacking sufficient test coverage.
+            Excellent REPL interface; included game board.
+            Packed as a gem (`gem install mastermind-dglunz`)"
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 4
+      Enumerable & Collections: 4
+      Test-Driven Development: 2
+      REPL Interface: 4
+      Breaking Logic into Components: 3.5
   Chandra Carney:
     repository:
-    notes: ""
+    notes: "Lacking test coverage --- needs more tests.
+            Broke out several components into their own classes.
+            Good use of enumerable and Ruby style."
     evaluation:
-      Fundamental Ruby & Style: 0
-      Enumerable & Collections: 0
-      Test-Driven Development: 0
-      REPL Interface: 0
-      Breaking Logic into Components: 0
+      Fundamental Ruby & Style: 3
+      Enumerable & Collections: 3
+      Test-Driven Development: 2
+      REPL Interface: 3
+      Breaking Logic into Components: 2.5
