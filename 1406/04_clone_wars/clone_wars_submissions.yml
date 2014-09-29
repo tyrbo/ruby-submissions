@@ -35,16 +35,14 @@ submissions:
         Sinatra / Web and Business Logic: 3
         View Layer: 2
     peer_evaluation:
-      notes: 'Would have been nice to see unit tests.
-              DatabaseRepository seems to know a lot. Maybe it would have been better to extract functionality out to the model it belongs to.
-              There is a ton of inline CSS and JavaScript that we feel could have been pulled out into separate css/js files.'
+      notes: ""
       rubric:
-        Functional Expectations: 4
-        Test-Driven Development: 3
-        Encapsulation / Components: 2
-        Fundamental Ruby & Style: 3
-        Sinatra / Web and Business Logic: 4
-        View Layer: 3
+        Functional Expectations: 0
+        Test-Driven Development: 0
+        Encapsulation / Components: 0
+        Fundamental Ruby & Style: 0
+        Sinatra / Web and Business Logic: 0
+        View Layer: 0
   Andy Mention, Emily Davis:
     repository: git@github.com:AndyDangerous/lodojimmys.git
     setup_notes: ""
